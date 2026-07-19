@@ -1,0 +1,12 @@
+﻿metric,status,observed,control_mean,control_median,control_interval_2_5,control_interval_97_5,simulations_at_least_observed,empirical_upper_tail,holm_adjusted_upper_tail,simulations,seed
+anchor_incidences,primary,8,1.07676,1.0,0.0,3.0,0,9.99990000099999e-06,1.999980000199998e-05,100000,20260719
+pairwise_shared_anchor_links,primary,3,0.15721,0.0,0.0,1.0,1150,0.011509884901150989,0.011509884901150989,100000,20260719
+occupied_anchors,secondary,5,0.9321,1.0,0.0,3.0,0,9.99990000099999e-06,,100000,20260719
+nodes_with_anchor,secondary,6,1.04339,1.0,0.0,3.0,1,1.999980000199998e-05,,100000,20260719
+base12_palindromes,secondary,4,0.48735,0.0,0.0,2.0,41,0.0004199958000419996,,100000,20260719
+route_exact_decimal,route-sensitivity,1,0.03145,0.0,0.0,1.0,3118,0.03118968810311897,,100000,20260719
+route_exact_base12_text,route-sensitivity,2,0.03879,0.0,0.0,1.0,54,0.0005499945000549994,,100000,20260719
+route_first_base12_digit_sum,route-sensitivity,2,0.86215,1.0,0.0,3.0,20815,0.2081579184208158,,100000,20260719
+route_palindrome_center,route-sensitivity,1,0.03649,0.0,0.0,1.0,3589,0.035899641003589965,,100000,20260719
+route_palindrome_outer_frame,route-sensitivity,1,0.10788,0.0,0.0,1.0,10329,0.1032989670103299,,100000,20260719
+route_repeated_outer_sum,route-sensitivity,1,0.0,0.0,0.0,0.0,0,9.99990000099999e-06,,100000,20260719

@@ -1,0 +1,67 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\usepackage{microtype}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+
+\setmainfont{Arial}
+\newfontfamily\hebrewfont[Script=Hebrew]{Arial}
+\TeXXeTstate=1
+\newcommand{\hebrew}[1]{{\hebrewfont\beginR #1\endR}}
+\setlength{\emergencystretch}{1em}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue!50!black,
+  urlcolor=blue!50!black,
+  pdftitle={The Numerical Architecture of the Divine Names and the Canonical Tanakh},
+  pdfauthor={Joshua Cammack},
+  pdfsubject={Gematria, base-12 palindromes, and canonical structure},
+  pdfkeywords={gematria, base 12, divine names, Hebrew Bible, biblical numerology, palindromes}
+}
+
+\setlist{itemsep=0.25em, topsep=0.35em}
+\title{The Numerical Architecture of the Divine Names and the Canonical Tanakh\\
+\large Gematria, Base-12 Palindromes, and Canonical Structure}
+\author{Joshua Cammack}
+\date{July 2026}
+
+\begin{document}
+\maketitle
+\setcounter{tocdepth}{1}
+\tableofcontents
+\newpage
+
+\input{sections/00_abstract}
+\input{sections/01_introduction}
+\input{sections/02_mathematical_foundations}
+\input{sections/03_methodology}
+\input{sections/06_crosscluster_synthesis}
+\input{sections/07_canonical_triad}
+\input{sections/08_scroll_constant}
+\input{sections/09_figures}
+\input{sections/09a_testing_the_pattern}
+\input{sections/10_conclusion}
+\input{sections/11_references}
+
+\clearpage
+\appendix
+\section*{Technical Appendices}
+\addcontentsline{toc}{section}{Technical Appendices}
+
+The main paper has presented the argument in a reader-first form. The appendices preserve the complete inherited derivations, the principal supplemental findings, the formal layer taxonomy, and the matched-control study without interrupting the main line of thought. The repository preserves the complete machine-readable searches, enumerations, and non-hits behind those summaries.
+
+\input{sections/04_full_derivations}
+\input{sections/04a_expansion_findings}
+\input{sections/05_structural_taxonomy}
+\input{sections/05a_matched_controls}
+
+\end{document}

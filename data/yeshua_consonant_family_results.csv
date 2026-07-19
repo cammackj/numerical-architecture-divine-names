@@ -1,0 +1,4 @@
+﻿level,exact_282,total,proportion,notes
+surface_forms,20,7677,0.002605184316790413,Complete structurally matched control forms
+consonant_families,5,3583,0.0013954786491766676,Each sorted consonant multiset counted once
+families_excluding_yeshua_multiset,4,3582,0.0011166945840312675,All permutations of Yeshua's consonants removed

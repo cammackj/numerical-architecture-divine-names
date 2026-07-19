@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript using the metadata below. A DOI will be added with the first archival release."
+title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
+authors:
+  - family-names: Cammack
+    given-names: Joshua
+version: 0.9.0
+repository-code: "https://github.com/cammackj/numerical-architecture-divine-names"
+url: "https://github.com/cammackj/numerical-architecture-divine-names/blob/main/Numerical_Architecture_of_the_Divine_Names.pdf"
+keywords:
+  - gematria
+  - base 12
+  - divine names
+  - Hebrew Bible
+  - biblical numerology
+  - palindromes
+preferred-citation:
+  type: unpublished
+  authors:
+    - family-names: Cammack
+      given-names: Joshua
+  title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
+  year: 2026

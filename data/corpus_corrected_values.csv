@@ -1,0 +1,41 @@
+﻿index,name,corpus_layer,displayed_hebrew,analysis_hebrew,form_changed,standard_gematria,mispar_gadol,base12_standard,base12_mispar_gadol,decimal_collapse_standard,decimal_collapse_mispar_gadol,base12_collapse_standard,base12_collapse_mispar_gadol,base10_palindrome_any,base12_palindrome_any
+1,El,primary-biblical,אל,אל,no,31,31,27,27,4,4,9,9,no,no
+2,Eloah,primary-biblical,אלוה,אלוה,no,42,42,36,36,6,6,9,9,no,no
+3,Elohim,primary-biblical,אלהים,אלהים,no,86,646,72,45A,5,7,9,10,yes,no
+4,YHWH,primary-biblical,יהוה,יהוה,no,26,26,22,22,8,8,4,4,no,yes
+5,Adonai,primary-biblical,אדני,אדני,no,65,65,55,55,11,11,10,10,no,yes
+6,Shaddai,primary-biblical,שדי,שדי,no,314,314,222,222,8,8,6,6,no,yes
+7,Ehyeh Asher Ehyeh,primary-biblical,אהיה אשר אהיה,אהיה אשר אהיה,no,543,543,393,393,12,12,6,6,no,yes
+8,El Elyon,primary-biblical,אל עליון,אל עליון,no,197,847,145,5A7,8,10,10,4,no,no
+9,El Olam,primary-biblical,אל עולם,אל עולם,no,177,737,129,515,6,8,12,11,yes,yes
+10,El Roi,primary-biblical,אל ראי,אל ראי,no,242,242,182,182,8,8,11,11,yes,no
+11,El Gibbor,primary-biblical,אל גבור,אל גבור,no,242,242,182,182,8,8,11,11,yes,no
+12,El Yeshuati,primary-biblical,אל ישועתי,אל ישועתי,no,827,827,58B,58B,8,8,6,6,no,no
+13,Shekhinah,later-traditional,שכינה,שכינה,no,385,385,281,281,7,7,11,11,no,no
+14,HaMakom,later-traditional,המקום,המקום,no,191,751,13B,527,11,4,6,5,yes,no
+15,HaRachaman,later-traditional,הרחמן,הרחמן,no,303,953,213,675,6,8,6,9,yes,no
+16,HaKadosh Baruch Hu,later-traditional,הקדוש ברוך הוא,הקדוש ברוך הוא,no,655,1135,467,7A7,7,10,8,6,no,yes
+17,Ribbono Shel Olam,later-traditional,ריבונו של עולם,רבונו של עולם,yes,740,1300,518,904,11,4,5,4,no,no
+18,Yeshua,messianic-comparative,ישוע,ישוע,no,386,386,282,282,8,8,12,12,no,yes
+19,Immanuel,messianic-comparative,עמנואל,עמנו אל,yes,197,197,145,145,8,8,10,10,no,no
+20,Mashiach,messianic-comparative,משיח,משיח,no,358,358,25A,25A,7,7,8,8,no,no
+21,Sar Shalom,messianic-comparative,שר שלום,שר שלום,no,876,1436,610,9B8,3,5,7,10,no,no
+22,Adon,primary-biblical,אדון,אדון,no,61,711,51,4B3,7,9,6,9,no,no
+23,Elohei HaShamayim,primary-biblical,אלוהי השמים,אלהי השמים,yes,441,1001,309,6B5,9,2,12,4,yes,no
+24,Elohei HaAretz,primary-biblical,אלוהי הארץ,אלהי הארץ,yes,342,1152,246,800,9,9,12,8,no,no
+25,El Shaddai,primary-biblical,אל שדי,אל שדי,no,345,345,249,249,12,12,6,6,no,no
+26,El Kana,primary-biblical,אל קנא,אל קנא,no,182,182,132,132,11,11,6,6,no,no
+27,El De’ot,primary-biblical,אל דעות,אל דעות,no,511,511,367,367,7,7,7,7,no,no
+28,El Berit,foreign-deity-or-ambiguous,אל ברית,אל ברית,no,643,643,457,457,4,4,7,7,no,no
+29,El HaNe’eman,primary-biblical,אל הנאמן,האל הנאמן,yes,182,832,132,594,11,4,6,9,no,no
+30,El HaGadol,primary-biblical,אל הגדול,האל הגדול,yes,84,84,70,70,12,12,7,7,no,no
+32,El HaKavod,primary-biblical,אל הכבוד,אל הכבוד,no,68,68,58,58,5,5,4,4,no,no
+35,Elohei Avraham,primary-biblical,אלוהי אברהם,אלהי אברהם,yes,294,854,206,5B2,6,8,8,9,no,no
+36,Elohei Yitzchak,primary-biblical,אלוהי יצחק,אלהי יצחק,yes,254,254,192,192,11,11,12,12,no,no
+37,Elohei Yaakov,primary-biblical,אלוהי יעקב,אלהי יעקב,yes,228,228,170,170,12,12,8,8,no,no
+38,The 42-Letter Name,kabbalistic-formula,שם בן מ״ב,שם בן מ״ב,no,434,1644,302,B50,11,6,5,7,yes,no
+39,The 72Letter Name,kabbalistic-formula,"שם ע""ב","שם ע""ב",no,412,972,2A4,690,7,9,7,6,no,no
+40,AB,kabbalistic-expansion,אב,"ע""ב",yes,72,72,60,60,9,9,6,6,no,no
+41,SAG,kabbalistic-expansion,ס״ג,"ס""ג",yes,63,63,53,53,9,9,8,8,no,no
+42,MAH,kabbalistic-expansion,מ״ה,"מ""ה",yes,45,45,39,39,9,9,12,12,no,no
+43,BEN,kabbalistic-expansion,ב״ן,"ב""ן",yes,52,702,44,4A6,7,9,8,2,no,yes

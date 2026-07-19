@@ -1,0 +1,147 @@
+\section{From 929 to 6556: The Scroll Construction}
+
+This is the most constructed object in the paper, and for that reason I want its steps to be unusually transparent. It is not a literal divine name. It begins with the conventional chapter total 929, converts that value to base 12, and then applies a one-digit palindromic closure.
+
+\subsection{Construction from the Chapter Total}
+
+Under the chapter-counting convention now common in printed Tanakh editions, the total is 929. The 929 Project notes that this division arose in the late Middle Ages, is conventionally associated with Stephen Langton, and was later adopted in Jewish use.\cite{project929,verse_division} The number is therefore exact within a received chapter system, not an ancient division internal to the biblical text. The first mathematical step is:
+
+\[
+929_{10}=655_{12},
+\]
+
+because
+
+\[
+6(12^2)+5(12)+5=864+60+5=929.
+\]
+
+The decimal source value 929 is itself palindromic. Its base-12 form, 655, has the pattern $abb$: the last two digits are already equal. Appending the leading digit therefore gives the unique one-digit right extension that closes the string as a palindrome:
+
+\[
+655_{12}\xrightarrow{\text{one-digit palindromic closure}}6556_{12}.
+\]
+
+The two arrows in the full sequence do different work:
+
+\[
+929_{10}\xrightarrow{\text{base conversion}}655_{12}
+\xrightarrow{\text{palindromic extension}}6556_{12}.
+\]
+
+The second arrow is not another conversion. It is a defined closure operation in which one appended digit converts the $6\,5\,5$ pattern into the reversal-invariant string $6\,5\,5\,6$.
+
+\subsection{What the Canonical Label Means}
+
+Earlier drafts called the result a ``22-scroll constant.'' The historical basis for 22 is Josephus, who speaks of twenty-two sacred \emph{books} in \emph{Against Apion} 1.38--41.\cite{josephus22} He does not provide the detailed scroll arrangement implied by the later shorthand, while the standard modern Jewish enumeration is 24 books.\cite{bible_canon24} I therefore use \emph{scroll construction} for the mathematical object and treat its contact with 22 as a result of the collapse path, not as proof of one uniquely fixed ancient scroll count.
+
+\subsection{Exact Value and Symmetry}
+
+The decimal value of the completed base-12 string is
+
+\begin{align*}
+6556_{12}
+&=6(12^3)+5(12^2)+5(12)+6\\
+&=10368+720+60+6\\
+&=11154_{10}.
+\end{align*}
+
+Its palindrome status is exact:
+
+\[
+\operatorname{reverse}(6556)=6556.
+\]
+
+This is the strongest strict property of the completed construction. It links a decimal palindrome at the source, $929_{10}$, to a base-12 palindrome after conversion and one-digit closure.
+
+\subsection{Two Distinct Collapse Paths}
+
+Earlier wording assigned the construction directly to the 12-collapse cluster. That description combined two different operations.
+
+\paragraph{Base-12 notation-collapse.}
+Summing the displayed base-12 digit values gives
+
+\[
+6+5+5+6=22_{10},
+\]
+
+followed by
+
+\[
+2+2=4.
+\]
+
+Thus the notation-level path is
+
+\[
+6556_{12}\longrightarrow22_{10}\longrightarrow4.
+\]
+
+It passes through decimal 22 and terminates at 4 under the manuscript's collapse rule. It does not terminate at 12.
+
+\paragraph{Decimal-value collapse.}
+If the base-12 number is first converted to its decimal value, a separate path appears:
+
+\[
+6556_{12}=11154_{10}
+\longrightarrow1+1+1+5+4=12.
+\]
+
+The completed construction therefore has a legitimate 12 endpoint, but only through collapse of the converted decimal value. The manuscript must name this basis whenever the 12 result is used.
+
+\subsection{The Intermediate 22 and the Final 4}
+
+The notation-collapse's intermediate value, $22_{10}$, makes direct contact with the 22-letter alphabet count used in the model. It also reproduces the visible digit string in YHWH's base-12 form:
+
+\[
+\text{YHWH}=26_{10}=22_{12}.
+\]
+
+These two 22s are not numerically equal:
+
+\[
+22_{10}=1\mathrm{A}_{12},
+\qquad
+22_{12}=26_{10}.
+\]
+
+The alphabetic link is therefore exact at decimal 22, while the YHWH link is a cross-basis digit-string echo. Keeping those claims distinct makes the observation more precise, not less meaningful.
+
+The final collapse to 4 is also structurally relevant. At the interpretive level, it can be read against the four letters of the Tetragrammaton. The calculation itself establishes only the endpoint 4. The Tetragrammaton reading is a theological interpretation of that endpoint, but it is a natural one within the manuscript's identity framework and should be retained as such.
+
+The complete notation path can therefore be summarized as a three-stage structure:
+
+\begin{center}
+palindromic identity $\longrightarrow$ alphabetic 22 $\longrightarrow$ fourfold endpoint.
+\end{center}
+
+\subsection{Relations to the Divine-Name Corpus}
+
+The construction has two especially close contacts with audited rows.
+
+\paragraph{YHWH.}
+Both $22_{12}$ and $6556_{12}$ are base-12 palindromes. The former is an exact conversion of YHWH's standard gematria; the latter is a canonical-scale construction. This supports a micro/macro analogy, provided it is described as an analogy between palindromic signatures rather than an arithmetic derivation of one from the other.
+
+\medskip
+\paragraph{HaKadosh Baruch Hu.}
+The full article form computes to a standard value of $655_{10}$, while the chapter total gives $655_{12}$. These are different numbers that share the same displayed digit string. The chapter-derived $655_{12}$ then serves as the prefix of $6556_{12}$. This is a potentially important cross-basis echo, but the manuscript should not write $655_{10}=655_{12}$ or imply that the title generates the chapter total.
+
+\subsection{Evidential Status}
+
+The argument is clearest when its levels are summarized explicitly:
+
+\begin{description}[leftmargin=4.3cm,style=multiline]
+\item[Exact arithmetic] $929_{10}=655_{12}$ and $6556_{12}=11154_{10}$.
+\item[Exact symmetry] $929_{10}$ and $6556_{12}$ are palindromes in their stated bases.
+\item[Defined construction] Appending 6 is the one-digit palindromic closure of $655_{12}$.
+\item[Exact collapse] The notation path is $22_{10}\rightarrow4$; the decimal-value path is $11154\rightarrow12$.
+\item[Interpretation] The 22 evokes the alphabet, the visible 22 string echoes YHWH, and the 4 evokes the four-letter Name.
+\item[Historical basis] The 929 count uses the received medieval chapter division; the 22-unit reference is attested as a book count in Josephus.
+\item[Intentionality question] The arithmetic does not by itself establish deliberate encoding.
+\end{description}
+
+\subsection{Corrected Formulation}
+
+The scroll construction is a base-12 palindrome produced by a transparent closure operation on the base-12 form of 929. Its notation-collapse passes through decimal 22 and ends at 4; its converted decimal value collapses separately to 12. The passage through 22 and the final 4 remain meaningful features of the proposal, while the base labels and historical conventions remain visible.
+
+What remains is the observation I wanted to preserve: a compact constructed object that joins chapter-count conversion, palindromic closure, an alphabetic intermediate, a fourfold endpoint, and the separate exact decimal sum $1+1+1+5+4=12$. The construction should not be mistaken for something discovered ready-made in the chapter total, but neither should its final collapse to 4 be discarded as meaningless. The arithmetic is clear enough for the reader to decide how much weight the structure can bear.

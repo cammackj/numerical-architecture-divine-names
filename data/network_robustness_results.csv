@@ -1,0 +1,58 @@
+﻿scenario_type,omitted,metric,status,observed,control_mean,control_median,control_interval_2_5,control_interval_97_5,simulations_at_least_observed,empirical_upper_tail,holm_adjusted_upper_tail,simulations,seed
+baseline,none,anchor_incidences,robustness-primary,8,1.07676,1.0,0.0,3.0,0,9.99990000099999e-06,,100000,20260719
+baseline,none,pairwise_shared_anchor_links,robustness-primary,3,0.15721,0.0,0.0,1.0,1150,0.011509884901150989,,100000,20260719
+baseline,none,occupied_anchors,secondary,5,0.9321,1.0,0.0,3.0,0,9.99990000099999e-06,,100000,20260719
+baseline,none,nodes_with_anchor,secondary,6,1.04339,1.0,0.0,3.0,1,1.999980000199998e-05,,100000,20260719
+baseline,none,base12_palindromes,secondary,4,0.48735,0.0,0.0,2.0,41,0.0004199958000419996,,100000,20260719
+leave_one_node_out,YHWH,anchor_incidences,robustness-primary,7,0.87974,1.0,0.0,3.0,1,1.999980000199998e-05,0.00023999760002399976,100000,20260719
+leave_one_node_out,YHWH,pairwise_shared_anchor_links,robustness-primary,2,0.10162,0.0,0.0,1.0,743,0.007439925600743993,0.03719962800371997,100000,20260719
+leave_one_node_out,YHWH,occupied_anchors,secondary,5,0.78418,1.0,0.0,2.0,0,9.99990000099999e-06,,100000,20260719
+leave_one_node_out,YHWH,nodes_with_anchor,secondary,5,0.85337,1.0,0.0,3.0,12,0.00012999870001299986,,100000,20260719
+leave_one_node_out,YHWH,base12_palindromes,secondary,3,0.40506,0.0,0.0,2.0,479,0.004799952000479995,,100000,20260719
+leave_one_node_out,Yeshua,anchor_incidences,robustness-primary,5,0.87916,1.0,0.0,3.0,159,0.0015999840001599984,0.011199888001119988,100000,20260719
+leave_one_node_out,Yeshua,pairwise_shared_anchor_links,robustness-primary,1,0.10076,0.0,0.0,1.0,8760,0.08760912390876091,0.08760912390876091,100000,20260719
+leave_one_node_out,Yeshua,occupied_anchors,secondary,4,0.78413,1.0,0.0,2.0,39,0.0003999960000399996,,100000,20260719
+leave_one_node_out,Yeshua,nodes_with_anchor,secondary,5,0.8533,1.0,0.0,3.0,11,0.00011999880001199988,,100000,20260719
+leave_one_node_out,Yeshua,base12_palindromes,secondary,3,0.40624,0.0,0.0,2.0,467,0.004679953200467995,,100000,20260719
+leave_one_node_out,Yeshua HaMashiach,anchor_incidences,robustness-primary,7,0.92276,1.0,0.0,3.0,1,1.999980000199998e-05,0.00023999760002399976,100000,20260719
+leave_one_node_out,Yeshua HaMashiach,pairwise_shared_anchor_links,robustness-primary,2,0.11036,0.0,0.0,1.0,857,0.008579914200857991,0.03719962800371997,100000,20260719
+leave_one_node_out,Yeshua HaMashiach,occupied_anchors,secondary,5,0.81942,1.0,0.0,2.0,0,9.99990000099999e-06,,100000,20260719
+leave_one_node_out,Yeshua HaMashiach,nodes_with_anchor,secondary,5,0.89335,1.0,0.0,3.0,19,0.0001999980000199998,,100000,20260719
+leave_one_node_out,Yeshua HaMashiach,base12_palindromes,secondary,3,0.40147,0.0,0.0,2.0,471,0.0047199528004719955,,100000,20260719
+leave_one_node_out,Ehyeh Asher Ehyeh,anchor_incidences,robustness-primary,7,0.91989,1.0,0.0,3.0,1,1.999980000199998e-05,0.00023999760002399976,100000,20260719
+leave_one_node_out,Ehyeh Asher Ehyeh,pairwise_shared_anchor_links,robustness-primary,2,0.10909,0.0,0.0,1.0,847,0.008479915200847992,0.03719962800371997,100000,20260719
+leave_one_node_out,Ehyeh Asher Ehyeh,occupied_anchors,secondary,5,0.81766,1.0,0.0,2.0,0,9.99990000099999e-06,,100000,20260719
+leave_one_node_out,Ehyeh Asher Ehyeh,nodes_with_anchor,secondary,5,0.88968,1.0,0.0,3.0,13,0.00013999860001399987,,100000,20260719
+leave_one_node_out,Ehyeh Asher Ehyeh,base12_palindromes,secondary,3,0.4026,0.0,0.0,2.0,434,0.004349956500434996,,100000,20260719
+leave_one_node_out,Eloah,anchor_incidences,robustness-primary,7,0.88054,1.0,0.0,3.0,1,1.999980000199998e-05,0.00023999760002399976,100000,20260719
+leave_one_node_out,Eloah,pairwise_shared_anchor_links,robustness-primary,2,0.10238,0.0,0.0,1.0,765,0.007659923400765992,0.03719962800371997,100000,20260719
+leave_one_node_out,Eloah,occupied_anchors,secondary,5,0.78436,1.0,0.0,2.0,0,9.99990000099999e-06,,100000,20260719
+leave_one_node_out,Eloah,nodes_with_anchor,secondary,5,0.85391,1.0,0.0,3.0,8,8.99991000089999e-05,,100000,20260719
+leave_one_node_out,Eloah,base12_palindromes,secondary,4,0.40617,0.0,0.0,2.0,7,7.999920000799993e-05,,100000,20260719
+leave_one_node_out,Elohim,anchor_incidences,robustness-primary,7,0.90171,1.0,0.0,3.0,1,1.999980000199998e-05,0.00023999760002399976,100000,20260719
+leave_one_node_out,Elohim,pairwise_shared_anchor_links,robustness-primary,3,0.10463,0.0,0.0,1.0,592,0.005929940700592994,0.03557964420355796,100000,20260719
+leave_one_node_out,Elohim,occupied_anchors,secondary,4,0.80336,1.0,0.0,2.0,42,0.00042999570004299955,,100000,20260719
+leave_one_node_out,Elohim,nodes_with_anchor,secondary,5,0.87334,1.0,0.0,3.0,17,0.0001799982000179998,,100000,20260719
+leave_one_node_out,Elohim,base12_palindromes,secondary,4,0.41521,0.0,0.0,2.0,17,0.0001799982000179998,,100000,20260719
+leave_one_anchor_out,8,anchor_incidences,robustness-primary,7,0.76156,1.0,0.0,3.0,0,9.99990000099999e-06,9.999900000999991e-05,100000,20260719
+leave_one_anchor_out,8,pairwise_shared_anchor_links,robustness-primary,3,0.11663,0.0,0.0,1.0,896,0.00896991030089699,0.03587964120358796,100000,20260719
+leave_one_anchor_out,12,anchor_incidences,robustness-primary,6,0.61583,0.0,0.0,2.0,1,1.999980000199998e-05,0.00017999820001799984,100000,20260719
+leave_one_anchor_out,12,pairwise_shared_anchor_links,robustness-primary,2,0.06799,0.0,0.0,1.0,466,0.004669953300466995,0.023349766502334977,100000,20260719
+leave_one_anchor_out,22,anchor_incidences,robustness-primary,6,0.82087,1.0,0.0,3.0,1,1.999980000199998e-05,0.00017999820001799984,100000,20260719
+leave_one_anchor_out,22,pairwise_shared_anchor_links,robustness-primary,2,0.13019,0.0,0.0,1.0,1191,0.011919880801191989,0.03587964120358796,100000,20260719
+leave_one_anchor_out,42,anchor_incidences,robustness-primary,6,1.05369,1.0,0.0,3.0,64,0.0006499935000649994,0.003899961000389996,100000,20260719
+leave_one_anchor_out,42,pairwise_shared_anchor_links,robustness-primary,2,0.15706,0.0,0.0,1.0,1517,0.015179848201517986,0.03587964120358796,100000,20260719
+leave_one_anchor_out,72,anchor_incidences,robustness-primary,7,1.05509,1.0,0.0,3.0,4,4.999950000499995e-05,0.0003499965000349996,100000,20260719
+leave_one_anchor_out,72,pairwise_shared_anchor_links,robustness-primary,3,0.1571,0.0,0.0,1.0,1150,0.011509884901150989,0.03587964120358796,100000,20260719
+leave_one_route_out,exact_decimal,anchor_incidences,robustness-primary,7,1.04531,1.0,0.0,3.0,4,4.999950000499995e-05,0.00044999550004499957,100000,20260719
+leave_one_route_out,exact_decimal,pairwise_shared_anchor_links,robustness-primary,2,0.15463,0.0,0.0,1.0,1487,0.014879851201487986,0.05369946300536995,100000,20260719
+leave_one_route_out,exact_base12_text,anchor_incidences,robustness-primary,6,1.03797,1.0,0.0,3.0,61,0.0006199938000619994,0.0037199628003719964,100000,20260719
+leave_one_route_out,exact_base12_text,pairwise_shared_anchor_links,robustness-primary,2,0.15323,0.0,0.0,1.0,1468,0.014689853101468985,0.05369946300536995,100000,20260719
+leave_one_route_out,first_base12_digit_sum,anchor_incidences,robustness-primary,6,0.21461,0.0,0.0,2.0,0,9.99990000099999e-06,0.00011999880001199988,100000,20260719
+leave_one_route_out,first_base12_digit_sum,pairwise_shared_anchor_links,robustness-primary,2,0.00685,0.0,0.0,0.0,13,0.00013999860001399987,0.000979990200097999,100000,20260719
+leave_one_route_out,palindrome_center,anchor_incidences,robustness-primary,7,1.04027,1.0,0.0,3.0,0,9.99990000099999e-06,0.00011999880001199988,100000,20260719
+leave_one_route_out,palindrome_center,pairwise_shared_anchor_links,robustness-primary,3,0.14801,0.0,0.0,1.0,1073,0.01073989260107399,0.05369946300536995,100000,20260719
+leave_one_route_out,palindrome_outer_frame,anchor_incidences,robustness-primary,7,0.96888,1.0,0.0,3.0,0,9.99990000099999e-06,0.00011999880001199988,100000,20260719
+leave_one_route_out,palindrome_outer_frame,pairwise_shared_anchor_links,robustness-primary,2,0.13907,0.0,0.0,1.0,1269,0.012699873001269988,0.05369946300536995,100000,20260719
+leave_one_route_out,repeated_outer_sum,anchor_incidences,robustness-primary,7,1.07676,1.0,0.0,3.0,4,4.999950000499995e-05,0.00044999550004499957,100000,20260719
+leave_one_route_out,repeated_outer_sum,pairwise_shared_anchor_links,robustness-primary,2,0.15721,0.0,0.0,1.0,1518,0.015189848101518985,0.05369946300536995,100000,20260719

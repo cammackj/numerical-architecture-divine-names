@@ -1,0 +1,11 @@
+﻿universe,metric,target_hit,hits,total,proportion
+all_three_digit_base12_integers,three_digit_base12,yes,1584,1584,1.0
+all_three_digit_base12_integers,three_digit_palindrome,yes,132,1584,0.08333333333333333
+all_three_digit_base12_integers,outer_22_palindrome,yes,12,1584,0.007575757575757576
+all_three_digit_base12_integers,three_digit_sum_12,yes,77,1584,0.04861111111111111
+all_three_digit_base12_integers,exact_282_signature,yes,1,1584,0.0006313131313131314
+matched_hebrew_controls,three_digit_base12,yes,5203,7677,0.6777387000130259
+matched_hebrew_controls,three_digit_palindrome,yes,437,7677,0.056923277321870525
+matched_hebrew_controls,outer_22_palindrome,yes,158,7677,0.020580956102644262
+matched_hebrew_controls,three_digit_sum_12,yes,394,7677,0.051322131040771136
+matched_hebrew_controls,exact_282_signature,yes,20,7677,0.002605184316790413

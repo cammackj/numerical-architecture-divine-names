@@ -1,0 +1,180 @@
+﻿analysis_layer,target_id,name,hebrew,source_dataset,source_row_id,word_count,word_lengths,total_letters,final_form_count,match_level,eligible_control_count,minimum_stratum_size
+primary-biblical,primary-biblical:registry:1,El,אל,corpus_registry.csv,1,1,2,2,0,exact-word-vector,158,50
+primary-biblical,primary-biblical:registry:2,Eloah,אלוה,corpus_registry.csv,2,1,4,4,0,exact-word-vector,7677,50
+primary-biblical,primary-biblical:registry:3,Elohim,אלהים,corpus_registry.csv,3,1,5,5,1,exact-word-vector,3216,50
+primary-biblical,primary-biblical:registry:4,YHWH,יהוה,corpus_registry.csv,4,1,4,4,0,exact-word-vector,7677,50
+primary-biblical,primary-biblical:registry:5,Adonai,אדני,corpus_registry.csv,5,1,4,4,0,exact-word-vector,7677,50
+primary-biblical,primary-biblical:registry:6,Shaddai,שדי,corpus_registry.csv,6,1,3,3,0,exact-word-vector,1847,50
+primary-biblical,primary-biblical:registry:7,Ehyeh Asher Ehyeh,אהיה אשר אהיה,corpus_registry.csv,7,3,4-3-4,11,0,exact-word-vector,2233,50
+primary-biblical,primary-biblical:registry:8,El Elyon,אל עליון,corpus_registry.csv,8,2,2-5,7,1,exact-word-vector,1445,50
+primary-biblical,primary-biblical:registry:9,El Olam,אל עולם,corpus_registry.csv,9,2,2-4,6,1,exact-word-vector,1940,50
+primary-biblical,primary-biblical:registry:10,El Roi,אל ראי,corpus_registry.csv,10,2,2-3,5,0,exact-word-vector,2050,50
+primary-biblical,primary-biblical:registry:11,El Gibbor,אל גבור,corpus_registry.csv,11,2,2-4,6,0,exact-word-vector,3488,50
+primary-biblical,primary-biblical:registry:12,El Yeshuati,אל ישועתי,corpus_registry.csv,12,2,2-6,8,0,exact-word-vector,783,50
+primary-biblical,primary-biblical:registry:22,Adon,אדון,corpus_registry.csv,22,1,4,4,1,exact-word-vector,2130,50
+primary-biblical,primary-biblical:registry:23,Elohei HaShamayim,אלהי השמים,corpus_registry.csv,23,2,4-5,9,1,exact-word-vector,4438,50
+primary-biblical,primary-biblical:registry:24,Elohei HaAretz,אלהי הארץ,corpus_registry.csv,24,2,4-4,8,1,exact-word-vector,6320,50
+primary-biblical,primary-biblical:registry:25,El Shaddai,אל שדי,corpus_registry.csv,25,2,2-3,5,0,exact-word-vector,2050,50
+primary-biblical,primary-biblical:registry:26,El Kana,אל קנא,corpus_registry.csv,26,2,2-3,5,0,exact-word-vector,2050,50
+primary-biblical,primary-biblical:registry:27,El De’ot,אל דעות,corpus_registry.csv,27,2,2-4,6,0,exact-word-vector,3488,50
+primary-biblical,primary-biblical:registry:29,El HaNe’eman,האל הנאמן,corpus_registry.csv,29,2,3-5,8,1,exact-word-vector,3183,50
+primary-biblical,primary-biblical:registry:30,El HaGadol,האל הגדול,corpus_registry.csv,30,2,3-5,8,0,exact-word-vector,4824,50
+primary-biblical,primary-biblical:registry:32,El HaKavod,אל הכבוד,corpus_registry.csv,32,2,2-5,7,0,exact-word-vector,2173,50
+primary-biblical,primary-biblical:registry:35,Elohei Avraham,אלהי אברהם,corpus_registry.csv,35,2,4-5,9,1,exact-word-vector,4438,50
+primary-biblical,primary-biblical:registry:36,Elohei Yitzchak,אלהי יצחק,corpus_registry.csv,36,2,4-4,8,0,exact-word-vector,9804,50
+primary-biblical,primary-biblical:registry:37,Elohei Yaakov,אלהי יעקב,corpus_registry.csv,37,2,4-4,8,0,exact-word-vector,9804,50
+expanded-biblical-all,expanded-biblical-all:registry:1,El,אל,corpus_registry.csv,1,1,2,2,0,exact-word-vector,158,50
+expanded-biblical-all,expanded-biblical-all:registry:2,Eloah,אלוה,corpus_registry.csv,2,1,4,4,0,exact-word-vector,7677,50
+expanded-biblical-all,expanded-biblical-all:registry:3,Elohim,אלהים,corpus_registry.csv,3,1,5,5,1,exact-word-vector,3216,50
+expanded-biblical-all,expanded-biblical-all:registry:4,YHWH,יהוה,corpus_registry.csv,4,1,4,4,0,exact-word-vector,7677,50
+expanded-biblical-all,expanded-biblical-all:registry:5,Adonai,אדני,corpus_registry.csv,5,1,4,4,0,exact-word-vector,7677,50
+expanded-biblical-all,expanded-biblical-all:registry:6,Shaddai,שדי,corpus_registry.csv,6,1,3,3,0,exact-word-vector,1847,50
+expanded-biblical-all,expanded-biblical-all:registry:7,Ehyeh Asher Ehyeh,אהיה אשר אהיה,corpus_registry.csv,7,3,4-3-4,11,0,exact-word-vector,2233,50
+expanded-biblical-all,expanded-biblical-all:registry:8,El Elyon,אל עליון,corpus_registry.csv,8,2,2-5,7,1,exact-word-vector,1445,50
+expanded-biblical-all,expanded-biblical-all:registry:9,El Olam,אל עולם,corpus_registry.csv,9,2,2-4,6,1,exact-word-vector,1940,50
+expanded-biblical-all,expanded-biblical-all:registry:10,El Roi,אל ראי,corpus_registry.csv,10,2,2-3,5,0,exact-word-vector,2050,50
+expanded-biblical-all,expanded-biblical-all:registry:11,El Gibbor,אל גבור,corpus_registry.csv,11,2,2-4,6,0,exact-word-vector,3488,50
+expanded-biblical-all,expanded-biblical-all:registry:12,El Yeshuati,אל ישועתי,corpus_registry.csv,12,2,2-6,8,0,exact-word-vector,783,50
+expanded-biblical-all,expanded-biblical-all:registry:22,Adon,אדון,corpus_registry.csv,22,1,4,4,1,exact-word-vector,2130,50
+expanded-biblical-all,expanded-biblical-all:registry:23,Elohei HaShamayim,אלהי השמים,corpus_registry.csv,23,2,4-5,9,1,exact-word-vector,4438,50
+expanded-biblical-all,expanded-biblical-all:registry:24,Elohei HaAretz,אלהי הארץ,corpus_registry.csv,24,2,4-4,8,1,exact-word-vector,6320,50
+expanded-biblical-all,expanded-biblical-all:registry:25,El Shaddai,אל שדי,corpus_registry.csv,25,2,2-3,5,0,exact-word-vector,2050,50
+expanded-biblical-all,expanded-biblical-all:registry:26,El Kana,אל קנא,corpus_registry.csv,26,2,2-3,5,0,exact-word-vector,2050,50
+expanded-biblical-all,expanded-biblical-all:registry:27,El De’ot,אל דעות,corpus_registry.csv,27,2,2-4,6,0,exact-word-vector,3488,50
+expanded-biblical-all,expanded-biblical-all:registry:29,El HaNe’eman,האל הנאמן,corpus_registry.csv,29,2,3-5,8,1,exact-word-vector,3183,50
+expanded-biblical-all,expanded-biblical-all:registry:30,El HaGadol,האל הגדול,corpus_registry.csv,30,2,3-5,8,0,exact-word-vector,4824,50
+expanded-biblical-all,expanded-biblical-all:registry:32,El HaKavod,אל הכבוד,corpus_registry.csv,32,2,2-5,7,0,exact-word-vector,2173,50
+expanded-biblical-all,expanded-biblical-all:registry:35,Elohei Avraham,אלהי אברהם,corpus_registry.csv,35,2,4-5,9,1,exact-word-vector,4438,50
+expanded-biblical-all,expanded-biblical-all:registry:36,Elohei Yitzchak,אלהי יצחק,corpus_registry.csv,36,2,4-4,8,0,exact-word-vector,9804,50
+expanded-biblical-all,expanded-biblical-all:registry:37,Elohei Yaakov,אלהי יעקב,corpus_registry.csv,37,2,4-4,8,0,exact-word-vector,9804,50
+expanded-biblical-all,expanded-biblical-all:expansion:1,Yah,יה,divine_name_expansion_candidates.csv,1,1,2,2,0,exact-word-vector,158,50
+expanded-biblical-all,expanded-biblical-all:expansion:2,Ehyeh,אהיה,divine_name_expansion_candidates.csv,2,1,4,4,0,exact-word-vector,7677,50
+expanded-biblical-all,expanded-biblical-all:expansion:3,YHWH Elohim,יהוה אלהים,divine_name_expansion_candidates.csv,3,2,4-5,9,1,exact-word-vector,4438,50
+expanded-biblical-all,expanded-biblical-all:expansion:4,Adonai YHWH,אדני יהוה,divine_name_expansion_candidates.csv,4,2,4-4,8,0,exact-word-vector,9804,50
+expanded-biblical-all,expanded-biblical-all:expansion:5,YHWH Echad,יהוה אחד,divine_name_expansion_candidates.csv,5,2,4-3,7,0,exact-word-vector,7597,50
+expanded-biblical-all,expanded-biblical-all:expansion:6,YHWH Tzevaot,יהוה צבאות,divine_name_expansion_candidates.csv,6,2,4-5,9,0,exact-word-vector,6136,50
+expanded-biblical-all,expanded-biblical-all:expansion:7,YHWH Elohei Yisrael,יהוה אלהי ישראל,divine_name_expansion_candidates.csv,7,3,4-4-5,13,0,exact-word-vector,1381,50
+expanded-biblical-all,expanded-biblical-all:expansion:8,Elohei Yisrael,אלהי ישראל,divine_name_expansion_candidates.csv,8,2,4-5,9,0,exact-word-vector,6136,50
+expanded-biblical-all,expanded-biblical-all:expansion:9,El Elohei Yisrael,אל אלהי ישראל,divine_name_expansion_candidates.csv,9,3,2-4-5,11,0,exact-word-vector,735,50
+expanded-biblical-all,expanded-biblical-all:expansion:10,El Elyon Qoneh Shamayim VaAretz,אל עליון קנה שמים וארץ,divine_name_expansion_candidates.csv,10,5,2-5-3-4-4,18,3,fallback-exact-total,1578,50
+expanded-biblical-all,expanded-biblical-all:expansion:11,El Chai,אל חי,divine_name_expansion_candidates.csv,11,2,2-2,4,0,exact-word-vector,450,50
+expanded-biblical-all,expanded-biblical-all:expansion:12,Elohim Chayim,אלהים חיים,divine_name_expansion_candidates.csv,12,2,5-4,9,2,exact-word-vector,766,50
+expanded-biblical-all,expanded-biblical-all:expansion:13,YHWH Elohim Emet,יהוה אלהים אמת,divine_name_expansion_candidates.csv,13,3,4-5-3,12,1,exact-word-vector,1063,50
+expanded-biblical-all,expanded-biblical-all:expansion:14,El Emunah,אל אמונה,divine_name_expansion_candidates.csv,14,2,2-5,7,0,exact-word-vector,2173,50
+expanded-biblical-all,expanded-biblical-all:expansion:15,HaTzur,הצור,divine_name_expansion_candidates.csv,15,1,4,4,0,exact-word-vector,7677,50
+expanded-biblical-all,expanded-biblical-all:expansion:16,Qadosh,קדוש,divine_name_expansion_candidates.csv,16,1,4,4,0,exact-word-vector,7677,50
+expanded-biblical-all,expanded-biblical-all:expansion:17,Kedosh Yisrael,קדוש ישראל,divine_name_expansion_candidates.csv,17,2,4-5,9,0,exact-word-vector,6136,50
+expanded-biblical-all,expanded-biblical-all:expansion:18,Kedosh Yaakov,קדוש יעקב,divine_name_expansion_candidates.csv,18,2,4-4,8,0,exact-word-vector,9804,50
+expanded-biblical-all,expanded-biblical-all:expansion:19,Avir Yaakov,אביר יעקב,divine_name_expansion_candidates.csv,19,2,4-4,8,0,exact-word-vector,9804,50
+expanded-biblical-all,expanded-biblical-all:expansion:20,Avir Yisrael,אביר ישראל,divine_name_expansion_candidates.csv,20,2,4-5,9,0,exact-word-vector,6136,50
+expanded-biblical-all,expanded-biblical-all:expansion:21,Tzur Yisrael,צור ישראל,divine_name_expansion_candidates.csv,21,2,3-5,8,0,exact-word-vector,4824,50
+expanded-biblical-all,expanded-biblical-all:expansion:22,Eben Yisrael,אבן ישראל,divine_name_expansion_candidates.csv,22,2,3-5,8,1,exact-word-vector,3183,50
+expanded-biblical-all,expanded-biblical-all:expansion:23,Roeh Yisrael,רעה ישראל,divine_name_expansion_candidates.csv,23,2,3-5,8,0,exact-word-vector,4824,50
+expanded-biblical-all,expanded-biblical-all:expansion:24,Shomer Yisrael,שומר ישראל,divine_name_expansion_candidates.csv,24,2,4-5,9,0,exact-word-vector,6136,50
+expanded-biblical-all,expanded-biblical-all:expansion:25,Melekh Yisrael,מלך ישראל,divine_name_expansion_candidates.csv,25,2,3-5,8,1,exact-word-vector,3183,50
+expanded-biblical-all,expanded-biblical-all:expansion:26,Melekh Olam,מלך עולם,divine_name_expansion_candidates.csv,26,2,3-4,7,2,exact-word-vector,681,50
+expanded-biblical-all,expanded-biblical-all:expansion:27,Melekh HaKavod,מלך הכבוד,divine_name_expansion_candidates.csv,27,2,3-5,8,1,exact-word-vector,3183,50
+expanded-biblical-all,expanded-biblical-all:expansion:28,YHWH Tzevaot Hu Melekh HaKavod,יהוה צבאות הוא מלך הכבוד,divine_name_expansion_candidates.csv,28,5,4-5-3-3-5,20,1,fallback-exact-total,7427,50
+expanded-biblical-all,expanded-biblical-all:expansion:29,Elyon,עליון,divine_name_expansion_candidates.csv,29,1,5,5,1,exact-word-vector,3216,50
+expanded-biblical-all,expanded-biblical-all:expansion:30,Moshia,מושיע,divine_name_expansion_candidates.csv,30,1,5,5,0,exact-word-vector,9587,50
+expanded-biblical-all,expanded-biblical-all:expansion:31,Ani Hu,אני הוא,divine_name_expansion_candidates.csv,31,2,3-3,6,0,exact-word-vector,5312,50
+expanded-biblical-all,expanded-biblical-all:expansion:32,Ani YHWH,אני יהוה,divine_name_expansion_candidates.csv,32,2,3-4,7,0,exact-word-vector,7581,50
+expanded-biblical-all,expanded-biblical-all:expansion:33,Anokhi YHWH,אנכי יהוה,divine_name_expansion_candidates.csv,33,2,4-4,8,0,exact-word-vector,9804,50
+expanded-biblical-all,expanded-biblical-all:expansion:34,Ani Rishon vaAni Acharon,אני ראשון ואני אחרון,divine_name_expansion_candidates.csv,34,4,3-5-4-5,17,2,exact-word-vector,130,50
+expanded-biblical-all,expanded-biblical-all:expansion:35,Adon Kol HaAretz,אדון כל הארץ,divine_name_expansion_candidates.csv,35,3,4-2-4,10,2,exact-word-vector,304,50
+expanded-biblical-all,expanded-biblical-all:expansion:36,Elohei HaElohim,אלהי האלהים,divine_name_expansion_candidates.csv,36,2,4-6,10,1,exact-word-vector,2211,50
+expanded-biblical-all,expanded-biblical-all:expansion:37,Adonei HaAdonim,אדני האדנים,divine_name_expansion_candidates.csv,37,2,4-6,10,1,exact-word-vector,2211,50
+expanded-biblical-all,expanded-biblical-all:expansion:38,El Nekamot,אל נקמות,divine_name_expansion_candidates.csv,38,2,2-5,7,0,exact-word-vector,2173,50
+expanded-biblical-all,expanded-biblical-all:expansion:39,El Tzaddik uMoshia,אל צדיק ומושיע,divine_name_expansion_candidates.csv,39,3,2-4-6,12,0,exact-word-vector,241,50
+expanded-biblical-all,expanded-biblical-all:expansion:40,El Mistater,אל מסתתר,divine_name_expansion_candidates.csv,40,2,2-5,7,0,exact-word-vector,2173,50
+expanded-biblical-all,expanded-biblical-all:expansion:41,Elohei Kol Basar,אלהי כל בשר,divine_name_expansion_candidates.csv,41,3,4-2-3,9,0,exact-word-vector,1107,50
+expanded-biblical-all,expanded-biblical-all:expansion:42,Elohei HaRuchot LeKhol Basar,אלהי הרוחת לכל בשר,divine_name_expansion_candidates.csv,42,4,4-5-3-3,15,0,exact-word-vector,231,50
+expanded-biblical-all,expanded-biblical-all:expansion:43,Elohei Olam YHWH,אלהי עולם יהוה,divine_name_expansion_candidates.csv,43,3,4-4-4,12,1,exact-word-vector,2345,50
+expanded-biblical-all,expanded-biblical-all:expansion:44,YHWH Elohim Tzevaot,יהוה אלהים צבאות,divine_name_expansion_candidates.csv,44,3,4-5-5,14,1,exact-word-vector,994,50
+expanded-biblical-all,expanded-biblical-all:expansion:45,YHWH Ish Milchamah,יהוה איש מלחמה,divine_name_expansion_candidates.csv,45,3,4-3-5,12,0,exact-word-vector,1420,50
+expanded-biblical-all,expanded-biblical-all:expansion:46,YHWH Shemo,יהוה שמו,divine_name_expansion_candidates.csv,46,2,4-3,7,0,exact-word-vector,7597,50
+expanded-biblical-all,expanded-biblical-all:expansion:47,YHWH Tzevaot Shemo,יהוה צבאות שמו,divine_name_expansion_candidates.csv,47,3,4-5-3,12,0,exact-word-vector,1127,50
+expanded-biblical-all,expanded-biblical-all:expansion:48,YHWH Mekaddishkem,יהוה מקדשכם,divine_name_expansion_candidates.csv,48,2,4-6,10,1,exact-word-vector,2211,50
+expanded-biblical-all,expanded-biblical-all:expansion:49,YHWH Rofekha,יהוה רפאך,divine_name_expansion_candidates.csv,49,2,4-4,8,1,exact-word-vector,6320,50
+expanded-biblical-all,expanded-biblical-all:expansion:50,YHWH Roi,יהוה רעי,divine_name_expansion_candidates.csv,50,2,4-3,7,0,exact-word-vector,7597,50
+expanded-biblical-all,expanded-biblical-all:expansion:51,YHWH Ori,יהוה אורי,divine_name_expansion_candidates.csv,51,2,4-4,8,0,exact-word-vector,9804,50
+expanded-biblical-all,expanded-biblical-all:expansion:52,YHWH Tsidkenu,יהוה צדקנו,divine_name_expansion_candidates.csv,52,2,4-5,9,0,exact-word-vector,6136,50
+expanded-biblical-all,expanded-biblical-all:expansion:53,YHWH Shammah,יהוה שמה,divine_name_expansion_candidates.csv,53,2,4-3,7,0,exact-word-vector,7597,50
+expanded-biblical-all,expanded-biblical-all:expansion:54,YHWH Yireh,יהוה יראה,divine_name_expansion_candidates.csv,54,2,4-4,8,0,exact-word-vector,9804,50
+expanded-biblical-all,expanded-biblical-all:expansion:55,YHWH Nissi,יהוה נסי,divine_name_expansion_candidates.csv,55,2,4-3,7,0,exact-word-vector,7597,50
+expanded-biblical-all,expanded-biblical-all:expansion:56,YHWH Shalom,יהוה שלום,divine_name_expansion_candidates.csv,56,2,4-4,8,1,exact-word-vector,6320,50
+restored-christian-inclusive,restored-christian-inclusive:registry:1,El,אל,corpus_registry.csv,1,1,2,2,0,exact-word-vector,158,50
+restored-christian-inclusive,restored-christian-inclusive:registry:2,Eloah,אלוה,corpus_registry.csv,2,1,4,4,0,exact-word-vector,7677,50
+restored-christian-inclusive,restored-christian-inclusive:registry:3,Elohim,אלהים,corpus_registry.csv,3,1,5,5,1,exact-word-vector,3216,50
+restored-christian-inclusive,restored-christian-inclusive:registry:4,YHWH,יהוה,corpus_registry.csv,4,1,4,4,0,exact-word-vector,7677,50
+restored-christian-inclusive,restored-christian-inclusive:registry:5,Adonai,אדני,corpus_registry.csv,5,1,4,4,0,exact-word-vector,7677,50
+restored-christian-inclusive,restored-christian-inclusive:registry:6,Shaddai,שדי,corpus_registry.csv,6,1,3,3,0,exact-word-vector,1847,50
+restored-christian-inclusive,restored-christian-inclusive:registry:7,Ehyeh Asher Ehyeh,אהיה אשר אהיה,corpus_registry.csv,7,3,4-3-4,11,0,exact-word-vector,2233,50
+restored-christian-inclusive,restored-christian-inclusive:registry:8,El Elyon,אל עליון,corpus_registry.csv,8,2,2-5,7,1,exact-word-vector,1445,50
+restored-christian-inclusive,restored-christian-inclusive:registry:9,El Olam,אל עולם,corpus_registry.csv,9,2,2-4,6,1,exact-word-vector,1940,50
+restored-christian-inclusive,restored-christian-inclusive:registry:10,El Roi,אל ראי,corpus_registry.csv,10,2,2-3,5,0,exact-word-vector,2050,50
+restored-christian-inclusive,restored-christian-inclusive:registry:11,El Gibbor,אל גבור,corpus_registry.csv,11,2,2-4,6,0,exact-word-vector,3488,50
+restored-christian-inclusive,restored-christian-inclusive:registry:12,El Yeshuati,אל ישועתי,corpus_registry.csv,12,2,2-6,8,0,exact-word-vector,783,50
+restored-christian-inclusive,restored-christian-inclusive:registry:22,Adon,אדון,corpus_registry.csv,22,1,4,4,1,exact-word-vector,2130,50
+restored-christian-inclusive,restored-christian-inclusive:registry:23,Elohei HaShamayim,אלהי השמים,corpus_registry.csv,23,2,4-5,9,1,exact-word-vector,4438,50
+restored-christian-inclusive,restored-christian-inclusive:registry:24,Elohei HaAretz,אלהי הארץ,corpus_registry.csv,24,2,4-4,8,1,exact-word-vector,6320,50
+restored-christian-inclusive,restored-christian-inclusive:registry:25,El Shaddai,אל שדי,corpus_registry.csv,25,2,2-3,5,0,exact-word-vector,2050,50
+restored-christian-inclusive,restored-christian-inclusive:registry:26,El Kana,אל קנא,corpus_registry.csv,26,2,2-3,5,0,exact-word-vector,2050,50
+restored-christian-inclusive,restored-christian-inclusive:registry:27,El De’ot,אל דעות,corpus_registry.csv,27,2,2-4,6,0,exact-word-vector,3488,50
+restored-christian-inclusive,restored-christian-inclusive:registry:29,El HaNe’eman,האל הנאמן,corpus_registry.csv,29,2,3-5,8,1,exact-word-vector,3183,50
+restored-christian-inclusive,restored-christian-inclusive:registry:30,El HaGadol,האל הגדול,corpus_registry.csv,30,2,3-5,8,0,exact-word-vector,4824,50
+restored-christian-inclusive,restored-christian-inclusive:registry:32,El HaKavod,אל הכבוד,corpus_registry.csv,32,2,2-5,7,0,exact-word-vector,2173,50
+restored-christian-inclusive,restored-christian-inclusive:registry:35,Elohei Avraham,אלהי אברהם,corpus_registry.csv,35,2,4-5,9,1,exact-word-vector,4438,50
+restored-christian-inclusive,restored-christian-inclusive:registry:36,Elohei Yitzchak,אלהי יצחק,corpus_registry.csv,36,2,4-4,8,0,exact-word-vector,9804,50
+restored-christian-inclusive,restored-christian-inclusive:registry:37,Elohei Yaakov,אלהי יעקב,corpus_registry.csv,37,2,4-4,8,0,exact-word-vector,9804,50
+restored-christian-inclusive,restored-christian-inclusive:registry:18,Yeshua,ישוע,corpus_registry.csv,18,1,4,4,0,exact-word-vector,7677,50
+restored-christian-inclusive,restored-christian-inclusive:registry:19,Immanuel,עמנו אל,corpus_registry.csv,19,2,4-2,6,0,exact-word-vector,3726,50
+restored-christian-inclusive,restored-christian-inclusive:registry:20,Mashiach,משיח,corpus_registry.csv,20,1,4,4,0,exact-word-vector,7677,50
+restored-christian-inclusive,restored-christian-inclusive:registry:21,Sar Shalom,שר שלום,corpus_registry.csv,21,2,2-4,6,1,exact-word-vector,1940,50
+restored-christian-inclusive,restored-christian-inclusive:expansion:61,Yeshua HaMashiach,ישוע המשיח,divine_name_expansion_candidates.csv,61,2,4-5,9,0,exact-word-vector,6136,50
+full-christian-expansion,full-christian-expansion:registry:1,El,אל,corpus_registry.csv,1,1,2,2,0,exact-word-vector,158,50
+full-christian-expansion,full-christian-expansion:registry:2,Eloah,אלוה,corpus_registry.csv,2,1,4,4,0,exact-word-vector,7677,50
+full-christian-expansion,full-christian-expansion:registry:3,Elohim,אלהים,corpus_registry.csv,3,1,5,5,1,exact-word-vector,3216,50
+full-christian-expansion,full-christian-expansion:registry:4,YHWH,יהוה,corpus_registry.csv,4,1,4,4,0,exact-word-vector,7677,50
+full-christian-expansion,full-christian-expansion:registry:5,Adonai,אדני,corpus_registry.csv,5,1,4,4,0,exact-word-vector,7677,50
+full-christian-expansion,full-christian-expansion:registry:6,Shaddai,שדי,corpus_registry.csv,6,1,3,3,0,exact-word-vector,1847,50
+full-christian-expansion,full-christian-expansion:registry:7,Ehyeh Asher Ehyeh,אהיה אשר אהיה,corpus_registry.csv,7,3,4-3-4,11,0,exact-word-vector,2233,50
+full-christian-expansion,full-christian-expansion:registry:8,El Elyon,אל עליון,corpus_registry.csv,8,2,2-5,7,1,exact-word-vector,1445,50
+full-christian-expansion,full-christian-expansion:registry:9,El Olam,אל עולם,corpus_registry.csv,9,2,2-4,6,1,exact-word-vector,1940,50
+full-christian-expansion,full-christian-expansion:registry:10,El Roi,אל ראי,corpus_registry.csv,10,2,2-3,5,0,exact-word-vector,2050,50
+full-christian-expansion,full-christian-expansion:registry:11,El Gibbor,אל גבור,corpus_registry.csv,11,2,2-4,6,0,exact-word-vector,3488,50
+full-christian-expansion,full-christian-expansion:registry:12,El Yeshuati,אל ישועתי,corpus_registry.csv,12,2,2-6,8,0,exact-word-vector,783,50
+full-christian-expansion,full-christian-expansion:registry:22,Adon,אדון,corpus_registry.csv,22,1,4,4,1,exact-word-vector,2130,50
+full-christian-expansion,full-christian-expansion:registry:23,Elohei HaShamayim,אלהי השמים,corpus_registry.csv,23,2,4-5,9,1,exact-word-vector,4438,50
+full-christian-expansion,full-christian-expansion:registry:24,Elohei HaAretz,אלהי הארץ,corpus_registry.csv,24,2,4-4,8,1,exact-word-vector,6320,50
+full-christian-expansion,full-christian-expansion:registry:25,El Shaddai,אל שדי,corpus_registry.csv,25,2,2-3,5,0,exact-word-vector,2050,50
+full-christian-expansion,full-christian-expansion:registry:26,El Kana,אל קנא,corpus_registry.csv,26,2,2-3,5,0,exact-word-vector,2050,50
+full-christian-expansion,full-christian-expansion:registry:27,El De’ot,אל דעות,corpus_registry.csv,27,2,2-4,6,0,exact-word-vector,3488,50
+full-christian-expansion,full-christian-expansion:registry:29,El HaNe’eman,האל הנאמן,corpus_registry.csv,29,2,3-5,8,1,exact-word-vector,3183,50
+full-christian-expansion,full-christian-expansion:registry:30,El HaGadol,האל הגדול,corpus_registry.csv,30,2,3-5,8,0,exact-word-vector,4824,50
+full-christian-expansion,full-christian-expansion:registry:32,El HaKavod,אל הכבוד,corpus_registry.csv,32,2,2-5,7,0,exact-word-vector,2173,50
+full-christian-expansion,full-christian-expansion:registry:35,Elohei Avraham,אלהי אברהם,corpus_registry.csv,35,2,4-5,9,1,exact-word-vector,4438,50
+full-christian-expansion,full-christian-expansion:registry:36,Elohei Yitzchak,אלהי יצחק,corpus_registry.csv,36,2,4-4,8,0,exact-word-vector,9804,50
+full-christian-expansion,full-christian-expansion:registry:37,Elohei Yaakov,אלהי יעקב,corpus_registry.csv,37,2,4-4,8,0,exact-word-vector,9804,50
+full-christian-expansion,full-christian-expansion:registry:18,Yeshua,ישוע,corpus_registry.csv,18,1,4,4,0,exact-word-vector,7677,50
+full-christian-expansion,full-christian-expansion:registry:19,Immanuel,עמנו אל,corpus_registry.csv,19,2,4-2,6,0,exact-word-vector,3726,50
+full-christian-expansion,full-christian-expansion:registry:20,Mashiach,משיח,corpus_registry.csv,20,1,4,4,0,exact-word-vector,7677,50
+full-christian-expansion,full-christian-expansion:registry:21,Sar Shalom,שר שלום,corpus_registry.csv,21,2,2-4,6,1,exact-word-vector,1940,50
+full-christian-expansion,full-christian-expansion:expansion:57,Malakh YHWH,מלאך יהוה,divine_name_expansion_candidates.csv,57,2,4-4,8,1,exact-word-vector,6320,50
+full-christian-expansion,full-christian-expansion:expansion:58,Pele Yoetz,פלא יועץ,divine_name_expansion_candidates.csv,58,2,3-4,7,1,exact-word-vector,4196,50
+full-christian-expansion,full-christian-expansion:expansion:59,Avi Ad,אבי עד,divine_name_expansion_candidates.csv,59,2,3-2,5,0,exact-word-vector,1849,50
+full-christian-expansion,full-christian-expansion:expansion:60,Isaiah Throne-Name Sequence,פלא יועץ אל גבור אבי עד שר שלום,divine_name_expansion_candidates.csv,60,8,3-4-2-4-3-2-2-4,24,2,fallback-exact-total,448,50
+full-christian-expansion,full-christian-expansion:expansion:61,Yeshua HaMashiach,ישוע המשיח,divine_name_expansion_candidates.csv,61,2,4-5,9,0,exact-word-vector,6136,50
+full-christian-expansion,full-christian-expansion:expansion:62,Adoneinu Yeshua HaMashiach defective,אדנינו ישוע המשיח,divine_name_expansion_candidates.csv,62,3,6-4-5,15,0,exact-word-vector,322,50
+full-christian-expansion,full-christian-expansion:expansion:63,Adoneinu Yeshua HaMashiach plene,אדונינו ישוע המשיח,divine_name_expansion_candidates.csv,63,3,7-4-5,16,0,exact-word-vector,73,50
+full-christian-expansion,full-christian-expansion:expansion:64,Ben HaElohim defective,בן האלהים,divine_name_expansion_candidates.csv,64,2,2-6,8,2,exact-word-vector,156,50
+full-christian-expansion,full-christian-expansion:expansion:65,Ben HaElohim plene,בן האלוהים,divine_name_expansion_candidates.csv,65,2,2-7,9,2,fallback-exact-total,2357,50
+full-christian-expansion,full-christian-expansion:expansion:66,Davar HaElohim defective,דבר האלהים,divine_name_expansion_candidates.csv,66,2,3-6,9,1,exact-word-vector,1667,50
+full-christian-expansion,full-christian-expansion:expansion:67,Davar HaElohim plene,דבר האלוהים,divine_name_expansion_candidates.csv,67,2,3-7,10,1,exact-word-vector,432,50
+full-christian-expansion,full-christian-expansion:expansion:68,Or HaOlam,אור העולם,divine_name_expansion_candidates.csv,68,2,3-5,8,1,exact-word-vector,3183,50
+full-christian-expansion,full-christian-expansion:expansion:69,Amen lexical form,אמן,divine_name_expansion_candidates.csv,69,1,3,3,1,exact-word-vector,539,50
+full-christian-expansion,full-christian-expansion:expansion:70,HaRoeh HaTov defective,הרעה הטוב,divine_name_expansion_candidates.csv,70,2,4-4,8,0,exact-word-vector,9804,50
+full-christian-expansion,full-christian-expansion:expansion:71,HaRoeh HaTov plene,הרועה הטוב,divine_name_expansion_candidates.csv,71,2,5-4,9,0,exact-word-vector,5844,50
+full-christian-expansion,full-christian-expansion:expansion:72,HaMashiach,המשיח,divine_name_expansion_candidates.csv,72,1,5,5,0,exact-word-vector,9587,50
+full-christian-expansion,full-christian-expansion:expansion:73,Ben HaAdam,בן האדם,divine_name_expansion_candidates.csv,73,2,2-4,6,2,exact-word-vector,301,50
+full-christian-expansion,full-christian-expansion:expansion:82,HaAmen,האמן,divine_name_expansion_candidates.csv,82,1,4,4,1,exact-word-vector,2130,50

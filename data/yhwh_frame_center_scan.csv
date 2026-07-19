@@ -1,0 +1,13 @@
+center_digit,center_value,base12,decimal_value,base10_digital_root,base12_digit_sum,center_equals_decimal_root,base12_digit_sum_equals_12,both_conditions
+0,0,202,290,2,4,no,no,no
+1,1,212,302,5,5,no,no,no
+2,2,222,314,8,6,no,no,no
+3,3,232,326,2,7,no,no,no
+4,4,242,338,5,8,no,no,no
+5,5,252,350,8,9,no,no,no
+6,6,262,362,2,10,no,no,no
+7,7,272,374,5,11,no,no,no
+8,8,282,386,8,12,yes,yes,yes
+9,9,292,398,2,13,no,no,no
+A,10,2A2,410,5,14,no,no,no
+B,11,2B2,422,8,15,no,no,no

@@ -1,0 +1,9 @@
+﻿node,hebrew,standard_value,base12,anchor,routes
+YHWH,יהוה,26,22,22,exact_base12_text
+Yeshua,ישוע,386,282,8,palindrome_center
+Yeshua,ישוע,386,282,12,first_base12_digit_sum
+Yeshua,ישוע,386,282,22,palindrome_outer_frame
+Yeshua HaMashiach,ישוע המשיח,749,525,12,first_base12_digit_sum
+Ehyeh Asher Ehyeh,אהיה אשר אהיה,543,393,42,repeated_outer_sum
+Eloah,אלוה,42,36,42,exact_decimal
+Elohim,אלהים,86,72,72,exact_base12_text

@@ -1,0 +1,58 @@
+﻿dataset,base,value_count,palindrome_count,palindrome_rank,collapse_8_count,collapse_12_count,collapse_4_count,attractor_8_12_count,attractor_rank,combined_score,combined_rank,palindrome_examples,collapse_8_examples,collapse_12_examples
+standard,2,34,3,8,0,0,7,0,19,6,18,El=11111; Adonai=1000001; El De’ot=111111111,,
+standard,3,34,6,1,2,0,5,2,18,14,8,YHWH=222; El Roi=22222; El Gibbor=22222; El Kana=20202; El HaNe’eman=20202; El HaKavod=2112,Shaddai=102122; Yeshua=112022,
+standard,4,34,3,8,6,0,2,6,10,12,11,Eloah=222; Adonai=1001; Elohei HaShamayim=12321,Shaddai=10322; El Roi=3302; El Gibbor=3302; Ribbono Shel Olam=23210; El Kana=2312; El HaNe’eman=2312,
+standard,5,34,3,8,4,0,1,4,13,10,12,El=111; YHWH=101; Elohei HaAretz=2332,Ribbono Shel Olam=10430; El HaGadol=314; El HaKavod=233; Elohei Yaakov=1403,
+standard,6,34,6,1,4,3,5,7,9,19,3,Elohim=222; El Elyon=525; Shekhinah=1441; HaMakom=515; Immanuel=525; Adon=141,Ehyeh Asher Ehyeh=2303; El Yeshuati=3455; HaRachaman=1223; El HaKavod=152,El Elyon=525; El Olam=453; Immanuel=525
+standard,7,34,5,3,8,2,3,10,4,20,1,Shaddai=626; El Roi=464; El Gibbor=464; Elohei HaAretz=666; Elohei Yaakov=444,Elohim=152; YHWH=35; Ribbono Shel Olam=2105; Yeshua=1061; El Kana=350; El HaNe’eman=350; El HaKavod=125; Elohei Yitzchak=512,Sar Shalom=2361; Elohei Yaakov=444
+standard,8,34,2,13,3,2,2,5,12,9,16,Adonai=101; El De’ot=777,El Elyon=305; Yeshua=602; Immanuel=305,Ribbono Shel Olam=1344; Adon=75
+standard,9,34,3,8,1,3,5,4,13,10,12,HaMakom=232; El Kana=222; El HaNe’eman=222,Shekhinah=467,Sar Shalom=1173; El HaKavod=75; Elohei Yaakov=273
+standard,10,34,4,6,8,4,2,12,1,20,1,El Roi=242; El Gibbor=242; HaMakom=191; HaRachaman=303,YHWH=26; Shaddai=314; El Elyon=197; El Roi=242; El Gibbor=242; El Yeshuati=827; Yeshua=386; Immanuel=197,Ehyeh Asher Ehyeh=543; El Shaddai=345; El HaGadol=84; Elohei Yaakov=228
+standard,11,34,5,3,4,4,4,8,7,18,5,Ehyeh Asher Ehyeh=454; El Olam=151; Sar Shalom=727; El Berit=535; El HaGadol=77,El Elyon=16A; El Yeshuati=692; Immanuel=16A; El HaKavod=62,Eloah=39; Elohei HaAretz=291; El Kana=156; El HaNe’eman=156
+standard,12,34,5,3,4,5,2,9,5,19,3,YHWH=22; Adonai=55; Shaddai=222; Ehyeh Asher Ehyeh=393; Yeshua=282,HaKadosh Baruch Hu=467; Mashiach=25A; Elohei Avraham=206; Elohei Yaakov=170,El Olam=129; Yeshua=282; Elohei HaShamayim=309; Elohei HaAretz=246; Elohei Yitzchak=192
+standard,13,34,3,8,1,3,2,4,13,10,12,Eloah=33; Sar Shalom=525; El HaGadol=66,El HaKavod=53,Sar Shalom=525; El HaGadol=66; Elohei Yaakov=147
+standard,14,34,2,13,8,1,6,9,5,13,9,El Elyon=101; Immanuel=101,Elohim=62; El Roi=134; El Gibbor=134; El Yeshuati=431; HaRachaman=179; Elohei HaAretz=1A6; El De’ot=287; Elohei Avraham=170,Elohei HaShamayim=237
+standard,15,34,0,19,0,3,6,3,17,3,19,,,YHWH=1B; Ribbono Shel Olam=345; El HaKavod=48
+standard,16,34,2,13,9,3,3,12,1,16,6,Shekhinah=181; El HaKavod=44,El Elyon=C5; El Roi=F2; El Gibbor=F2; El Yeshuati=33B; HaMakom=BF; Immanuel=C5; El Kana=B6; El HaNe’eman=B6; El HaKavod=44,Eloah=2A; El Olam=B1; Elohei HaAretz=156
+standard,17,34,2,13,3,1,5,4,13,8,17,Mashiach=141; El De’ot=1D1,Adonai=3E; El Olam=A7; Shekhinah=15B,Sar Shalom=309
+standard,18,34,2,13,3,3,3,6,10,10,12,Ribbono Shel Olam=252; Elohei Yaakov=CC,Eloah=26; Sar Shalom=2CC; El HaKavod=3E,Yeshua=138; El Kana=A2; El HaNe’eman=A2
+standard,19,34,1,18,8,3,2,11,3,13,9,Sar Shalom=282,YHWH=17; Shaddai=GA; El Elyon=A7; El Roi=CE; El Gibbor=CE; El Yeshuati=25A; Yeshua=116; Immanuel=A7,Sar Shalom=282; El HaGadol=48; Elohei Yaakov=C0
+standard,20,34,4,6,7,1,4,8,7,16,6,Eloah=22; Elohei HaShamayim=121; El HaGadol=44; Elohei Avraham=EE,Adonai=35; El Elyon=9H; Immanuel=9H; Mashiach=HI; El De’ot=15B; El HaGadol=44; Elohei Yitzchak=CE,El=1B
+mispar_gadol,2,34,3,6,1,0,5,1,19,7,16,El=11111; Adonai=1000001; El De’ot=111111111,HaMakom=1011101111,
+mispar_gadol,3,34,6,2,3,0,2,3,15,15,4,YHWH=222; El Elyon=1011101; El Roi=22222; El Gibbor=22222; El Kana=20202; El HaKavod=2112,Shaddai=102122; Yeshua=112022; Elohei Avraham=1011122,
+mispar_gadol,4,34,2,7,7,0,5,7,6,11,9,Eloah=222; Adonai=1001,Shaddai=10322; El Olam=23201; El Roi=3302; El Gibbor=3302; Sar Shalom=112130; El Kana=2312; Elohei Avraham=31112,
+mispar_gadol,5,34,2,7,6,0,1,6,10,10,12,El=111; YHWH=101,Sar Shalom=21221; Elohei HaAretz=14102; El HaNe’eman=11312; El HaGadol=314; El HaKavod=233; Elohei Yaakov=1403,
+mispar_gadol,6,34,2,7,3,4,5,7,6,11,9,Shekhinah=1441; Immanuel=525,Ehyeh Asher Ehyeh=2303; El Yeshuati=3455; El HaKavod=152,El Elyon=3531; El Olam=3225; Immanuel=525; El HaNe’eman=3504
+mispar_gadol,7,34,4,5,7,2,2,9,4,17,3,Shaddai=626; El Roi=464; El Gibbor=464; Elohei Yaakov=444,YHWH=35; Yeshua=1061; Sar Shalom=4121; El Kana=350; El HaKavod=125; Elohei Avraham=2330; Elohei Yitzchak=512,Elohei HaAretz=3234; Elohei Yaakov=444
+mispar_gadol,8,34,2,7,2,1,2,3,15,7,16,Adonai=101; El De’ot=777,Yeshua=602; Immanuel=305,Ribbono Shel Olam=2424
+mispar_gadol,9,34,2,7,4,3,3,7,6,11,9,Elohim=787; El Kana=222,Shekhinah=467; HaRachaman=1268; Elohei HaAretz=1520; El HaNe’eman=1124,Ribbono Shel Olam=1704; El HaKavod=75; Elohei Yaakov=273
+mispar_gadol,10,34,5,3,10,4,5,14,1,24,1,Elohim=646; El Olam=737; El Roi=242; El Gibbor=242; Elohei HaShamayim=1001,YHWH=26; Shaddai=314; El Olam=737; El Roi=242; El Gibbor=242; El Yeshuati=827; HaRachaman=953; Yeshua=386; Immanuel=197; Elohei Avraham=854,Ehyeh Asher Ehyeh=543; El Shaddai=345; El HaGadol=84; Elohei Yaakov=228
+mispar_gadol,11,34,5,3,3,2,5,5,13,15,4,Ehyeh Asher Ehyeh=454; HaRachaman=797; El Berit=535; El HaGadol=77; Elohei Avraham=707,El Yeshuati=692; Immanuel=16A; El HaKavod=62,Eloah=39; El Kana=156
+mispar_gadol,12,34,7,1,3,2,5,5,13,19,2,YHWH=22; Adonai=55; Shaddai=222; Ehyeh Asher Ehyeh=393; El Olam=515; HaKadosh Baruch Hu=7A7; Yeshua=282,Mashiach=25A; Elohei HaAretz=800; Elohei Yaakov=170,Yeshua=282; Elohei Yitzchak=192
+mispar_gadol,13,34,2,7,4,2,2,6,10,10,12,Eloah=33; El HaGadol=66,El Olam=449; HaRachaman=584; Elohei HaShamayim=5C0; El HaKavod=53,El HaGadol=66; Elohei Yaakov=147
+mispar_gadol,14,34,1,17,7,0,8,7,6,9,15,Immanuel=101,El Roi=134; El Gibbor=134; El Yeshuati=431; HaRachaman=4C1; HaKadosh Baruch Hu=5B1; Ribbono Shel Olam=68C; El De’ot=287,
+mispar_gadol,15,34,0,18,1,2,6,3,15,3,19,,Ribbono Shel Olam=5BA,YHWH=1B; El HaKavod=48
+mispar_gadol,16,34,2,7,9,2,5,11,3,15,4,Shekhinah=181; El HaKavod=44,El Olam=2E1; El Roi=F2; El Gibbor=F2; El Yeshuati=33B; Immanuel=C5; Sar Shalom=59C; Elohei HaShamayim=3E9; El Kana=B6; El HaKavod=44,Eloah=2A; Elohei HaAretz=480
+mispar_gadol,17,34,2,7,3,0,6,3,15,7,16,Mashiach=141; El De’ot=1D1,Adonai=3E; El Olam=296; Shekhinah=15B,
+mispar_gadol,18,34,2,7,4,2,3,6,10,10,12,Ribbono Shel Olam=404; Elohei Yaakov=CC,Eloah=26; HaRachaman=2GH; Ribbono Shel Olam=404; El HaKavod=3E,Yeshua=138; El Kana=A2
+mispar_gadol,19,34,0,18,10,2,5,12,2,12,7,,YHWH=17; Shaddai=GA; El Olam=20F; El Roi=CE; El Gibbor=CE; El Yeshuati=25A; HaRachaman=2C3; Yeshua=116; Immanuel=A7; Elohei Avraham=26I,El HaGadol=48; Elohei Yaakov=C0
+mispar_gadol,20,34,2,7,7,1,5,8,5,12,7,Eloah=22; El HaGadol=44,Adonai=35; Ribbono Shel Olam=350; Immanuel=9H; Mashiach=HI; El De’ot=15B; El HaGadol=44; Elohei Yitzchak=CE,El=1B
+paper_basis,2,34,3,6,1,0,5,1,19,7,16,El=11111; Adonai=1000001; El De’ot=111111111,HaMakom=1011101111,
+paper_basis,3,34,6,2,3,0,2,3,15,15,4,YHWH=222; El Elyon=1011101; El Roi=22222; El Gibbor=22222; El Kana=20202; El HaKavod=2112,Shaddai=102122; Yeshua=112022; Elohei Avraham=1011122,
+paper_basis,4,34,2,7,7,0,5,7,6,11,9,Eloah=222; Adonai=1001,Shaddai=10322; El Olam=23201; El Roi=3302; El Gibbor=3302; Sar Shalom=112130; El Kana=2312; Elohei Avraham=31112,
+paper_basis,5,34,2,7,6,0,1,6,10,10,12,El=111; YHWH=101,Sar Shalom=21221; Elohei HaAretz=14102; El HaNe’eman=11312; El HaGadol=314; El HaKavod=233; Elohei Yaakov=1403,
+paper_basis,6,34,2,7,3,4,5,7,6,11,9,Shekhinah=1441; Immanuel=525,Ehyeh Asher Ehyeh=2303; El Yeshuati=3455; El HaKavod=152,El Elyon=3531; El Olam=3225; Immanuel=525; El HaNe’eman=3504
+paper_basis,7,34,4,5,7,2,2,9,4,17,3,Shaddai=626; El Roi=464; El Gibbor=464; Elohei Yaakov=444,YHWH=35; Yeshua=1061; Sar Shalom=4121; El Kana=350; El HaKavod=125; Elohei Avraham=2330; Elohei Yitzchak=512,Elohei HaAretz=3234; Elohei Yaakov=444
+paper_basis,8,34,2,7,2,1,2,3,15,7,16,Adonai=101; El De’ot=777,Yeshua=602; Immanuel=305,Ribbono Shel Olam=2424
+paper_basis,9,34,2,7,4,3,3,7,6,11,9,Elohim=787; El Kana=222,Shekhinah=467; HaRachaman=1268; Elohei HaAretz=1520; El HaNe’eman=1124,Ribbono Shel Olam=1704; El HaKavod=75; Elohei Yaakov=273
+paper_basis,10,34,5,3,10,4,5,14,1,24,1,Elohim=646; El Olam=737; El Roi=242; El Gibbor=242; Elohei HaShamayim=1001,YHWH=26; Shaddai=314; El Olam=737; El Roi=242; El Gibbor=242; El Yeshuati=827; HaRachaman=953; Yeshua=386; Immanuel=197; Elohei Avraham=854,Ehyeh Asher Ehyeh=543; El Shaddai=345; El HaGadol=84; Elohei Yaakov=228
+paper_basis,11,34,5,3,3,2,5,5,13,15,4,Ehyeh Asher Ehyeh=454; HaRachaman=797; El Berit=535; El HaGadol=77; Elohei Avraham=707,El Yeshuati=692; Immanuel=16A; El HaKavod=62,Eloah=39; El Kana=156
+paper_basis,12,34,7,1,3,2,5,5,13,19,2,YHWH=22; Adonai=55; Shaddai=222; Ehyeh Asher Ehyeh=393; El Olam=515; HaKadosh Baruch Hu=7A7; Yeshua=282,Mashiach=25A; Elohei HaAretz=800; Elohei Yaakov=170,Yeshua=282; Elohei Yitzchak=192
+paper_basis,13,34,2,7,4,2,2,6,10,10,12,Eloah=33; El HaGadol=66,El Olam=449; HaRachaman=584; Elohei HaShamayim=5C0; El HaKavod=53,El HaGadol=66; Elohei Yaakov=147
+paper_basis,14,34,1,17,7,0,8,7,6,9,15,Immanuel=101,El Roi=134; El Gibbor=134; El Yeshuati=431; HaRachaman=4C1; HaKadosh Baruch Hu=5B1; Ribbono Shel Olam=68C; El De’ot=287,
+paper_basis,15,34,0,18,1,2,6,3,15,3,19,,Ribbono Shel Olam=5BA,YHWH=1B; El HaKavod=48
+paper_basis,16,34,2,7,9,2,5,11,3,15,4,Shekhinah=181; El HaKavod=44,El Olam=2E1; El Roi=F2; El Gibbor=F2; El Yeshuati=33B; Immanuel=C5; Sar Shalom=59C; Elohei HaShamayim=3E9; El Kana=B6; El HaKavod=44,Eloah=2A; Elohei HaAretz=480
+paper_basis,17,34,2,7,3,0,6,3,15,7,16,Mashiach=141; El De’ot=1D1,Adonai=3E; El Olam=296; Shekhinah=15B,
+paper_basis,18,34,2,7,4,2,3,6,10,10,12,Ribbono Shel Olam=404; Elohei Yaakov=CC,Eloah=26; HaRachaman=2GH; Ribbono Shel Olam=404; El HaKavod=3E,Yeshua=138; El Kana=A2
+paper_basis,19,34,0,18,10,2,5,12,2,12,7,,YHWH=17; Shaddai=GA; El Olam=20F; El Roi=CE; El Gibbor=CE; El Yeshuati=25A; HaRachaman=2C3; Yeshua=116; Immanuel=A7; Elohei Avraham=26I,El HaGadol=48; Elohei Yaakov=C0
+paper_basis,20,34,2,7,7,1,5,8,5,12,7,Eloah=22; El HaGadol=44,Adonai=35; Ribbono Shel Olam=350; Immanuel=9H; Mashiach=HI; El De’ot=15B; El HaGadol=44; Elohei Yitzchak=CE,El=1B

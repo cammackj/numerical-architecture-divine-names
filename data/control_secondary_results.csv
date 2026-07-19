@@ -1,0 +1,13 @@
+﻿analysis_layer,analysis_status,metric,observed_count,control_mean,control_median,control_interval_2_5,control_interval_97_5,simulations_at_least_observed,empirical_upper_tail
+primary-biblical,primary-locked,any_base12,5,2.64828,3.0,0.0,6.0,11582,0.11582884171158288
+primary-biblical,primary-locked,strict_8,10,6.22283,6.0,2.0,11.0,6372,0.06372936270637293
+primary-biblical,primary-locked,strict_12,8,4.2817,4.0,1.0,8.0,4902,0.049029509704902954
+expanded-biblical-all,exploratory-sensitivity,any_base12,14,8.61134,8.0,4.0,14.0,4499,0.044999550004499955
+expanded-biblical-all,exploratory-sensitivity,strict_8,23,21.00978,21.0,14.0,29.0,34397,0.34397656023439765
+expanded-biblical-all,exploratory-sensitivity,strict_12,18,13.98115,14.0,8.0,21.0,14755,0.14755852441475587
+restored-christian-inclusive,exploratory-sensitivity,any_base12,7,3.14368,3.0,0.0,7.0,3120,0.03120968790312097
+restored-christian-inclusive,exploratory-sensitivity,strict_8,13,7.42809,7.0,3.0,12.0,1723,0.017239827601723982
+restored-christian-inclusive,exploratory-sensitivity,strict_12,10,5.17801,5.0,2.0,9.0,2338,0.023389766102338977
+full-christian-expansion,exploratory-sensitivity,any_base12,14,5.27251,5.0,2.0,10.0,43,0.00043999560004399956
+full-christian-expansion,exploratory-sensitivity,strict_8,19,12.79748,13.0,7.0,19.0,3053,0.03053969460305397
+full-christian-expansion,exploratory-sensitivity,strict_12,14,8.79899,9.0,4.0,14.0,4238,0.042389576104238956

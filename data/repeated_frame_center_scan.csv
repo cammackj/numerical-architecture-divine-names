@@ -1,0 +1,133 @@
+outer_digit,outer_value,center_digit,center_value,base12,decimal_value,base10_digital_root,base12_digit_sum,center_equals_decimal_root,base12_digit_sum_equals_12,both_conditions,standard_expressions,mispar_gadol_expressions,outer_frame_base12,standard_frame_expressions,mispar_gadol_frame_expressions
+1,1,0,0,101,145,1,2,no,no,no,,,11,,
+1,1,1,1,111,157,4,3,no,no,no,,,11,,
+1,1,2,2,121,169,7,4,no,no,no,,,11,,
+1,1,3,3,131,181,1,5,no,no,no,,,11,,
+1,1,4,4,141,193,4,6,yes,no,no,,,11,,
+1,1,5,5,151,205,7,7,no,no,no,,,11,,
+1,1,6,6,161,217,1,8,no,no,no,,,11,,
+1,1,7,7,171,229,4,9,no,no,no,,,11,,
+1,1,8,8,181,241,7,10,no,no,no,Melekh HaOlam,,11,,
+1,1,9,9,191,253,1,11,no,no,no,,,11,,
+1,1,A,10,1A1,265,4,12,no,yes,no,,,11,,
+1,1,B,11,1B1,277,7,13,no,no,no,,,11,,
+2,2,0,0,202,290,2,4,no,no,no,,,22,YHWH,YHWH
+2,2,1,1,212,302,5,5,no,no,no,HaRoeh HaTov defective,HaRoeh HaTov defective,22,YHWH,YHWH
+2,2,2,2,222,314,8,6,no,no,no,Shaddai,Shaddai,22,YHWH,YHWH
+2,2,3,3,232,326,2,7,no,no,no,,,22,YHWH,YHWH
+2,2,4,4,242,338,5,8,no,no,no,,,22,YHWH,YHWH
+2,2,5,5,252,350,8,9,no,no,no,,,22,YHWH,YHWH
+2,2,6,6,262,362,2,10,no,no,no,,,22,YHWH,YHWH
+2,2,7,7,272,374,5,11,no,no,no,,,22,YHWH,YHWH
+2,2,8,8,282,386,8,12,yes,yes,yes,Yeshua,Yeshua,22,YHWH,YHWH
+2,2,9,9,292,398,2,13,no,no,no,,,22,YHWH,YHWH
+2,2,A,10,2A2,410,5,14,no,no,no,Qadosh,Qadosh,22,YHWH,YHWH
+2,2,B,11,2B2,422,8,15,no,no,no,,,22,YHWH,YHWH
+3,3,0,0,303,435,3,6,no,no,no,,,33,YHWH Echad,YHWH Echad
+3,3,1,1,313,447,6,7,no,no,no,,,33,YHWH Echad,YHWH Echad
+3,3,2,2,323,459,9,8,no,no,no,,,33,YHWH Echad,YHWH Echad
+3,3,3,3,333,471,3,9,yes,no,no,,,33,YHWH Echad,YHWH Echad
+3,3,4,4,343,483,6,10,no,no,no,,,33,YHWH Echad,YHWH Echad
+3,3,5,5,353,495,9,11,no,no,no,,,33,YHWH Echad,YHWH Echad
+3,3,6,6,363,507,3,12,no,yes,no,,,33,YHWH Echad,YHWH Echad
+3,3,7,7,373,519,6,13,no,no,no,,,33,YHWH Echad,YHWH Echad
+3,3,8,8,383,531,9,14,no,no,no,,,33,YHWH Echad,YHWH Echad
+3,3,9,9,393,543,3,15,no,no,no,Ehyeh Asher Ehyeh,Ehyeh Asher Ehyeh,33,YHWH Echad,YHWH Echad
+3,3,A,10,3A3,555,6,16,no,no,no,,,33,YHWH Echad,YHWH Echad
+3,3,B,11,3B3,567,9,17,no,no,no,,,33,YHWH Echad,YHWH Echad
+4,4,0,0,404,580,4,8,no,no,no,,,44,BEN,
+4,4,1,1,414,592,7,9,no,no,no,Kedosh Yaakov,Kedosh Yaakov,44,BEN,
+4,4,2,2,424,604,1,10,no,no,no,,,44,BEN,
+4,4,3,3,434,616,4,11,no,no,no,,,44,BEN,
+4,4,4,4,444,628,7,12,no,yes,no,,,44,BEN,
+4,4,5,5,454,640,1,13,no,no,no,,,44,BEN,
+4,4,6,6,464,652,4,14,no,no,no,,,44,BEN,
+4,4,7,7,474,664,7,15,yes,no,no,YHWH Tzevaot Hu Melekh HaKavod,,44,BEN,
+4,4,8,8,484,676,1,16,no,no,no,,,44,BEN,
+4,4,9,9,494,688,4,17,no,no,no,,,44,BEN,
+4,4,A,10,4A4,700,7,18,no,no,no,,,44,BEN,
+4,4,B,11,4B4,712,1,19,no,no,no,,,44,BEN,
+5,5,0,0,505,725,5,10,no,no,no,,,55,Adonai,Adonai
+5,5,1,1,515,737,8,11,no,no,no,,El Olam,55,Adonai,Adonai
+5,5,2,2,525,749,2,12,yes,yes,yes,Yeshua HaMashiach,Yeshua HaMashiach,55,Adonai,Adonai
+5,5,3,3,535,761,5,13,no,no,no,Avinu Shebashamayim,,55,Adonai,Adonai
+5,5,4,4,545,773,8,14,no,no,no,,,55,Adonai,Adonai
+5,5,5,5,555,785,2,15,no,no,no,,,55,Adonai,Adonai
+5,5,6,6,565,797,5,16,no,no,no,,,55,Adonai,Adonai
+5,5,7,7,575,809,8,17,no,no,no,,,55,Adonai,Adonai
+5,5,8,8,585,821,2,18,no,no,no,,,55,Adonai,Adonai
+5,5,9,9,595,833,5,19,no,no,no,,,55,Adonai,Adonai
+5,5,A,10,5A5,845,8,20,no,no,no,,,55,Adonai,Adonai
+5,5,B,11,5B5,857,2,21,no,no,no,,Davar HaElohim defective,55,Adonai,Adonai
+6,6,0,0,606,870,6,12,no,yes,no,Adoneinu Yeshua HaMashiach defective,Adoneinu Yeshua HaMashiach defective,66,,
+6,6,1,1,616,882,9,13,no,no,no,,,66,,
+6,6,2,2,626,894,3,14,no,no,no,,,66,,
+6,6,3,3,636,906,6,15,no,no,no,,,66,,
+6,6,4,4,646,918,9,16,no,no,no,,Or HaOlam,66,,
+6,6,5,5,656,930,3,17,no,no,no,,,66,,
+6,6,6,6,666,942,6,18,yes,no,no,,,66,,
+6,6,7,7,676,954,9,19,no,no,no,,,66,,
+6,6,8,8,686,966,3,20,no,no,no,,,66,,
+6,6,9,9,696,978,6,21,no,no,no,,,66,,
+6,6,A,10,6A6,990,9,22,no,no,no,,,66,,
+6,6,B,11,6B6,1002,3,23,no,no,no,,,66,,
+7,7,0,0,707,1015,7,14,no,no,no,,,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,1,1,717,1027,1,15,yes,no,no,,,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,2,2,727,1039,4,16,no,no,no,El Elyon Qoneh Shamayim VaAretz,,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,3,3,737,1051,7,17,no,no,no,,,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,4,4,747,1063,1,18,no,no,no,,,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,5,5,757,1075,4,19,no,no,no,,,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,6,6,767,1087,7,20,no,no,no,Shomer Yisrael,Shomer Yisrael,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,7,7,777,1099,1,21,no,no,no,,,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,8,8,787,1111,4,22,no,no,no,,Melekh Yisrael,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,9,9,797,1123,7,23,no,no,no,,,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,A,10,7A7,1135,1,24,no,no,no,,HaKadosh Baruch Hu; Qudsha Berikh Hu,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+7,7,B,11,7B7,1147,4,25,no,no,no,,,77,Adonai YHWH; Amen lexical form,Adonai YHWH
+8,8,0,0,808,1160,8,16,no,no,no,,,88,,
+8,8,1,1,818,1172,2,17,no,no,no,,,88,,
+8,8,2,2,828,1184,5,18,no,no,no,,,88,,
+8,8,3,3,838,1196,8,19,no,no,no,,,88,,
+8,8,4,4,848,1208,2,20,no,no,no,,,88,,
+8,8,5,5,858,1220,5,21,yes,no,no,,,88,,
+8,8,6,6,868,1232,8,22,no,no,no,,,88,,
+8,8,7,7,878,1244,2,23,no,no,no,,Eben Yisrael,88,,
+8,8,8,8,888,1256,5,24,no,no,no,,,88,,
+8,8,9,9,898,1268,8,25,no,no,no,,,88,,
+8,8,A,10,8A8,1280,2,26,no,no,no,,,88,,
+8,8,B,11,8B8,1292,5,27,no,no,no,,,88,,
+9,9,0,0,909,1305,9,18,no,no,no,,,99,Malakh YHWH,
+9,9,1,1,919,1317,3,19,no,no,no,,,99,Malakh YHWH,
+9,9,2,2,929,1329,6,20,no,no,no,,,99,Malakh YHWH,
+9,9,3,3,939,1341,9,21,no,no,no,,,99,Malakh YHWH,
+9,9,4,4,949,1353,3,22,no,no,no,,Ben HaElohim defective,99,Malakh YHWH,
+9,9,5,5,959,1365,6,23,no,no,no,,,99,Malakh YHWH,
+9,9,6,6,969,1377,9,24,no,no,no,,,99,Malakh YHWH,
+9,9,7,7,979,1389,3,25,no,no,no,,,99,Malakh YHWH,
+9,9,8,8,989,1401,6,26,no,no,no,,,99,Malakh YHWH,
+9,9,9,9,999,1413,9,27,yes,no,no,,,99,Malakh YHWH,
+9,9,A,10,9A9,1425,3,28,no,no,no,,,99,Malakh YHWH,
+9,9,B,11,9B9,1437,6,29,no,no,no,,,99,Malakh YHWH,
+A,10,0,0,A0A,1450,1,20,no,no,no,,,AA,,
+A,10,1,1,A1A,1462,4,21,no,no,no,,,AA,,
+A,10,2,2,A2A,1474,7,22,no,no,no,,,AA,,
+A,10,3,3,A3A,1486,1,23,no,no,no,,,AA,,
+A,10,4,4,A4A,1498,4,24,yes,no,no,,,AA,,
+A,10,5,5,A5A,1510,7,25,no,no,no,,,AA,,
+A,10,6,6,A6A,1522,1,26,no,no,no,,,AA,,
+A,10,7,7,A7A,1534,4,27,no,no,no,,,AA,,
+A,10,8,8,A8A,1546,7,28,no,no,no,,,AA,,
+A,10,9,9,A9A,1558,1,29,no,no,no,,,AA,,
+A,10,A,10,AAA,1570,4,30,no,no,no,,,AA,,
+A,10,B,11,ABA,1582,7,31,no,no,no,,,AA,,
+B,11,0,0,B0B,1595,2,22,no,no,no,,,BB,Ben HaElohim defective,
+B,11,1,1,B1B,1607,5,23,no,no,no,,,BB,Ben HaElohim defective,
+B,11,2,2,B2B,1619,8,24,no,no,no,,,BB,Ben HaElohim defective,
+B,11,3,3,B3B,1631,2,25,no,no,no,,,BB,Ben HaElohim defective,
+B,11,4,4,B4B,1643,5,26,no,no,no,,,BB,Ben HaElohim defective,
+B,11,5,5,B5B,1655,8,27,no,no,no,,,BB,Ben HaElohim defective,
+B,11,6,6,B6B,1667,2,28,no,no,no,,,BB,Ben HaElohim defective,
+B,11,7,7,B7B,1679,5,29,no,no,no,,,BB,Ben HaElohim defective,
+B,11,8,8,B8B,1691,8,30,yes,no,no,,,BB,Ben HaElohim defective,
+B,11,9,9,B9B,1703,2,31,no,no,no,,,BB,Ben HaElohim defective,
+B,11,A,10,BAB,1715,5,32,no,no,no,,,BB,Ben HaElohim defective,
+B,11,B,11,BBB,1727,8,33,no,no,no,,,BB,Ben HaElohim defective,

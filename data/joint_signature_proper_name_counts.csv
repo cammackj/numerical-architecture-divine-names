@@ -1,0 +1,6 @@
+﻿universe,metric,target_hit,hits,total,proportion
+strict_HNp_proper_name_controls,three_digit_base12,yes,382,597,0.6398659966499163
+strict_HNp_proper_name_controls,three_digit_palindrome,yes,30,597,0.05025125628140704
+strict_HNp_proper_name_controls,outer_22_palindrome,yes,7,597,0.011725293132328308
+strict_HNp_proper_name_controls,three_digit_sum_12,yes,37,597,0.06197654941373534
+strict_HNp_proper_name_controls,exact_282_signature,yes,2,597,0.0033500837520938024

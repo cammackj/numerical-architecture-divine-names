@@ -1,0 +1,83 @@
+candidate_id,name,hebrew,layer,object_class,attestation_status,representative_source,source_url,broad_biblical_scan,notes
+1,Yah,יה,primary-biblical-expansion,biblical-divine-name,exact,Exodus 15:2,https://www.sefaria.org/Exodus.15.2?lang=bi,yes,Standalone short form of YHWH.
+2,Ehyeh,אהיה,primary-biblical-expansion,biblical-divine-name,exact,Exodus 3:14,https://www.sefaria.org/Exodus.3.14?lang=bi,yes,Standalone self-designation in addition to the full formula.
+3,YHWH Elohim,יהוה אלהים,primary-biblical-expansion,biblical-divine-compound,exact,Genesis 2:4,https://www.sefaria.org/Genesis.2.4?lang=bi,yes,Common compound form.
+4,Adonai YHWH,אדני יהוה,primary-biblical-expansion,biblical-divine-compound,exact,Genesis 15:2,https://www.sefaria.org/Genesis.15.2?lang=bi,yes,Exact divine address.
+5,YHWH Echad,יהוה אחד,primary-biblical-expansion,biblical-identity-formula,exact,Deuteronomy 6:4,https://www.sefaria.org/Deuteronomy.6.4?lang=bi,yes,Shema identity formula rather than a simple lexical name.
+6,YHWH Tzevaot,יהוה צבאות,primary-biblical-expansion,biblical-divine-title,exact,I Samuel 1:3,https://www.sefaria.org/I_Samuel.1.3?lang=bi,yes,Lord of Hosts.
+7,YHWH Elohei Yisrael,יהוה אלהי ישראל,primary-biblical-expansion,biblical-divine-title,exact,Exodus 5:1,https://www.sefaria.org/Exodus.5.1?lang=bi,yes,LORD God of Israel.
+8,Elohei Yisrael,אלהי ישראל,primary-biblical-expansion,biblical-divine-title,exact,Exodus 5:1,https://www.sefaria.org/Exodus.5.1?lang=bi,yes,God of Israel.
+9,El Elohei Yisrael,אל אלהי ישראל,primary-biblical-expansion,biblical-divine-title,exact,Genesis 33:20,https://www.sefaria.org/Genesis.33.20?lang=bi,yes,Exact altar-name declaration with debated syntax.
+10,El Elyon Qoneh Shamayim VaAretz,אל עליון קנה שמים וארץ,primary-biblical-expansion,biblical-divine-title,exact,Genesis 14:19,https://www.sefaria.org/Genesis.14.19?lang=bi,yes,Full attested El Elyon epithet.
+11,El Chai,אל חי,primary-biblical-expansion,biblical-divine-title,exact,Joshua 3:10,https://www.sefaria.org/Joshua.3.10?lang=bi,yes,Living God.
+12,Elohim Chayim,אלהים חיים,primary-biblical-expansion,biblical-divine-title,exact,Jeremiah 10:10,https://www.sefaria.org/Jeremiah.10.10?lang=bi,yes,Living God.
+13,YHWH Elohim Emet,יהוה אלהים אמת,primary-biblical-expansion,biblical-divine-title,exact,Jeremiah 10:10,https://www.sefaria.org/Jeremiah.10.10?lang=bi,yes,YHWH is the true God.
+14,El Emunah,אל אמונה,primary-biblical-expansion,biblical-divine-title,exact,Deuteronomy 32:4,https://www.sefaria.org/Deuteronomy.32.4?lang=bi,yes,Faithful God.
+15,HaTzur,הצור,primary-biblical-expansion,biblical-metaphorical-title,exact,Deuteronomy 32:4,https://www.sefaria.org/Deuteronomy.32.4?lang=bi,yes,The Rock.
+16,Qadosh,קדוש,primary-biblical-expansion,biblical-divine-title,exact,Isaiah 40:25,https://www.sefaria.org/Isaiah.40.25?lang=bi,yes,The verse uses Qadosh as the divine speaker designation.
+17,Kedosh Yisrael,קדוש ישראל,primary-biblical-expansion,biblical-divine-title,exact,Isaiah 1:4,https://www.sefaria.org/Isaiah.1.4?lang=bi,yes,Holy One of Israel.
+18,Kedosh Yaakov,קדוש יעקב,primary-biblical-expansion,biblical-divine-title,exact,Isaiah 29:23,https://www.sefaria.org/Isaiah.29.23?lang=bi,yes,Holy One of Jacob.
+19,Avir Yaakov,אביר יעקב,primary-biblical-expansion,biblical-divine-title,exact,Genesis 49:24,https://www.sefaria.org/Genesis.49.24?lang=bi,yes,Mighty One of Jacob.
+20,Avir Yisrael,אביר ישראל,primary-biblical-expansion,biblical-divine-title,exact,Isaiah 1:24,https://www.sefaria.org/Isaiah.1.24?lang=bi,yes,Mighty One of Israel.
+21,Tzur Yisrael,צור ישראל,primary-biblical-expansion,biblical-metaphorical-title,exact,II Samuel 23:3,https://www.sefaria.org/II_Samuel.23.3?lang=bi,yes,Rock of Israel.
+22,Eben Yisrael,אבן ישראל,primary-biblical-expansion,biblical-metaphorical-title,exact-context-review,Genesis 49:24,https://www.sefaria.org/Genesis.49.24?lang=bi,yes,Exact words but their syntactic relation and epithet status are debated.
+23,Roeh Yisrael,רעה ישראל,primary-biblical-expansion,biblical-metaphorical-title,exact,Psalms 80:2,https://www.sefaria.org/Psalms.80.2?lang=bi,yes,Shepherd of Israel.
+24,Shomer Yisrael,שומר ישראל,primary-biblical-expansion,biblical-divine-title,exact,Psalms 121:4,https://www.sefaria.org/Psalms.121.4?lang=bi,yes,Keeper of Israel.
+25,Melekh Yisrael,מלך ישראל,primary-biblical-expansion,biblical-divine-title,exact,Isaiah 44:6,https://www.sefaria.org/Isaiah.44.6?lang=bi,yes,King of Israel.
+26,Melekh Olam,מלך עולם,primary-biblical-expansion,biblical-divine-title,exact,Jeremiah 10:10,https://www.sefaria.org/Jeremiah.10.10?lang=bi,yes,Everlasting King.
+27,Melekh HaKavod,מלך הכבוד,primary-biblical-expansion,biblical-divine-title,exact,Psalms 24:8,https://www.sefaria.org/Psalms.24.8?lang=bi,yes,King of Glory.
+28,YHWH Tzevaot Hu Melekh HaKavod,יהוה צבאות הוא מלך הכבוד,primary-biblical-expansion,biblical-identity-formula,exact,Psalms 24:10,https://www.sefaria.org/Psalms.24.10?lang=bi,yes,Full identity formula rather than a compact name.
+29,Elyon,עליון,primary-biblical-expansion,biblical-divine-title,exact,Psalms 91:1,https://www.sefaria.org/Psalms.91.1?lang=bi,yes,Most High.
+30,Moshia,מושיע,primary-biblical-expansion,biblical-divine-title,exact,Isaiah 43:11,https://www.sefaria.org/Isaiah.43.11?lang=bi,yes,Savior.
+31,Ani Hu,אני הוא,primary-biblical-expansion,biblical-identity-formula,exact,Deuteronomy 32:39,https://www.sefaria.org/Deuteronomy.32.39?lang=bi,yes,I am He.
+32,Ani YHWH,אני יהוה,primary-biblical-expansion,biblical-identity-formula,exact,Exodus 6:2,https://www.sefaria.org/Exodus.6.2?lang=bi,yes,I am YHWH.
+33,Anokhi YHWH,אנכי יהוה,primary-biblical-expansion,biblical-identity-formula,exact,Exodus 20:2,https://www.sefaria.org/Exodus.20.2?lang=bi,yes,I am YHWH.
+34,Ani Rishon vaAni Acharon,אני ראשון ואני אחרון,primary-biblical-expansion,biblical-identity-formula,exact,Isaiah 44:6,https://www.sefaria.org/Isaiah.44.6?lang=bi,yes,I am first and I am last.
+35,Adon Kol HaAretz,אדון כל הארץ,primary-biblical-expansion,biblical-divine-title,exact,Joshua 3:11,https://www.sefaria.org/Joshua.3.11?lang=bi,yes,Lord of all the earth.
+36,Elohei HaElohim,אלהי האלהים,primary-biblical-expansion,biblical-divine-title,exact,Deuteronomy 10:17,https://www.sefaria.org/Deuteronomy.10.17?lang=bi,yes,God of gods.
+37,Adonei HaAdonim,אדני האדנים,primary-biblical-expansion,biblical-divine-title,exact,Deuteronomy 10:17,https://www.sefaria.org/Deuteronomy.10.17?lang=bi,yes,Lord of lords.
+38,El Nekamot,אל נקמות,primary-biblical-expansion,biblical-divine-title,exact,Psalms 94:1,https://www.sefaria.org/Psalms.94.1?lang=bi,yes,God of vengeance.
+39,El Tzaddik uMoshia,אל צדיק ומושיע,primary-biblical-expansion,biblical-divine-title,exact,Isaiah 45:21,https://www.sefaria.org/Isaiah.45.21?lang=bi,yes,Righteous God and Savior.
+40,El Mistater,אל מסתתר,primary-biblical-expansion,biblical-divine-title,exact,Isaiah 45:15,https://www.sefaria.org/Isaiah.45.15?lang=bi,yes,God who hides himself.
+41,Elohei Kol Basar,אלהי כל בשר,primary-biblical-expansion,biblical-divine-title,exact,Jeremiah 32:27,https://www.sefaria.org/Jeremiah.32.27?lang=bi,yes,God of all flesh.
+42,Elohei HaRuchot LeKhol Basar,אלהי הרוחת לכל בשר,primary-biblical-expansion,biblical-divine-title,exact,Numbers 16:22,https://www.sefaria.org/Numbers.16.22?lang=bi,yes,God of the spirits of all flesh with source-defective spelling.
+43,Elohei Olam YHWH,אלהי עולם יהוה,primary-biblical-expansion,biblical-divine-title,exact,Isaiah 40:28,https://www.sefaria.org/Isaiah.40.28?lang=bi,yes,Everlasting God YHWH.
+44,YHWH Elohim Tzevaot,יהוה אלהים צבאות,primary-biblical-expansion,biblical-divine-title,exact,Psalms 80:5,https://www.sefaria.org/Psalms.80.5?lang=bi,yes,LORD God of Hosts.
+45,YHWH Ish Milchamah,יהוה איש מלחמה,primary-biblical-expansion,biblical-divine-title,exact,Exodus 15:3,https://www.sefaria.org/Exodus.15.3?lang=bi,yes,YHWH is a warrior.
+46,YHWH Shemo,יהוה שמו,primary-biblical-expansion,biblical-identity-formula,exact,Exodus 15:3,https://www.sefaria.org/Exodus.15.3?lang=bi,yes,YHWH is his name.
+47,YHWH Tzevaot Shemo,יהוה צבאות שמו,primary-biblical-expansion,biblical-identity-formula,exact,Isaiah 47:4,https://www.sefaria.org/Isaiah.47.4?lang=bi,yes,YHWH of Hosts is his name.
+48,YHWH Mekaddishkem,יהוה מקדשכם,primary-biblical-expansion,biblical-relational-title,exact,Exodus 31:13,https://www.sefaria.org/Exodus.31.13?lang=bi,yes,YHWH who sanctifies you.
+49,YHWH Rofekha,יהוה רפאך,primary-biblical-expansion,biblical-relational-title,exact,Exodus 15:26,https://www.sefaria.org/Exodus.15.26?lang=bi,yes,YHWH who heals you.
+50,YHWH Roi,יהוה רעי,primary-biblical-expansion,biblical-relational-title,exact,Psalms 23:1,https://www.sefaria.org/Psalms.23.1?lang=bi,yes,YHWH my shepherd.
+51,YHWH Ori,יהוה אורי,primary-biblical-expansion,biblical-relational-title,exact,Psalms 27:1,https://www.sefaria.org/Psalms.27.1?lang=bi,yes,YHWH my light.
+52,YHWH Tsidkenu,יהוה צדקנו,primary-biblical-expansion,biblical-symbolic-name,exact-context-review,Jeremiah 23:6,https://www.sefaria.org/Jeremiah.23.6?lang=bi,yes,Applied in a royal or messianic naming context and requires object review.
+53,YHWH Shammah,יהוה שמה,primary-biblical-expansion,biblical-symbolic-name,exact-context-review,Ezekiel 48:35,https://www.sefaria.org/Ezekiel.48.35?lang=bi,yes,Name of the envisioned city rather than a direct divine address.
+54,YHWH Yireh,יהוה יראה,primary-biblical-expansion,biblical-symbolic-name,exact-context-review,Genesis 22:14,https://www.sefaria.org/Genesis.22.14?lang=bi,yes,Altar or place-name formula.
+55,YHWH Nissi,יהוה נסי,primary-biblical-expansion,biblical-symbolic-name,exact-context-review,Exodus 17:15,https://www.sefaria.org/Exodus.17.15?lang=bi,yes,Altar name.
+56,YHWH Shalom,יהוה שלום,primary-biblical-expansion,biblical-symbolic-name,exact-context-review,Judges 6:24,https://www.sefaria.org/Judges.6.24?lang=bi,yes,Altar name.
+57,Malakh YHWH,מלאך יהוה,christian-comparative-expansion,biblical-divine-agent,exact,Exodus 3:2,https://www.sefaria.org/Exodus.3.2?lang=bi,no,Christian identification as divine requires an explicit theological rule.
+58,Pele Yoetz,פלא יועץ,christian-comparative-expansion,biblical-messianic-title,exact,Isaiah 9:5,https://www.sefaria.org/Isaiah.9.5?lang=bi,no,Part of the Isaianic throne-name sequence.
+59,Avi Ad,אבי עד,christian-comparative-expansion,biblical-messianic-title,exact,Isaiah 9:5,https://www.sefaria.org/Isaiah.9.5?lang=bi,no,Part of the Isaianic throne-name sequence.
+60,Isaiah Throne-Name Sequence,פלא יועץ אל גבור אבי עד שר שלום,christian-comparative-expansion,biblical-messianic-formula,exact,Isaiah 9:5,https://www.sefaria.org/Isaiah.9.5?lang=bi,no,Full sequence tested as one formula.
+61,Yeshua HaMashiach,ישוע המשיח,christian-comparative-expansion,christian-hebrew-divine-title,translation-attested,Mark 1:1 Hebrew translation,https://www.biblica.com/bible/hd/%D7%94%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%A2%D7%9C-%D7%A4%D7%99-%D7%9E%D7%A8%D7%A7%D7%95%D7%A1/1/,no,Conventional Hebrew Christian title but the New Testament textual source is Greek.
+62,Adoneinu Yeshua HaMashiach defective,אדנינו ישוע המשיח,christian-comparative-expansion,christian-hebrew-divine-title,translation-attested,I Corinthians 1 Delitzsch Hebrew,https://biblehub.com/mod/1_corinthians/1.htm,no,Defective Adoneinu spelling in the cited Hebrew translation.
+63,Adoneinu Yeshua HaMashiach plene,אדונינו ישוע המשיח,christian-comparative-expansion,christian-hebrew-translation-variant,orthographic-control,Modern Hebrew control,,no,Plene control for the translation-sensitive title.
+64,Ben HaElohim defective,בן האלהים,christian-comparative-expansion,christian-hebrew-divine-title,translation-attested,I John 5 Delitzsch Hebrew,https://biblehub.com/mod/1_john/5.htm,no,Defective Elohim spelling used in older Hebrew translations.
+65,Ben HaElohim plene,בן האלוהים,christian-comparative-expansion,christian-hebrew-translation-variant,translation-attested,Modern Hebrew New Testament,https://www.biblica.com/bible/hd/%D7%94%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%A2%D7%9C-%D7%A4%D7%99-%D7%9E%D7%A8%D7%A7%D7%95%D7%A1/1/,no,Modern plene control for Son of God.
+66,Davar HaElohim defective,דבר האלהים,christian-comparative-expansion,christian-hebrew-divine-title,translation-attested,Revelation 19 Delitzsch Hebrew,https://biblehub.com/mod/revelation/19.htm,no,Defective Elohim spelling in the Word of God title.
+67,Davar HaElohim plene,דבר האלוהים,christian-comparative-expansion,christian-hebrew-translation-variant,orthographic-control,Modern Hebrew control,,no,Modern plene control for Word of God.
+68,Or HaOlam,אור העולם,christian-comparative-expansion,christian-hebrew-divine-title,translation-attested,John 8:12 Hebrew translation,https://www.bible.com/bible/24/JHN.8_1.12.HD,no,Light of the World.
+69,Amen lexical form,אמן,christian-comparative-expansion,christian-divine-title,lexical-title-extraction,Revelation 3:14 Hebrew translation,https://biblehub.com/mod/revelation/3.htm,no,Bare Semitic title extracted from the exact translated form HaAmen and therefore not source-exact as displayed.
+70,HaRoeh HaTov defective,הרעה הטוב,christian-comparative-expansion,christian-hebrew-divine-title,translation-attested,John 10 Delitzsch Hebrew,https://ebible.com/modernhebrew/john/10,no,Defective Roeh spelling in one Hebrew translation.
+71,HaRoeh HaTov plene,הרועה הטוב,christian-comparative-expansion,christian-hebrew-translation-variant,orthographic-control,Modern Hebrew control,,no,Plene control for Good Shepherd.
+72,HaMashiach,המשיח,christian-comparative-expansion,christian-hebrew-title,translation-attested,Hebrew New Testament,,no,The Messiah with article.
+73,Ben HaAdam,בן האדם,christian-comparative-expansion,christian-hebrew-title,translation-attested,Hebrew New Testament,,no,Son of Man.
+74,Melekh HaOlam,מלך העולם,later-traditional-expansion,liturgical-divine-title,later-exact,Siddur blessing formula,https://www.sefaria.org/Siddur_Ashkenaz%2C_Weekday%2C_Shacharit%2C_Preparatory_Prayers%2C_Morning_Blessings.2?lang=bi,no,King of the universe with article.
+75,Adon Olam,אדון עולם,later-traditional-expansion,liturgical-divine-title,later-exact,Adon Olam hymn,https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Shacharit%2C_Preparatory_Prayers%2C_Adon_Olam?lang=bi,no,Liturgical title.
+76,Avinu Malkeinu,אבינו מלכנו,later-traditional-expansion,liturgical-divine-title,later-exact,Avinu Malkeinu prayer,https://www.sefaria.org/Siddur_Ashkenaz%2C_Festivals%2C_Rosh_Hashanah%2C_Musaf%2C_Avinu_Malkeinu?lang=bi,no,Liturgical address formula.
+77,Avinu Shebashamayim,אבינו שבשמים,later-traditional-expansion,rabbinic-divine-title,later-exact,Mishnah Sotah 9:15,https://www.sefaria.org/Mishnah_Sotah.9.15?lang=bi,no,Our Father in heaven.
+78,HaShem,השם,later-traditional-expansion,jewish-divine-euphemism,later-exact,Later Jewish usage,,no,The Name.
+79,Shalom,שלום,later-traditional-expansion,rabbinic-divine-name,later-exact,Shabbat 10b,https://www.sefaria.org/Shabbat.10b?lang=bi,no,Talmud identifies Shalom as a divine name.
+80,Ein Sof,אין סוף,later-traditional-expansion,kabbalistic-divine-title,later-exact,Kabbalistic usage,,no,The Infinite.
+81,Qudsha Berikh Hu,קודשא בריך הוא,later-traditional-expansion,aramaic-divine-epithet,later-exact,Zoharic usage,,no,Aramaic counterpart to HaKadosh Baruch Hu.
+82,HaAmen,האמן,christian-comparative-expansion,christian-hebrew-translation-variant,translation-attested,Revelation 3:14 Hebrew translation,https://biblehub.com/mod/revelation/3.htm,no,Exact article-bearing Hebrew translation control for the bare Amen title.

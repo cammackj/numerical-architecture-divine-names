@@ -1,0 +1,80 @@
+﻿source,name,hebrew,basis,value,hit_type,note
+corpus,El,אל,standard,31,exact,El standard
+corpus,El,אל,mispar-gadol,31,exact,El standard
+corpus,Eloah,אלוה,standard,42,multiple,14 * 3 (AB/minimal triad)
+corpus,Eloah,אלוה,standard,42,multiple,6 * 7 (seven)
+corpus,Eloah,אלוה,standard,42,exact,forty-two
+corpus,Eloah,אלוה,mispar-gadol,42,multiple,14 * 3 (AB/minimal triad)
+corpus,Eloah,אלוה,mispar-gadol,42,multiple,6 * 7 (seven)
+corpus,Eloah,אלוה,mispar-gadol,42,exact,forty-two
+corpus,Elohim,אלהים,standard-base12,72,base12-string,seventy-two string
+corpus,YHWH,יהוה,standard,26,multiple,2 * 13 (one/echad value)
+corpus,YHWH,יהוה,standard,26,exact,YHWH standard
+corpus,YHWH,יהוה,mispar-gadol,26,multiple,2 * 13 (one/echad value)
+corpus,YHWH,יהוה,mispar-gadol,26,exact,YHWH standard
+corpus,YHWH,יהוה,standard-base12,22,base12-string,YHWH base-12 signature
+corpus,YHWH,יהוה,mispar-gadol-base12,22,base12-string,YHWH base-12 signature
+corpus,Adonai,אדני,standard,65,multiple,5 * 13 (one/echad value)
+corpus,Adonai,אדני,mispar-gadol,65,multiple,5 * 13 (one/echad value)
+corpus,Shaddai,שדי,standard,314,exact,pi/Shaddai
+corpus,Shaddai,שדי,mispar-gadol,314,exact,pi/Shaddai
+corpus,Shaddai,שדי,standard-base12,222,base12-string,triple-2 identity string
+corpus,Shaddai,שדי,mispar-gadol-base12,222,base12-string,triple-2 identity string
+corpus,Ehyeh Asher Ehyeh,אהיה אשר אהיה,standard-base12,393,base12-string,Ehyeh Asher Ehyeh palindrome
+corpus,Ehyeh Asher Ehyeh,אהיה אשר אהיה,mispar-gadol-base12,393,base12-string,Ehyeh Asher Ehyeh palindrome
+corpus,El Olam,אל עולם,mispar-gadol-base12,515,base12-string,El Olam Mispar Gadol palindrome
+corpus,El Roi,אל ראי,standard,242,multiple,11 * 22 (Hebrew alphabet/YHWH base-12 signature)
+corpus,El Roi,אל ראי,mispar-gadol,242,multiple,11 * 22 (Hebrew alphabet/YHWH base-12 signature)
+corpus,El Gibbor,אל גבור,standard,242,multiple,11 * 22 (Hebrew alphabet/YHWH base-12 signature)
+corpus,El Gibbor,אל גבור,mispar-gadol,242,multiple,11 * 22 (Hebrew alphabet/YHWH base-12 signature)
+corpus,HaKadosh Baruch Hu,הקדוש ברוך הוא,standard,655,exact,Tanakh 929 -> 655_12 prefix candidate
+corpus,HaKadosh Baruch Hu,הקדוש ברוך הוא,mispar-gadol-base12,7A7,base12-string,HaKadosh Baruch Hu Mispar Gadol palindrome
+corpus,Ribbono Shel Olam,רבונו של עולם,standard,740,multiple,20 * 37 (Genesis-factor candidate)
+corpus,Yeshua,ישוע,standard,386,exact,Yeshua
+corpus,Yeshua,ישוע,mispar-gadol,386,exact,Yeshua
+corpus,Yeshua,ישוע,standard-base12,282,base12-string,Yeshua bridge string
+corpus,Yeshua,ישוע,mispar-gadol-base12,282,base12-string,Yeshua bridge string
+corpus,Mashiach,משיח,standard,358,exact,Mashiach/Nachash
+corpus,Mashiach,משיח,mispar-gadol,358,exact,Mashiach/Nachash
+corpus,Sar Shalom,שר שלום,standard,876,multiple,12 * 73 (Chokmah/wisdom candidate)
+corpus,Elohei HaShamayim,אלהי השמים,mispar-gadol,1001,multiple,11 * 91 (YHWH+Adonai/Amen)
+corpus,Elohei HaAretz,אלהי הארץ,mispar-gadol,1152,multiple,16 * 72 (seventy-two)
+corpus,El Shaddai,אל שדי,standard,345,exact,El Shaddai/Moses/3-4-5
+corpus,El Shaddai,אל שדי,mispar-gadol,345,exact,El Shaddai/Moses/3-4-5
+corpus,El Kana,אל קנא,standard,182,multiple,14 * 13 (one/echad value)
+corpus,El Kana,אל קנא,standard,182,multiple,7 * 26 (YHWH standard)
+corpus,El Kana,אל קנא,standard,182,multiple,2 * 91 (YHWH+Adonai/Amen)
+corpus,El Kana,אל קנא,mispar-gadol,182,multiple,14 * 13 (one/echad value)
+corpus,El Kana,אל קנא,mispar-gadol,182,multiple,7 * 26 (YHWH standard)
+corpus,El Kana,אל קנא,mispar-gadol,182,multiple,2 * 91 (YHWH+Adonai/Amen)
+corpus,El De’ot,אל דעות,standard,511,multiple,7 * 73 (Chokmah/wisdom candidate)
+corpus,El De’ot,אל דעות,mispar-gadol,511,multiple,7 * 73 (Chokmah/wisdom candidate)
+corpus,El HaNe’eman,האל הנאמן,standard,182,multiple,14 * 13 (one/echad value)
+corpus,El HaNe’eman,האל הנאמן,standard,182,multiple,7 * 26 (YHWH standard)
+corpus,El HaNe’eman,האל הנאמן,standard,182,multiple,2 * 91 (YHWH+Adonai/Amen)
+corpus,El HaNe’eman,האל הנאמן,mispar-gadol,832,multiple,16 * 52 (BEN/YHWH doubled)
+corpus,El HaGadol,האל הגדול,standard,84,multiple,12 * 7 (seven)
+corpus,El HaGadol,האל הגדול,standard,84,multiple,7 * 12 (completion collapse)
+corpus,El HaGadol,האל הגדול,standard,84,multiple,2 * 42 (forty-two)
+corpus,El HaGadol,האל הגדול,mispar-gadol,84,multiple,12 * 7 (seven)
+corpus,El HaGadol,האל הגדול,mispar-gadol,84,multiple,7 * 12 (completion collapse)
+corpus,El HaGadol,האל הגדול,mispar-gadol,84,multiple,2 * 42 (forty-two)
+corpus,Elohei Avraham,אלהי אברהם,standard,294,multiple,7 * 42 (forty-two)
+corpus,Elohei Yaakov,אלהי יעקב,standard,228,multiple,19 * 12 (completion collapse)
+corpus,Elohei Yaakov,אלהי יעקב,mispar-gadol,228,multiple,19 * 12 (completion collapse)
+corpus,The 42-Letter Name,שם בן מ״ב,standard,434,multiple,14 * 31 (El standard)
+corpus,The 42-Letter Name,שם בן מ״ב,mispar-gadol,1644,multiple,12 * 137 (fine-structure candidate)
+corpus,AB,"ע""ב",standard,72,multiple,9 * 8 (agency collapse)
+corpus,AB,"ע""ב",standard,72,multiple,6 * 12 (completion collapse)
+corpus,AB,"ע""ב",standard,72,exact,seventy-two
+corpus,AB,"ע""ב",mispar-gadol,72,multiple,9 * 8 (agency collapse)
+corpus,AB,"ע""ב",mispar-gadol,72,multiple,6 * 12 (completion collapse)
+corpus,AB,"ע""ב",mispar-gadol,72,exact,seventy-two
+corpus,SAG,"ס""ג",standard,63,multiple,9 * 7 (seven)
+corpus,SAG,"ס""ג",mispar-gadol,63,multiple,9 * 7 (seven)
+corpus,MAH,"מ""ה",standard,45,multiple,15 * 3 (AB/minimal triad)
+corpus,MAH,"מ""ה",mispar-gadol,45,multiple,15 * 3 (AB/minimal triad)
+corpus,BEN,"ב""ן",standard,52,multiple,4 * 13 (one/echad value)
+corpus,BEN,"ב""ן",standard,52,multiple,2 * 26 (YHWH standard)
+corpus,BEN,"ב""ן",standard,52,exact,BEN/YHWH doubled
+corpus,BEN,"ב""ן",standard-base12,44,base12-string,BEN standard palindrome

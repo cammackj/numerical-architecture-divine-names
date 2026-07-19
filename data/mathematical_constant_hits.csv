@@ -1,0 +1,95 @@
+﻿source,category,name,hebrew,basis,value,structure,significance,caution
+corpus,mersenne,El,אל,standard,31,2^5 - 1,Exact Mersenne-form hit.,"Mersenne form is mathematically real, but still needs interpretive warrant."
+corpus,mersenne,El,אל,mispar-gadol,31,2^5 - 1,Exact Mersenne-form hit.,"Mersenne form is mathematically real, but still needs interpretive warrant."
+corpus,star-number-multiple,YHWH,יהוה,standard,26,2 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,YHWH,יהוה,mispar-gadol,26,2 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,Adonai,אדני,standard,65,5 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,Adonai,אדני,mispar-gadol,65,5 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,base12-notation-fibonacci-string,Adonai,אדני,standard-base12,55_12,digits form Fibonacci number 55,Base-12 notation visually matches a Fibonacci number.,This is notation-level only; do not confuse with decimal value.
+corpus,base12-notation-fibonacci-string,Adonai,אדני,mispar-gadol-base12,55_12,digits form Fibonacci number 55,Base-12 notation visually matches a Fibonacci number.,This is notation-level only; do not confuse with decimal value.
+corpus,decimal-constant-encoding,Shaddai,שדי,standard,314,pi to two decimal places: 3.14,Direct decimal encoding of a standard mathematical constant.,Decimal encodings are suggestive only when the surrounding name is independently important.
+corpus,decimal-constant-encoding,Shaddai,שדי,mispar-gadol,314,pi to two decimal places: 3.14,Direct decimal encoding of a standard mathematical constant.,Decimal encodings are suggestive only when the surrounding name is independently important.
+corpus,star-number-multiple,Ehyeh Asher Ehyeh,אהיה אשר אהיה,standard,543,3 * 181 (S6),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,Ehyeh Asher Ehyeh,אהיה אשר אהיה,mispar-gadol,543,3 * 181 (S6),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,El Elyon,אל עליון,mispar-gadol,847,7 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,El Roi,אל ראי,standard,242,2 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,El Roi,אל ראי,mispar-gadol,242,2 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,El Gibbor,אל גבור,standard,242,2 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,El Gibbor,אל גבור,mispar-gadol,242,2 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,Ribbono Shel Olam,רבונו של עולם,standard,740,20 * 37 (S3),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,Sar Shalom,שר שלום,standard,876,12 * 73 (S4),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,base12-notation-fibonacci-string,Sar Shalom,שר שלום,standard-base12,610_12,digits form Fibonacci number 610,Base-12 notation visually matches a Fibonacci number.,This is notation-level only; do not confuse with decimal value.
+corpus,square,Elohei HaShamayim,אלהי השמים,standard,441,21^2,Exact square-number hit.,Only meaningful if the square root has independent relevance.
+corpus,pythagorean-digit-encoding,El Shaddai,אל שדי,standard,345,primitive 3-4-5 triple,Encodes a primitive Pythagorean triple as decimal digits.,"This is digit syntax, not a theorem unless the manuscript defines why digit strings count."
+corpus,pythagorean-digit-encoding,El Shaddai,אל שדי,mispar-gadol,345,primitive 3-4-5 triple,Encodes a primitive Pythagorean triple as decimal digits.,"This is digit syntax, not a theorem unless the manuscript defines why digit strings count."
+corpus,star-number-multiple,El Kana,אל קנא,standard,182,14 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,El Kana,אל קנא,mispar-gadol,182,14 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,star-number-multiple,El De’ot,אל דעות,standard,511,7 * 73 (S4),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,mersenne,El De’ot,אל דעות,standard,511,2^9 - 1,Exact Mersenne-form hit.,"Mersenne form is mathematically real, but still needs interpretive warrant."
+corpus,star-number-multiple,El De’ot,אל דעות,mispar-gadol,511,7 * 73 (S4),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,mersenne,El De’ot,אל דעות,mispar-gadol,511,2^9 - 1,Exact Mersenne-form hit.,"Mersenne form is mathematically real, but still needs interpretive warrant."
+corpus,star-number-multiple,El HaNe’eman,האל הנאמן,standard,182,14 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+corpus,mersenne,SAG,"ס""ג",standard,63,2^6 - 1,Exact Mersenne-form hit.,"Mersenne form is mathematically real, but still needs interpretive warrant."
+corpus,mersenne,SAG,"ס""ג",mispar-gadol,63,2^6 - 1,Exact Mersenne-form hit.,"Mersenne form is mathematically real, but still needs interpretive warrant."
+corpus,triangular,MAH,"מ""ה",standard,45,T9,Exact triangular-number hit.,Triangular hits are common; prioritize large or semantically meaningful cases.
+corpus,triangular,MAH,"מ""ה",mispar-gadol,45,T9,Exact triangular-number hit.,Triangular hits are common; prioritize large or semantically meaningful cases.
+corpus,star-number-multiple,BEN,"ב""ן",standard,52,4 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+component,fibonacci,Ehyeh,אהיה,standard,21,Fibonacci number,Exact Fibonacci hit.,Low Fibonacci numbers are common; stronger if repeated in semantically linked rows.
+component,triangular,Ehyeh,אהיה,standard,21,T6,Exact triangular-number hit.,Triangular hits are common; prioritize large or semantically meaningful cases.
+component,fibonacci,Ehyeh,אהיה,mispar-gadol,21,Fibonacci number,Exact Fibonacci hit.,Low Fibonacci numbers are common; stronger if repeated in semantically linked rows.
+component,triangular,Ehyeh,אהיה,mispar-gadol,21,T6,Exact triangular-number hit.,Triangular hits are common; prioritize large or semantically meaningful cases.
+existing-row,star-number-multiple,Ehyeh Asher Ehyeh,אהיה אשר אהיה,standard,543,3 * 181 (S6),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,Ehyeh Asher Ehyeh,אהיה אשר אהיה,mispar-gadol,543,3 * 181 (S6),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,El Roi,אל ראי,standard,242,2 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,El Roi,אל ראי,mispar-gadol,242,2 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,El Gibbor,אל גבור,standard,242,2 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,El Gibbor,אל גבור,mispar-gadol,242,2 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+candidate-title,star-number-multiple,YHWH Yireh,יהוה יראה,standard,242,2 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+candidate-title,star-number-multiple,YHWH Yireh,יהוה יראה,mispar-gadol,242,2 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,El Elyon,אל עליון,mispar-gadol,847,7 * 121 (S5),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+component,star-number-multiple,Olam,עולם,standard,146,2 * 73 (S4),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+component,star-number-multiple,HaNe'eman,הנאמן,standard,146,2 * 73 (S4),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,decimal-constant-encoding,Shaddai,שדי,standard,314,pi to two decimal places: 3.14,Direct decimal encoding of a standard mathematical constant.,Decimal encodings are suggestive only when the surrounding name is independently important.
+existing-row,decimal-constant-encoding,Shaddai,שדי,mispar-gadol,314,pi to two decimal places: 3.14,Direct decimal encoding of a standard mathematical constant.,Decimal encodings are suggestive only when the surrounding name is independently important.
+existing-row,pythagorean-digit-encoding,El Shaddai,אל שדי,standard,345,primitive 3-4-5 triple,Encodes a primitive Pythagorean triple as decimal digits.,"This is digit syntax, not a theorem unless the manuscript defines why digit strings count."
+existing-row,pythagorean-digit-encoding,El Shaddai,אל שדי,mispar-gadol,345,primitive 3-4-5 triple,Encodes a primitive Pythagorean triple as decimal digits.,"This is digit syntax, not a theorem unless the manuscript defines why digit strings count."
+candidate-title,star-number,HaKavod,הכבוד,standard,37,S3,Exact star-number hit.,Needs a rule explaining why star/hexagram numbers matter in this corpus.
+candidate-title,star-number,HaKavod,הכבוד,mispar-gadol,37,S3,Exact star-number hit.,Needs a rule explaining why star/hexagram numbers matter in this corpus.
+component,base12-notation-star-string,Gadol,גדול,standard-base12,37_12,digits form star number 37,Base-12 notation visually matches a star number.,This is notation-level only; do not confuse with decimal value.
+component,base12-notation-star-string,Gadol,גדול,mispar-gadol-base12,37_12,digits form star number 37,Base-12 notation visually matches a star number.,This is notation-level only; do not confuse with decimal value.
+candidate-variant,star-number-multiple,El Gadol,אל גדול,standard,74,2 * 37 (S3),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+candidate-variant,star-number-multiple,El Gadol,אל גדול,mispar-gadol,74,2 * 37 (S3),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+component,star-number-multiple,HaAretz,הארץ,standard,296,8 * 37 (S3),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,base12-notation-fibonacci-string,El HaAretz,אל הארץ,standard-base12,233_12,digits form Fibonacci number 233,Base-12 notation visually matches a Fibonacci number.,This is notation-level only; do not confuse with decimal value.
+component,star-number-multiple,Elohei,אלוהי,standard,52,4 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+component,star-number-multiple,Elohei,אלוהי,mispar-gadol,52,4 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+component,star-number-multiple,Yitzchak,יצחק,standard,208,16 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+component,star-number-multiple,Yitzchak,יצחק,mispar-gadol,208,16 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+component,star-number-multiple,Yaakov,יעקב,standard,182,14 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+component,star-number-multiple,Yaakov,יעקב,mispar-gadol,182,14 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,triangular,Elohei Avraham,אלוהי אברהם,standard,300,T24,Exact triangular-number hit.,Triangular hits are common; prioritize large or semantically meaningful cases.
+existing-row,star-number-multiple,Elohei Yitzchak,אלוהי יצחק,standard,260,20 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,Elohei Yitzchak,אלוהי יצחק,mispar-gadol,260,20 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,Elohei Yaakov,אלוהי יעקב,standard,234,18 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,Elohei Yaakov,אלוהי יעקב,mispar-gadol,234,18 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+candidate-title,triangular,Yah,יה,standard,15,T5,Exact triangular-number hit.,Triangular hits are common; prioritize large or semantically meaningful cases.
+candidate-title,mersenne,Yah,יה,standard,15,2^4 - 1,Exact Mersenne-form hit.,"Mersenne form is mathematically real, but still needs interpretive warrant."
+candidate-title,triangular,Yah,יה,mispar-gadol,15,T5,Exact triangular-number hit.,Triangular hits are common; prioritize large or semantically meaningful cases.
+candidate-title,mersenne,Yah,יה,mispar-gadol,15,2^4 - 1,Exact Mersenne-form hit.,"Mersenne form is mathematically real, but still needs interpretive warrant."
+candidate-title,base12-notation-star-string,Yah,יה,standard-base12,13_12,digits form star number 13,Base-12 notation visually matches a star number.,This is notation-level only; do not confuse with decimal value.
+candidate-title,base12-notation-star-string,Yah,יה,mispar-gadol-base12,13_12,digits form star number 13,Base-12 notation visually matches a star number.,This is notation-level only; do not confuse with decimal value.
+existing-row,star-number-multiple,YHWH,יהוה,standard,26,2 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,YHWH,יהוה,mispar-gadol,26,2 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,Adonai,אדני,standard,65,5 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,star-number-multiple,Adonai,אדני,mispar-gadol,65,5 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+existing-row,base12-notation-fibonacci-string,Adonai,אדני,standard-base12,55_12,digits form Fibonacci number 55,Base-12 notation visually matches a Fibonacci number.,This is notation-level only; do not confuse with decimal value.
+existing-row,base12-notation-fibonacci-string,Adonai,אדני,mispar-gadol-base12,55_12,digits form Fibonacci number 55,Base-12 notation visually matches a Fibonacci number.,This is notation-level only; do not confuse with decimal value.
+candidate-combination,star-number-multiple,YHWH Adonai,יהוה אדני,standard,91,7 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+candidate-combination,triangular,YHWH Adonai,יהוה אדני,standard,91,T13,Exact triangular-number hit.,Triangular hits are common; prioritize large or semantically meaningful cases.
+candidate-combination,star-number-multiple,YHWH Adonai,יהוה אדני,mispar-gadol,91,7 * 13 (S2),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+candidate-combination,triangular,YHWH Adonai,יהוה אדני,mispar-gadol,91,T13,Exact triangular-number hit.,Triangular hits are common; prioritize large or semantically meaningful cases.
+candidate-title,star-number-multiple,YHWH Nissi,יהוה נסי,standard,146,2 * 73 (S4),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+candidate-title,star-number-multiple,YHWH Nissi,יהוה נסי,mispar-gadol,146,2 * 73 (S4),Multiple of a low star number.,Multiples are weaker than exact hits and need controls.
+candidate-title,square,El Chai,אל חי,standard,49,7^2,Exact square-number hit.,Only meaningful if the square root has independent relevance.
+candidate-title,square,El Chai,אל חי,mispar-gadol,49,7^2,Exact square-number hit.,Only meaningful if the square root has independent relevance.
+candidate-title,base12-notation-star-string,Melekh HaOlam,מלך העולם,standard-base12,181_12,digits form star number 181,Base-12 notation visually matches a star number.,This is notation-level only; do not confuse with decimal value.

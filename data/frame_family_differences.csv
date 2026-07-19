@@ -1,0 +1,24 @@
+outer_frame,framed_expressions,left_name,left_base12,left_center,left_bases,right_name,right_base12,right_center,right_bases,shared_uniform_bases,comparison_type,decimal_difference,base12_difference,anchor_hit,anchor_note
+22,YHWH [standard/mispar-gadol],HaRoeh HaTov defective,212,1,standard; mispar-gadol,Shaddai,222,2,standard; mispar-gadol,standard; mispar-gadol,same-basis,12,10,yes,twelve
+22,YHWH [standard/mispar-gadol],Yeshua,282,8,standard; mispar-gadol,Qadosh,2A2,A,standard; mispar-gadol,standard; mispar-gadol,same-basis,24,20,no,
+22,YHWH [standard/mispar-gadol],Shaddai,222,2,standard; mispar-gadol,Yeshua,282,8,standard; mispar-gadol,standard; mispar-gadol,same-basis,72,60,yes,seventy-two
+22,YHWH [standard/mispar-gadol],HaRoeh HaTov defective,212,1,standard; mispar-gadol,Yeshua,282,8,standard; mispar-gadol,standard; mispar-gadol,same-basis,84,70,no,
+22,YHWH [standard/mispar-gadol],Shaddai,222,2,standard; mispar-gadol,Qadosh,2A2,A,standard; mispar-gadol,standard; mispar-gadol,same-basis,96,80,no,
+22,YHWH [standard/mispar-gadol],HaRoeh HaTov defective,212,1,standard; mispar-gadol,Qadosh,2A2,A,standard; mispar-gadol,standard; mispar-gadol,same-basis,108,90,no,
+44,BEN [standard],Kedosh Yaakov,414,1,standard,YHWH Tzevaot Hu Melekh HaKavod,474,7,standard,standard,same-basis,72,60,yes,seventy-two
+55,Adonai [standard/mispar-gadol],El Olam,515,1,mispar-gadol,Yeshua HaMashiach,525,2,standard; mispar-gadol,mispar-gadol,same-basis,12,10,yes,twelve
+55,Adonai [standard/mispar-gadol],Yeshua HaMashiach,525,2,standard; mispar-gadol,Avinu Shebashamayim,535,3,standard,standard,same-basis,12,10,yes,twelve
+55,Adonai [standard/mispar-gadol],El Olam,515,1,mispar-gadol,Avinu Shebashamayim,535,3,standard,,mixed-basis-only,24,20,no,
+55,Adonai [standard/mispar-gadol],Avinu Shebashamayim,535,3,standard,Davar HaElohim defective,5B5,B,mispar-gadol,,mixed-basis-only,96,80,no,
+55,Adonai [standard/mispar-gadol],Yeshua HaMashiach,525,2,standard; mispar-gadol,Davar HaElohim defective,5B5,B,mispar-gadol,mispar-gadol,same-basis,108,90,no,
+55,Adonai [standard/mispar-gadol],El Olam,515,1,mispar-gadol,Davar HaElohim defective,5B5,B,mispar-gadol,mispar-gadol,same-basis,120,A0,no,
+77,Adonai YHWH [standard/mispar-gadol]; Amen lexical form [standard],HaKadosh Baruch Hu,7A7,A,mispar-gadol,Qudsha Berikh Hu,7A7,A,mispar-gadol,mispar-gadol,same-basis,0,0,no,
+77,Adonai YHWH [standard/mispar-gadol]; Amen lexical form [standard],Melekh Yisrael,787,8,mispar-gadol,HaKadosh Baruch Hu,7A7,A,mispar-gadol,mispar-gadol,same-basis,24,20,no,
+77,Adonai YHWH [standard/mispar-gadol]; Amen lexical form [standard],Melekh Yisrael,787,8,mispar-gadol,Qudsha Berikh Hu,7A7,A,mispar-gadol,mispar-gadol,same-basis,24,20,no,
+77,Adonai YHWH [standard/mispar-gadol]; Amen lexical form [standard],Shomer Yisrael,767,6,standard; mispar-gadol,Melekh Yisrael,787,8,mispar-gadol,mispar-gadol,same-basis,24,20,no,
+77,Adonai YHWH [standard/mispar-gadol]; Amen lexical form [standard],El Elyon Qoneh Shamayim VaAretz,727,2,standard,Shomer Yisrael,767,6,standard; mispar-gadol,standard,same-basis,48,40,no,
+77,Adonai YHWH [standard/mispar-gadol]; Amen lexical form [standard],Shomer Yisrael,767,6,standard; mispar-gadol,HaKadosh Baruch Hu,7A7,A,mispar-gadol,mispar-gadol,same-basis,48,40,no,
+77,Adonai YHWH [standard/mispar-gadol]; Amen lexical form [standard],Shomer Yisrael,767,6,standard; mispar-gadol,Qudsha Berikh Hu,7A7,A,mispar-gadol,mispar-gadol,same-basis,48,40,no,
+77,Adonai YHWH [standard/mispar-gadol]; Amen lexical form [standard],El Elyon Qoneh Shamayim VaAretz,727,2,standard,Melekh Yisrael,787,8,mispar-gadol,,mixed-basis-only,72,60,yes,seventy-two
+77,Adonai YHWH [standard/mispar-gadol]; Amen lexical form [standard],El Elyon Qoneh Shamayim VaAretz,727,2,standard,HaKadosh Baruch Hu,7A7,A,mispar-gadol,,mixed-basis-only,96,80,no,
+77,Adonai YHWH [standard/mispar-gadol]; Amen lexical form [standard],El Elyon Qoneh Shamayim VaAretz,727,2,standard,Qudsha Berikh Hu,7A7,A,mispar-gadol,,mixed-basis-only,96,80,no,

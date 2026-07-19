@@ -1,0 +1,5 @@
+﻿corpus_slice,row_count,strict_8_count,strict_12_count,base10_palindrome_count,base12_palindrome_count,standard_base12_palindrome_count,standard_base12_palindrome_rank,standard_leading_bases,mispar_base12_palindrome_count,mispar_base12_palindrome_rank,mispar_leading_bases
+primary-biblical,24,10,8,5,5,4,3,3,5,2,3
+primary-plus-later-traditional,29,12,8,7,6,4,4,3,6,1,3; 12
+primary-plus-messianic-comparative,28,13,9,5,6,5,2,3,6,1,3; 12
+all-name-layers,33,15,9,7,7,5,3,3; 6,7,1,12

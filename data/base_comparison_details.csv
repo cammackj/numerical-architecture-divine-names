@@ -1,0 +1,1939 @@
+﻿dataset,base,index,name,value,representation,is_palindrome,collapse_endpoint
+standard,2,1,El,31,11111,yes,5
+standard,2,2,Eloah,42,101010,no,3
+standard,2,3,Elohim,86,1010110,no,4
+standard,2,4,YHWH,26,11010,no,3
+standard,2,5,Adonai,65,1000001,yes,2
+standard,2,6,Shaddai,314,100111010,no,5
+standard,2,7,Ehyeh Asher Ehyeh,543,1000011111,no,6
+standard,2,8,El Elyon,197,11000101,no,4
+standard,2,9,El Olam,177,10110001,no,4
+standard,2,10,El Roi,242,11110010,no,5
+standard,2,11,El Gibbor,242,11110010,no,5
+standard,2,12,El Yeshuati,827,1100111011,no,7
+standard,2,13,Shekhinah,385,110000001,no,3
+standard,2,14,HaMakom,191,10111111,no,7
+standard,2,15,HaRachaman,303,100101111,no,6
+standard,2,16,HaKadosh Baruch Hu,655,1010001111,no,6
+standard,2,17,Ribbono Shel Olam,740,1011100100,no,5
+standard,2,18,Yeshua,386,110000010,no,3
+standard,2,19,Immanuel,197,11000101,no,4
+standard,2,20,Mashiach,358,101100110,no,5
+standard,2,21,Sar Shalom,876,1101101100,no,6
+standard,2,22,Adon,61,111101,no,5
+standard,2,23,Elohei HaShamayim,441,110111001,no,6
+standard,2,24,Elohei HaAretz,342,101010110,no,5
+standard,2,25,El Shaddai,345,101011001,no,5
+standard,2,26,El Kana,182,10110110,no,5
+standard,2,27,El De’ot,511,111111111,yes,9
+standard,2,28,El Berit,643,1010000011,no,4
+standard,2,29,El HaNe’eman,182,10110110,no,5
+standard,2,30,El HaGadol,84,1010100,no,3
+standard,2,32,El HaKavod,68,1000100,no,2
+standard,2,35,Elohei Avraham,294,100100110,no,4
+standard,2,36,Elohei Yitzchak,254,11111110,no,7
+standard,2,37,Elohei Yaakov,228,11100100,no,4
+standard,3,1,El,31,1011,no,3
+standard,3,2,Eloah,42,1120,no,4
+standard,3,3,Elohim,86,10012,no,4
+standard,3,4,YHWH,26,222,yes,6
+standard,3,5,Adonai,65,2102,no,5
+standard,3,6,Shaddai,314,102122,no,8
+standard,3,7,Ehyeh Asher Ehyeh,543,202010,no,5
+standard,3,8,El Elyon,197,21022,no,7
+standard,3,9,El Olam,177,20120,no,5
+standard,3,10,El Roi,242,22222,yes,10
+standard,3,11,El Gibbor,242,22222,yes,10
+standard,3,12,El Yeshuati,827,1010122,no,7
+standard,3,13,Shekhinah,385,112021,no,7
+standard,3,14,HaMakom,191,21002,no,5
+standard,3,15,HaRachaman,303,102020,no,5
+standard,3,16,HaKadosh Baruch Hu,655,220021,no,7
+standard,3,17,Ribbono Shel Olam,740,1000102,no,4
+standard,3,18,Yeshua,386,112022,no,8
+standard,3,19,Immanuel,197,21022,no,7
+standard,3,20,Mashiach,358,111021,no,6
+standard,3,21,Sar Shalom,876,1012110,no,6
+standard,3,22,Adon,61,2021,no,5
+standard,3,23,Elohei HaShamayim,441,121100,no,5
+standard,3,24,Elohei HaAretz,342,110200,no,4
+standard,3,25,El Shaddai,345,110210,no,5
+standard,3,26,El Kana,182,20202,yes,6
+standard,3,27,El De’ot,511,200221,no,7
+standard,3,28,El Berit,643,212211,no,9
+standard,3,29,El HaNe’eman,182,20202,yes,6
+standard,3,30,El HaGadol,84,10010,no,2
+standard,3,32,El HaKavod,68,2112,yes,6
+standard,3,35,Elohei Avraham,294,101220,no,6
+standard,3,36,Elohei Yitzchak,254,100102,no,4
+standard,3,37,Elohei Yaakov,228,22110,no,6
+standard,4,1,El,31,133,no,7
+standard,4,2,Eloah,42,222,yes,6
+standard,4,3,Elohim,86,1112,no,5
+standard,4,4,YHWH,26,122,no,5
+standard,4,5,Adonai,65,1001,yes,2
+standard,4,6,Shaddai,314,10322,no,8
+standard,4,7,Ehyeh Asher Ehyeh,543,20133,no,9
+standard,4,8,El Elyon,197,3011,no,5
+standard,4,9,El Olam,177,2301,no,6
+standard,4,10,El Roi,242,3302,no,8
+standard,4,11,El Gibbor,242,3302,no,8
+standard,4,12,El Yeshuati,827,30323,no,11
+standard,4,13,Shekhinah,385,12001,no,4
+standard,4,14,HaMakom,191,2333,no,11
+standard,4,15,HaRachaman,303,10233,no,9
+standard,4,16,HaKadosh Baruch Hu,655,22033,no,10
+standard,4,17,Ribbono Shel Olam,740,23210,no,8
+standard,4,18,Yeshua,386,12002,no,5
+standard,4,19,Immanuel,197,3011,no,5
+standard,4,20,Mashiach,358,11212,no,7
+standard,4,21,Sar Shalom,876,31230,no,9
+standard,4,22,Adon,61,331,no,7
+standard,4,23,Elohei HaShamayim,441,12321,yes,9
+standard,4,24,Elohei HaAretz,342,11112,no,6
+standard,4,25,El Shaddai,345,11121,no,6
+standard,4,26,El Kana,182,2312,no,8
+standard,4,27,El De’ot,511,13333,no,4
+standard,4,28,El Berit,643,22003,no,7
+standard,4,29,El HaNe’eman,182,2312,no,8
+standard,4,30,El HaGadol,84,1110,no,3
+standard,4,32,El HaKavod,68,1010,no,2
+standard,4,35,Elohei Avraham,294,10212,no,6
+standard,4,36,Elohei Yitzchak,254,3332,no,11
+standard,4,37,Elohei Yaakov,228,3210,no,6
+standard,5,1,El,31,111,yes,3
+standard,5,2,Eloah,42,132,no,6
+standard,5,3,Elohim,86,321,no,6
+standard,5,4,YHWH,26,101,yes,2
+standard,5,5,Adonai,65,230,no,5
+standard,5,6,Shaddai,314,2224,no,10
+standard,5,7,Ehyeh Asher Ehyeh,543,4133,no,11
+standard,5,8,El Elyon,197,1242,no,9
+standard,5,9,El Olam,177,1202,no,5
+standard,5,10,El Roi,242,1432,no,10
+standard,5,11,El Gibbor,242,1432,no,10
+standard,5,12,El Yeshuati,827,11302,no,7
+standard,5,13,Shekhinah,385,3020,no,5
+standard,5,14,HaMakom,191,1231,no,7
+standard,5,15,HaRachaman,303,2203,no,7
+standard,5,16,HaKadosh Baruch Hu,655,10110,no,3
+standard,5,17,Ribbono Shel Olam,740,10430,no,8
+standard,5,18,Yeshua,386,3021,no,6
+standard,5,19,Immanuel,197,1242,no,9
+standard,5,20,Mashiach,358,2413,no,10
+standard,5,21,Sar Shalom,876,12001,no,4
+standard,5,22,Adon,61,221,no,5
+standard,5,23,Elohei HaShamayim,441,3231,no,9
+standard,5,24,Elohei HaAretz,342,2332,yes,10
+standard,5,25,El Shaddai,345,2340,no,9
+standard,5,26,El Kana,182,1212,no,6
+standard,5,27,El De’ot,511,4021,no,7
+standard,5,28,El Berit,643,10033,no,7
+standard,5,29,El HaNe’eman,182,1212,no,6
+standard,5,30,El HaGadol,84,314,no,8
+standard,5,32,El HaKavod,68,233,no,8
+standard,5,35,Elohei Avraham,294,2134,no,10
+standard,5,36,Elohei Yitzchak,254,2004,no,6
+standard,5,37,Elohei Yaakov,228,1403,no,8
+standard,6,1,El,31,51,no,6
+standard,6,2,Eloah,42,110,no,2
+standard,6,3,Elohim,86,222,yes,6
+standard,6,4,YHWH,26,42,no,6
+standard,6,5,Adonai,65,145,no,10
+standard,6,6,Shaddai,314,1242,no,9
+standard,6,7,Ehyeh Asher Ehyeh,543,2303,no,8
+standard,6,8,El Elyon,197,525,yes,12
+standard,6,9,El Olam,177,453,no,12
+standard,6,10,El Roi,242,1042,no,7
+standard,6,11,El Gibbor,242,1042,no,7
+standard,6,12,El Yeshuati,827,3455,no,8
+standard,6,13,Shekhinah,385,1441,yes,10
+standard,6,14,HaMakom,191,515,yes,11
+standard,6,15,HaRachaman,303,1223,no,8
+standard,6,16,HaKadosh Baruch Hu,655,3011,no,5
+standard,6,17,Ribbono Shel Olam,740,3232,no,10
+standard,6,18,Yeshua,386,1442,no,11
+standard,6,19,Immanuel,197,525,yes,12
+standard,6,20,Mashiach,358,1354,no,4
+standard,6,21,Sar Shalom,876,4020,no,6
+standard,6,22,Adon,61,141,yes,6
+standard,6,23,Elohei HaShamayim,441,2013,no,6
+standard,6,24,Elohei HaAretz,342,1330,no,7
+standard,6,25,El Shaddai,345,1333,no,10
+standard,6,26,El Kana,182,502,no,7
+standard,6,27,El De’ot,511,2211,no,6
+standard,6,28,El Berit,643,2551,no,4
+standard,6,29,El HaNe’eman,182,502,no,7
+standard,6,30,El HaGadol,84,220,no,4
+standard,6,32,El HaKavod,68,152,no,8
+standard,6,35,Elohei Avraham,294,1210,no,4
+standard,6,36,Elohei Yitzchak,254,1102,no,4
+standard,6,37,Elohei Yaakov,228,1020,no,3
+standard,7,1,El,31,43,no,7
+standard,7,2,Eloah,42,60,no,6
+standard,7,3,Elohim,86,152,no,8
+standard,7,4,YHWH,26,35,no,8
+standard,7,5,Adonai,65,122,no,5
+standard,7,6,Shaddai,314,626,yes,5
+standard,7,7,Ehyeh Asher Ehyeh,543,1404,no,9
+standard,7,8,El Elyon,197,401,no,5
+standard,7,9,El Olam,177,342,no,9
+standard,7,10,El Roi,242,464,yes,5
+standard,7,11,El Gibbor,242,464,yes,5
+standard,7,12,El Yeshuati,827,2261,no,11
+standard,7,13,Shekhinah,385,1060,no,7
+standard,7,14,HaMakom,191,362,no,11
+standard,7,15,HaRachaman,303,612,no,9
+standard,7,16,HaKadosh Baruch Hu,655,1624,no,4
+standard,7,17,Ribbono Shel Olam,740,2105,no,8
+standard,7,18,Yeshua,386,1061,no,8
+standard,7,19,Immanuel,197,401,no,5
+standard,7,20,Mashiach,358,1021,no,4
+standard,7,21,Sar Shalom,876,2361,no,12
+standard,7,22,Adon,61,115,no,7
+standard,7,23,Elohei HaShamayim,441,1200,no,3
+standard,7,24,Elohei HaAretz,342,666,yes,9
+standard,7,25,El Shaddai,345,1002,no,3
+standard,7,26,El Kana,182,350,no,8
+standard,7,27,El De’ot,511,1330,no,7
+standard,7,28,El Berit,643,1606,no,4
+standard,7,29,El HaNe’eman,182,350,no,8
+standard,7,30,El HaGadol,84,150,no,6
+standard,7,32,El HaKavod,68,125,no,8
+standard,7,35,Elohei Avraham,294,600,no,6
+standard,7,36,Elohei Yitzchak,254,512,no,8
+standard,7,37,Elohei Yaakov,228,444,yes,12
+standard,8,1,El,31,37,no,10
+standard,8,2,Eloah,42,52,no,7
+standard,8,3,Elohim,86,126,no,9
+standard,8,4,YHWH,26,32,no,5
+standard,8,5,Adonai,65,101,yes,2
+standard,8,6,Shaddai,314,472,no,4
+standard,8,7,Ehyeh Asher Ehyeh,543,1037,no,11
+standard,8,8,El Elyon,197,305,no,8
+standard,8,9,El Olam,177,261,no,9
+standard,8,10,El Roi,242,362,no,11
+standard,8,11,El Gibbor,242,362,no,11
+standard,8,12,El Yeshuati,827,1473,no,6
+standard,8,13,Shekhinah,385,601,no,7
+standard,8,14,HaMakom,191,277,no,7
+standard,8,15,HaRachaman,303,457,no,7
+standard,8,16,HaKadosh Baruch Hu,655,1217,no,11
+standard,8,17,Ribbono Shel Olam,740,1344,no,12
+standard,8,18,Yeshua,386,602,no,8
+standard,8,19,Immanuel,197,305,no,8
+standard,8,20,Mashiach,358,546,no,6
+standard,8,21,Sar Shalom,876,1554,no,6
+standard,8,22,Adon,61,75,no,12
+standard,8,23,Elohei HaShamayim,441,671,no,5
+standard,8,24,Elohei HaAretz,342,526,no,4
+standard,8,25,El Shaddai,345,531,no,9
+standard,8,26,El Kana,182,266,no,5
+standard,8,27,El De’ot,511,777,yes,3
+standard,8,28,El Berit,643,1203,no,6
+standard,8,29,El HaNe’eman,182,266,no,5
+standard,8,30,El HaGadol,84,124,no,7
+standard,8,32,El HaKavod,68,104,no,5
+standard,8,35,Elohei Avraham,294,446,no,5
+standard,8,36,Elohei Yitzchak,254,376,no,7
+standard,8,37,Elohei Yaakov,228,344,no,11
+standard,9,1,El,31,34,no,7
+standard,9,2,Eloah,42,46,no,10
+standard,9,3,Elohim,86,105,no,6
+standard,9,4,YHWH,26,28,no,10
+standard,9,5,Adonai,65,72,no,9
+standard,9,6,Shaddai,314,378,no,9
+standard,9,7,Ehyeh Asher Ehyeh,543,663,no,6
+standard,9,8,El Elyon,197,238,no,4
+standard,9,9,El Olam,177,216,no,9
+standard,9,10,El Roi,242,288,no,9
+standard,9,11,El Gibbor,242,288,no,9
+standard,9,12,El Yeshuati,827,1118,no,11
+standard,9,13,Shekhinah,385,467,no,8
+standard,9,14,HaMakom,191,232,yes,7
+standard,9,15,HaRachaman,303,366,no,6
+standard,9,16,HaKadosh Baruch Hu,655,807,no,6
+standard,9,17,Ribbono Shel Olam,740,1012,no,4
+standard,9,18,Yeshua,386,468,no,9
+standard,9,19,Immanuel,197,238,no,4
+standard,9,20,Mashiach,358,437,no,5
+standard,9,21,Sar Shalom,876,1173,no,12
+standard,9,22,Adon,61,67,no,4
+standard,9,23,Elohei HaShamayim,441,540,no,9
+standard,9,24,Elohei HaAretz,342,420,no,6
+standard,9,25,El Shaddai,345,423,no,9
+standard,9,26,El Kana,182,222,yes,6
+standard,9,27,El De’ot,511,627,no,6
+standard,9,28,El Berit,643,784,no,10
+standard,9,29,El HaNe’eman,182,222,yes,6
+standard,9,30,El HaGadol,84,103,no,4
+standard,9,32,El HaKavod,68,75,no,12
+standard,9,35,Elohei Avraham,294,356,no,5
+standard,9,36,Elohei Yitzchak,254,312,no,6
+standard,9,37,Elohei Yaakov,228,273,no,12
+standard,10,1,El,31,31,no,4
+standard,10,2,Eloah,42,42,no,6
+standard,10,3,Elohim,86,86,no,5
+standard,10,4,YHWH,26,26,no,8
+standard,10,5,Adonai,65,65,no,11
+standard,10,6,Shaddai,314,314,no,8
+standard,10,7,Ehyeh Asher Ehyeh,543,543,no,12
+standard,10,8,El Elyon,197,197,no,8
+standard,10,9,El Olam,177,177,no,6
+standard,10,10,El Roi,242,242,yes,8
+standard,10,11,El Gibbor,242,242,yes,8
+standard,10,12,El Yeshuati,827,827,no,8
+standard,10,13,Shekhinah,385,385,no,7
+standard,10,14,HaMakom,191,191,yes,11
+standard,10,15,HaRachaman,303,303,yes,6
+standard,10,16,HaKadosh Baruch Hu,655,655,no,7
+standard,10,17,Ribbono Shel Olam,740,740,no,11
+standard,10,18,Yeshua,386,386,no,8
+standard,10,19,Immanuel,197,197,no,8
+standard,10,20,Mashiach,358,358,no,7
+standard,10,21,Sar Shalom,876,876,no,3
+standard,10,22,Adon,61,61,no,7
+standard,10,23,Elohei HaShamayim,441,441,no,9
+standard,10,24,Elohei HaAretz,342,342,no,9
+standard,10,25,El Shaddai,345,345,no,12
+standard,10,26,El Kana,182,182,no,11
+standard,10,27,El De’ot,511,511,no,7
+standard,10,28,El Berit,643,643,no,4
+standard,10,29,El HaNe’eman,182,182,no,11
+standard,10,30,El HaGadol,84,84,no,12
+standard,10,32,El HaKavod,68,68,no,5
+standard,10,35,Elohei Avraham,294,294,no,6
+standard,10,36,Elohei Yitzchak,254,254,no,11
+standard,10,37,Elohei Yaakov,228,228,no,12
+standard,11,1,El,31,29,no,11
+standard,11,2,Eloah,42,39,no,12
+standard,11,3,Elohim,86,79,no,7
+standard,11,4,YHWH,26,24,no,6
+standard,11,5,Adonai,65,5A,no,6
+standard,11,6,Shaddai,314,266,no,5
+standard,11,7,Ehyeh Asher Ehyeh,543,454,yes,4
+standard,11,8,El Elyon,197,16A,no,8
+standard,11,9,El Olam,177,151,yes,7
+standard,11,10,El Roi,242,200,no,2
+standard,11,11,El Gibbor,242,200,no,2
+standard,11,12,El Yeshuati,827,692,no,8
+standard,11,13,Shekhinah,385,320,no,5
+standard,11,14,HaMakom,191,164,no,11
+standard,11,15,HaRachaman,303,256,no,4
+standard,11,16,HaKadosh Baruch Hu,655,546,no,6
+standard,11,17,Ribbono Shel Olam,740,613,no,10
+standard,11,18,Yeshua,386,321,no,6
+standard,11,19,Immanuel,197,16A,no,8
+standard,11,20,Mashiach,358,2A6,no,9
+standard,11,21,Sar Shalom,876,727,yes,7
+standard,11,22,Adon,61,56,no,11
+standard,11,23,Elohei HaShamayim,441,371,no,11
+standard,11,24,Elohei HaAretz,342,291,no,12
+standard,11,25,El Shaddai,345,294,no,6
+standard,11,26,El Kana,182,156,no,12
+standard,11,27,El De’ot,511,425,no,11
+standard,11,28,El Berit,643,535,yes,4
+standard,11,29,El HaNe’eman,182,156,no,12
+standard,11,30,El HaGadol,84,77,yes,5
+standard,11,32,El HaKavod,68,62,no,8
+standard,11,35,Elohei Avraham,294,248,no,5
+standard,11,36,Elohei Yitzchak,254,211,no,4
+standard,11,37,Elohei Yaakov,228,198,no,9
+standard,12,1,El,31,27,no,9
+standard,12,2,Eloah,42,36,no,9
+standard,12,3,Elohim,86,72,no,9
+standard,12,4,YHWH,26,22,yes,4
+standard,12,5,Adonai,65,55,yes,10
+standard,12,6,Shaddai,314,222,yes,6
+standard,12,7,Ehyeh Asher Ehyeh,543,393,yes,6
+standard,12,8,El Elyon,197,145,no,10
+standard,12,9,El Olam,177,129,no,12
+standard,12,10,El Roi,242,182,no,11
+standard,12,11,El Gibbor,242,182,no,11
+standard,12,12,El Yeshuati,827,58B,no,6
+standard,12,13,Shekhinah,385,281,no,11
+standard,12,14,HaMakom,191,13B,no,6
+standard,12,15,HaRachaman,303,213,no,6
+standard,12,16,HaKadosh Baruch Hu,655,467,no,8
+standard,12,17,Ribbono Shel Olam,740,518,no,5
+standard,12,18,Yeshua,386,282,yes,12
+standard,12,19,Immanuel,197,145,no,10
+standard,12,20,Mashiach,358,25A,no,8
+standard,12,21,Sar Shalom,876,610,no,7
+standard,12,22,Adon,61,51,no,6
+standard,12,23,Elohei HaShamayim,441,309,no,12
+standard,12,24,Elohei HaAretz,342,246,no,12
+standard,12,25,El Shaddai,345,249,no,6
+standard,12,26,El Kana,182,132,no,6
+standard,12,27,El De’ot,511,367,no,7
+standard,12,28,El Berit,643,457,no,7
+standard,12,29,El HaNe’eman,182,132,no,6
+standard,12,30,El HaGadol,84,70,no,7
+standard,12,32,El HaKavod,68,58,no,4
+standard,12,35,Elohei Avraham,294,206,no,8
+standard,12,36,Elohei Yitzchak,254,192,no,12
+standard,12,37,Elohei Yaakov,228,170,no,8
+standard,13,1,El,31,25,no,7
+standard,13,2,Eloah,42,33,yes,6
+standard,13,3,Elohim,86,68,no,5
+standard,13,4,YHWH,26,20,no,2
+standard,13,5,Adonai,65,50,no,5
+standard,13,6,Shaddai,314,1B2,no,5
+standard,13,7,Ehyeh Asher Ehyeh,543,32A,no,6
+standard,13,8,El Elyon,197,122,no,5
+standard,13,9,El Olam,177,108,no,9
+standard,13,10,El Roi,242,158,no,5
+standard,13,11,El Gibbor,242,158,no,5
+standard,13,12,El Yeshuati,827,4B8,no,5
+standard,13,13,Shekhinah,385,238,no,4
+standard,13,14,HaMakom,191,119,no,11
+standard,13,15,HaRachaman,303,1A4,no,6
+standard,13,16,HaKadosh Baruch Hu,655,3B5,no,10
+standard,13,17,Ribbono Shel Olam,740,44C,no,2
+standard,13,18,Yeshua,386,239,no,5
+standard,13,19,Immanuel,197,122,no,5
+standard,13,20,Mashiach,358,217,no,10
+standard,13,21,Sar Shalom,876,525,yes,12
+standard,13,22,Adon,61,49,no,4
+standard,13,23,Elohei HaShamayim,441,27C,no,3
+standard,13,24,Elohei HaAretz,342,204,no,6
+standard,13,25,El Shaddai,345,207,no,9
+standard,13,26,El Kana,182,110,no,2
+standard,13,27,El De’ot,511,304,no,7
+standard,13,28,El Berit,643,3A6,no,10
+standard,13,29,El HaNe’eman,182,110,no,2
+standard,13,30,El HaGadol,84,66,yes,12
+standard,13,32,El HaKavod,68,53,no,8
+standard,13,35,Elohei Avraham,294,198,no,9
+standard,13,36,Elohei Yitzchak,254,167,no,5
+standard,13,37,Elohei Yaakov,228,147,no,12
+standard,14,1,El,31,23,no,5
+standard,14,2,Eloah,42,30,no,3
+standard,14,3,Elohim,86,62,no,8
+standard,14,4,YHWH,26,1C,no,4
+standard,14,5,Adonai,65,49,no,4
+standard,14,6,Shaddai,314,186,no,6
+standard,14,7,Ehyeh Asher Ehyeh,543,2AB,no,5
+standard,14,8,El Elyon,197,101,yes,2
+standard,14,9,El Olam,177,C9,no,3
+standard,14,10,El Roi,242,134,no,8
+standard,14,11,El Gibbor,242,134,no,8
+standard,14,12,El Yeshuati,827,431,no,8
+standard,14,13,Shekhinah,385,1D7,no,3
+standard,14,14,HaMakom,191,D9,no,4
+standard,14,15,HaRachaman,303,179,no,8
+standard,14,16,HaKadosh Baruch Hu,655,34B,no,9
+standard,14,17,Ribbono Shel Olam,740,3AC,no,7
+standard,14,18,Yeshua,386,1D8,no,4
+standard,14,19,Immanuel,197,101,yes,2
+standard,14,20,Mashiach,358,1B8,no,2
+standard,14,21,Sar Shalom,876,468,no,9
+standard,14,22,Adon,61,45,no,9
+standard,14,23,Elohei HaShamayim,441,237,no,12
+standard,14,24,Elohei HaAretz,342,1A6,no,8
+standard,14,25,El Shaddai,345,1A9,no,2
+standard,14,26,El Kana,182,D0,no,4
+standard,14,27,El De’ot,511,287,no,8
+standard,14,28,El Berit,643,33D,no,10
+standard,14,29,El HaNe’eman,182,D0,no,4
+standard,14,30,El HaGadol,84,60,no,6
+standard,14,32,El HaKavod,68,4C,no,7
+standard,14,35,Elohei Avraham,294,170,no,8
+standard,14,36,Elohei Yitzchak,254,142,no,7
+standard,14,37,Elohei Yaakov,228,124,no,7
+standard,15,1,El,31,21,no,3
+standard,15,2,Eloah,42,2C,no,5
+standard,15,3,Elohim,86,5B,no,7
+standard,15,4,YHWH,26,1B,no,12
+standard,15,5,Adonai,65,45,no,9
+standard,15,6,Shaddai,314,15E,no,2
+standard,15,7,Ehyeh Asher Ehyeh,543,263,no,11
+standard,15,8,El Elyon,197,D2,no,6
+standard,15,9,El Olam,177,BC,no,5
+standard,15,10,El Roi,242,112,no,4
+standard,15,11,El Gibbor,242,112,no,4
+standard,15,12,El Yeshuati,827,3A2,no,6
+standard,15,13,Shekhinah,385,1AA,no,3
+standard,15,14,HaMakom,191,CB,no,5
+standard,15,15,HaRachaman,303,153,no,9
+standard,15,16,HaKadosh Baruch Hu,655,2DA,no,7
+standard,15,17,Ribbono Shel Olam,740,345,no,12
+standard,15,18,Yeshua,386,1AB,no,4
+standard,15,19,Immanuel,197,D2,no,6
+standard,15,20,Mashiach,358,18D,no,4
+standard,15,21,Sar Shalom,876,3D6,no,4
+standard,15,22,Adon,61,41,no,5
+standard,15,23,Elohei HaShamayim,441,1E6,no,3
+standard,15,24,Elohei HaAretz,342,17C,no,2
+standard,15,25,El Shaddai,345,180,no,9
+standard,15,26,El Kana,182,C2,no,5
+standard,15,27,El De’ot,511,241,no,7
+standard,15,28,El Berit,643,2CD,no,9
+standard,15,29,El HaNe’eman,182,C2,no,5
+standard,15,30,El HaGadol,84,59,no,5
+standard,15,32,El HaKavod,68,48,no,12
+standard,15,35,Elohei Avraham,294,149,no,5
+standard,15,36,Elohei Yitzchak,254,11E,no,7
+standard,15,37,Elohei Yaakov,228,103,no,4
+standard,16,1,El,31,1F,no,7
+standard,16,2,Eloah,42,2A,no,12
+standard,16,3,Elohim,86,56,no,11
+standard,16,4,YHWH,26,1A,no,11
+standard,16,5,Adonai,65,41,no,5
+standard,16,6,Shaddai,314,13A,no,5
+standard,16,7,Ehyeh Asher Ehyeh,543,21F,no,9
+standard,16,8,El Elyon,197,C5,no,8
+standard,16,9,El Olam,177,B1,no,12
+standard,16,10,El Roi,242,F2,no,8
+standard,16,11,El Gibbor,242,F2,no,8
+standard,16,12,El Yeshuati,827,33B,no,8
+standard,16,13,Shekhinah,385,181,yes,10
+standard,16,14,HaMakom,191,BF,no,8
+standard,16,15,HaRachaman,303,12F,no,9
+standard,16,16,HaKadosh Baruch Hu,655,28F,no,7
+standard,16,17,Ribbono Shel Olam,740,2E4,no,2
+standard,16,18,Yeshua,386,182,no,11
+standard,16,19,Immanuel,197,C5,no,8
+standard,16,20,Mashiach,358,166,no,4
+standard,16,21,Sar Shalom,876,36C,no,3
+standard,16,22,Adon,61,3D,no,7
+standard,16,23,Elohei HaShamayim,441,1B9,no,3
+standard,16,24,Elohei HaAretz,342,156,no,12
+standard,16,25,El Shaddai,345,159,no,6
+standard,16,26,El Kana,182,B6,no,8
+standard,16,27,El De’ot,511,1FF,no,4
+standard,16,28,El Berit,643,283,no,4
+standard,16,29,El HaNe’eman,182,B6,no,8
+standard,16,30,El HaGadol,84,54,no,9
+standard,16,32,El HaKavod,68,44,yes,8
+standard,16,35,Elohei Avraham,294,126,no,9
+standard,16,36,Elohei Yitzchak,254,FE,no,11
+standard,16,37,Elohei Yaakov,228,E4,no,9
+standard,17,1,El,31,1E,no,6
+standard,17,2,Eloah,42,28,no,10
+standard,17,3,Elohim,86,51,no,6
+standard,17,4,YHWH,26,19,no,10
+standard,17,5,Adonai,65,3E,no,8
+standard,17,6,Shaddai,314,118,no,10
+standard,17,7,Ehyeh Asher Ehyeh,543,1EG,no,4
+standard,17,8,El Elyon,197,BA,no,3
+standard,17,9,El Olam,177,A7,no,8
+standard,17,10,El Roi,242,E4,no,9
+standard,17,11,El Gibbor,242,E4,no,9
+standard,17,12,El Yeshuati,827,2EB,no,9
+standard,17,13,Shekhinah,385,15B,no,8
+standard,17,14,HaMakom,191,B4,no,6
+standard,17,15,HaRachaman,303,10E,no,6
+standard,17,16,HaKadosh Baruch Hu,655,249,no,6
+standard,17,17,Ribbono Shel Olam,740,299,no,2
+standard,17,18,Yeshua,386,15C,no,9
+standard,17,19,Immanuel,197,BA,no,3
+standard,17,20,Mashiach,358,141,yes,6
+standard,17,21,Sar Shalom,876,309,no,12
+standard,17,22,Adon,61,3A,no,4
+standard,17,23,Elohei HaShamayim,441,18G,no,7
+standard,17,24,Elohei HaAretz,342,132,no,6
+standard,17,25,El Shaddai,345,135,no,9
+standard,17,26,El Kana,182,AC,no,4
+standard,17,27,El De’ot,511,1D1,yes,6
+standard,17,28,El Berit,643,23E,no,10
+standard,17,29,El HaNe’eman,182,AC,no,4
+standard,17,30,El HaGadol,84,4G,no,2
+standard,17,32,El HaKavod,68,40,no,4
+standard,17,35,Elohei Avraham,294,105,no,6
+standard,17,36,Elohei Yitzchak,254,EG,no,3
+standard,17,37,Elohei Yaakov,228,D7,no,2
+standard,18,1,El,31,1D,no,5
+standard,18,2,Eloah,42,26,no,8
+standard,18,3,Elohim,86,4E,no,9
+standard,18,4,YHWH,26,18,no,9
+standard,18,5,Adonai,65,3B,no,5
+standard,18,6,Shaddai,314,H8,no,7
+standard,18,7,Ehyeh Asher Ehyeh,543,1C3,no,7
+standard,18,8,El Elyon,197,AH,no,9
+standard,18,9,El Olam,177,9F,no,6
+standard,18,10,El Roi,242,D8,no,3
+standard,18,11,El Gibbor,242,D8,no,3
+standard,18,12,El Yeshuati,827,29H,no,10
+standard,18,13,Shekhinah,385,137,no,11
+standard,18,14,HaMakom,191,AB,no,3
+standard,18,15,HaRachaman,303,GF,no,4
+standard,18,16,HaKadosh Baruch Hu,655,207,no,9
+standard,18,17,Ribbono Shel Olam,740,252,yes,9
+standard,18,18,Yeshua,386,138,no,12
+standard,18,19,Immanuel,197,AH,no,9
+standard,18,20,Mashiach,358,11G,no,9
+standard,18,21,Sar Shalom,876,2CC,no,8
+standard,18,22,Adon,61,37,no,10
+standard,18,23,Elohei HaShamayim,441,169,no,7
+standard,18,24,Elohei HaAretz,342,110,no,2
+standard,18,25,El Shaddai,345,113,no,5
+standard,18,26,El Kana,182,A2,no,12
+standard,18,27,El De’ot,511,1A7,no,9
+standard,18,28,El Berit,643,1HD,no,4
+standard,18,29,El HaNe’eman,182,A2,no,12
+standard,18,30,El HaGadol,84,4C,no,7
+standard,18,32,El HaKavod,68,3E,no,8
+standard,18,35,Elohei Avraham,294,G6,no,4
+standard,18,36,Elohei Yitzchak,254,E2,no,7
+standard,18,37,Elohei Yaakov,228,CC,yes,6
+standard,19,1,El,31,1C,no,4
+standard,19,2,Eloah,42,24,no,6
+standard,19,3,Elohim,86,4A,no,5
+standard,19,4,YHWH,26,17,no,8
+standard,19,5,Adonai,65,38,no,11
+standard,19,6,Shaddai,314,GA,no,8
+standard,19,7,Ehyeh Asher Ehyeh,543,19B,no,3
+standard,19,8,El Elyon,197,A7,no,8
+standard,19,9,El Olam,177,96,no,6
+standard,19,10,El Roi,242,CE,no,8
+standard,19,11,El Gibbor,242,CE,no,8
+standard,19,12,El Yeshuati,827,25A,no,8
+standard,19,13,Shekhinah,385,115,no,7
+standard,19,14,HaMakom,191,A1,no,11
+standard,19,15,HaRachaman,303,FI,no,6
+standard,19,16,HaKadosh Baruch Hu,655,1F9,no,7
+standard,19,17,Ribbono Shel Olam,740,20I,no,2
+standard,19,18,Yeshua,386,116,no,8
+standard,19,19,Immanuel,197,A7,no,8
+standard,19,20,Mashiach,358,IG,no,7
+standard,19,21,Sar Shalom,876,282,yes,12
+standard,19,22,Adon,61,34,no,7
+standard,19,23,Elohei HaShamayim,441,144,no,9
+standard,19,24,Elohei HaAretz,342,I0,no,9
+standard,19,25,El Shaddai,345,I3,no,3
+standard,19,26,El Kana,182,9B,no,2
+standard,19,27,El De’ot,511,17H,no,7
+standard,19,28,El Berit,643,1EG,no,4
+standard,19,29,El HaNe’eman,182,9B,no,2
+standard,19,30,El HaGadol,84,48,no,12
+standard,19,32,El HaKavod,68,3B,no,5
+standard,19,35,Elohei Avraham,294,F9,no,6
+standard,19,36,Elohei Yitzchak,254,D7,no,2
+standard,19,37,Elohei Yaakov,228,C0,no,12
+standard,20,1,El,31,1B,no,12
+standard,20,2,Eloah,42,22,yes,4
+standard,20,3,Elohim,86,46,no,10
+standard,20,4,YHWH,26,16,no,7
+standard,20,5,Adonai,65,35,no,8
+standard,20,6,Shaddai,314,FE,no,11
+standard,20,7,Ehyeh Asher Ehyeh,543,173,no,11
+standard,20,8,El Elyon,197,9H,no,8
+standard,20,9,El Olam,177,8H,no,7
+standard,20,10,El Roi,242,C2,no,5
+standard,20,11,El Gibbor,242,C2,no,5
+standard,20,12,El Yeshuati,827,217,no,10
+standard,20,13,Shekhinah,385,J5,no,6
+standard,20,14,HaMakom,191,9B,no,2
+standard,20,15,HaRachaman,303,F3,no,9
+standard,20,16,HaKadosh Baruch Hu,655,1CF,no,10
+standard,20,17,Ribbono Shel Olam,740,1H0,no,9
+standard,20,18,Yeshua,386,J6,no,7
+standard,20,19,Immanuel,197,9H,no,8
+standard,20,20,Mashiach,358,HI,no,8
+standard,20,21,Sar Shalom,876,23G,no,3
+standard,20,22,Adon,61,31,no,4
+standard,20,23,Elohei HaShamayim,441,121,yes,4
+standard,20,24,Elohei HaAretz,342,H2,no,10
+standard,20,25,El Shaddai,345,H5,no,4
+standard,20,26,El Kana,182,92,no,11
+standard,20,27,El De’ot,511,15B,no,8
+standard,20,28,El Berit,643,1C3,no,7
+standard,20,29,El HaNe’eman,182,92,no,11
+standard,20,30,El HaGadol,84,44,yes,8
+standard,20,32,El HaKavod,68,38,no,11
+standard,20,35,Elohei Avraham,294,EE,yes,10
+standard,20,36,Elohei Yitzchak,254,CE,no,8
+standard,20,37,Elohei Yaakov,228,B8,no,10
+mispar_gadol,2,1,El,31,11111,yes,5
+mispar_gadol,2,2,Eloah,42,101010,no,3
+mispar_gadol,2,3,Elohim,646,1010000110,no,4
+mispar_gadol,2,4,YHWH,26,11010,no,3
+mispar_gadol,2,5,Adonai,65,1000001,yes,2
+mispar_gadol,2,6,Shaddai,314,100111010,no,5
+mispar_gadol,2,7,Ehyeh Asher Ehyeh,543,1000011111,no,6
+mispar_gadol,2,8,El Elyon,847,1101001111,no,7
+mispar_gadol,2,9,El Olam,737,1011100001,no,5
+mispar_gadol,2,10,El Roi,242,11110010,no,5
+mispar_gadol,2,11,El Gibbor,242,11110010,no,5
+mispar_gadol,2,12,El Yeshuati,827,1100111011,no,7
+mispar_gadol,2,13,Shekhinah,385,110000001,no,3
+mispar_gadol,2,14,HaMakom,751,1011101111,no,8
+mispar_gadol,2,15,HaRachaman,953,1110111001,no,7
+mispar_gadol,2,16,HaKadosh Baruch Hu,1135,10001101111,no,7
+mispar_gadol,2,17,Ribbono Shel Olam,1300,10100010100,no,4
+mispar_gadol,2,18,Yeshua,386,110000010,no,3
+mispar_gadol,2,19,Immanuel,197,11000101,no,4
+mispar_gadol,2,20,Mashiach,358,101100110,no,5
+mispar_gadol,2,21,Sar Shalom,1436,10110011100,no,6
+mispar_gadol,2,22,Adon,711,1011000111,no,6
+mispar_gadol,2,23,Elohei HaShamayim,1001,1111101001,no,7
+mispar_gadol,2,24,Elohei HaAretz,1152,10010000000,no,2
+mispar_gadol,2,25,El Shaddai,345,101011001,no,5
+mispar_gadol,2,26,El Kana,182,10110110,no,5
+mispar_gadol,2,27,El De’ot,511,111111111,yes,9
+mispar_gadol,2,28,El Berit,643,1010000011,no,4
+mispar_gadol,2,29,El HaNe’eman,832,1101000000,no,3
+mispar_gadol,2,30,El HaGadol,84,1010100,no,3
+mispar_gadol,2,32,El HaKavod,68,1000100,no,2
+mispar_gadol,2,35,Elohei Avraham,854,1101010110,no,6
+mispar_gadol,2,36,Elohei Yitzchak,254,11111110,no,7
+mispar_gadol,2,37,Elohei Yaakov,228,11100100,no,4
+mispar_gadol,3,1,El,31,1011,no,3
+mispar_gadol,3,2,Eloah,42,1120,no,4
+mispar_gadol,3,3,Elohim,646,212221,no,10
+mispar_gadol,3,4,YHWH,26,222,yes,6
+mispar_gadol,3,5,Adonai,65,2102,no,5
+mispar_gadol,3,6,Shaddai,314,102122,no,8
+mispar_gadol,3,7,Ehyeh Asher Ehyeh,543,202010,no,5
+mispar_gadol,3,8,El Elyon,847,1011101,yes,5
+mispar_gadol,3,9,El Olam,737,1000022,no,5
+mispar_gadol,3,10,El Roi,242,22222,yes,10
+mispar_gadol,3,11,El Gibbor,242,22222,yes,10
+mispar_gadol,3,12,El Yeshuati,827,1010122,no,7
+mispar_gadol,3,13,Shekhinah,385,112021,no,7
+mispar_gadol,3,14,HaMakom,751,1000211,no,5
+mispar_gadol,3,15,HaRachaman,953,1022022,no,9
+mispar_gadol,3,16,HaKadosh Baruch Hu,1135,1120001,no,5
+mispar_gadol,3,17,Ribbono Shel Olam,1300,1210011,no,6
+mispar_gadol,3,18,Yeshua,386,112022,no,8
+mispar_gadol,3,19,Immanuel,197,21022,no,7
+mispar_gadol,3,20,Mashiach,358,111021,no,6
+mispar_gadol,3,21,Sar Shalom,1436,1222012,no,10
+mispar_gadol,3,22,Adon,711,222100,no,7
+mispar_gadol,3,23,Elohei HaShamayim,1001,1101002,no,5
+mispar_gadol,3,24,Elohei HaAretz,1152,1120200,no,6
+mispar_gadol,3,25,El Shaddai,345,110210,no,5
+mispar_gadol,3,26,El Kana,182,20202,yes,6
+mispar_gadol,3,27,El De’ot,511,200221,no,7
+mispar_gadol,3,28,El Berit,643,212211,no,9
+mispar_gadol,3,29,El HaNe’eman,832,1010211,no,6
+mispar_gadol,3,30,El HaGadol,84,10010,no,2
+mispar_gadol,3,32,El HaKavod,68,2112,yes,6
+mispar_gadol,3,35,Elohei Avraham,854,1011122,no,8
+mispar_gadol,3,36,Elohei Yitzchak,254,100102,no,4
+mispar_gadol,3,37,Elohei Yaakov,228,22110,no,6
+mispar_gadol,4,1,El,31,133,no,7
+mispar_gadol,4,2,Eloah,42,222,yes,6
+mispar_gadol,4,3,Elohim,646,22012,no,7
+mispar_gadol,4,4,YHWH,26,122,no,5
+mispar_gadol,4,5,Adonai,65,1001,yes,2
+mispar_gadol,4,6,Shaddai,314,10322,no,8
+mispar_gadol,4,7,Ehyeh Asher Ehyeh,543,20133,no,9
+mispar_gadol,4,8,El Elyon,847,31033,no,10
+mispar_gadol,4,9,El Olam,737,23201,no,8
+mispar_gadol,4,10,El Roi,242,3302,no,8
+mispar_gadol,4,11,El Gibbor,242,3302,no,8
+mispar_gadol,4,12,El Yeshuati,827,30323,no,11
+mispar_gadol,4,13,Shekhinah,385,12001,no,4
+mispar_gadol,4,14,HaMakom,751,23233,no,4
+mispar_gadol,4,15,HaRachaman,953,32321,no,11
+mispar_gadol,4,16,HaKadosh Baruch Hu,1135,101233,no,10
+mispar_gadol,4,17,Ribbono Shel Olam,1300,110110,no,4
+mispar_gadol,4,18,Yeshua,386,12002,no,5
+mispar_gadol,4,19,Immanuel,197,3011,no,5
+mispar_gadol,4,20,Mashiach,358,11212,no,7
+mispar_gadol,4,21,Sar Shalom,1436,112130,no,8
+mispar_gadol,4,22,Adon,711,23013,no,9
+mispar_gadol,4,23,Elohei HaShamayim,1001,33221,no,11
+mispar_gadol,4,24,Elohei HaAretz,1152,102000,no,3
+mispar_gadol,4,25,El Shaddai,345,11121,no,6
+mispar_gadol,4,26,El Kana,182,2312,no,8
+mispar_gadol,4,27,El De’ot,511,13333,no,4
+mispar_gadol,4,28,El Berit,643,22003,no,7
+mispar_gadol,4,29,El HaNe’eman,832,31000,no,4
+mispar_gadol,4,30,El HaGadol,84,1110,no,3
+mispar_gadol,4,32,El HaKavod,68,1010,no,2
+mispar_gadol,4,35,Elohei Avraham,854,31112,no,8
+mispar_gadol,4,36,Elohei Yitzchak,254,3332,no,11
+mispar_gadol,4,37,Elohei Yaakov,228,3210,no,6
+mispar_gadol,5,1,El,31,111,yes,3
+mispar_gadol,5,2,Eloah,42,132,no,6
+mispar_gadol,5,3,Elohim,646,10041,no,6
+mispar_gadol,5,4,YHWH,26,101,yes,2
+mispar_gadol,5,5,Adonai,65,230,no,5
+mispar_gadol,5,6,Shaddai,314,2224,no,10
+mispar_gadol,5,7,Ehyeh Asher Ehyeh,543,4133,no,11
+mispar_gadol,5,8,El Elyon,847,11342,no,11
+mispar_gadol,5,9,El Olam,737,10422,no,9
+mispar_gadol,5,10,El Roi,242,1432,no,10
+mispar_gadol,5,11,El Gibbor,242,1432,no,10
+mispar_gadol,5,12,El Yeshuati,827,11302,no,7
+mispar_gadol,5,13,Shekhinah,385,3020,no,5
+mispar_gadol,5,14,HaMakom,751,11001,no,3
+mispar_gadol,5,15,HaRachaman,953,12303,no,9
+mispar_gadol,5,16,HaKadosh Baruch Hu,1135,14020,no,7
+mispar_gadol,5,17,Ribbono Shel Olam,1300,20200,no,4
+mispar_gadol,5,18,Yeshua,386,3021,no,6
+mispar_gadol,5,19,Immanuel,197,1242,no,9
+mispar_gadol,5,20,Mashiach,358,2413,no,10
+mispar_gadol,5,21,Sar Shalom,1436,21221,no,8
+mispar_gadol,5,22,Adon,711,10321,no,7
+mispar_gadol,5,23,Elohei HaShamayim,1001,13001,no,5
+mispar_gadol,5,24,Elohei HaAretz,1152,14102,no,8
+mispar_gadol,5,25,El Shaddai,345,2340,no,9
+mispar_gadol,5,26,El Kana,182,1212,no,6
+mispar_gadol,5,27,El De’ot,511,4021,no,7
+mispar_gadol,5,28,El Berit,643,10033,no,7
+mispar_gadol,5,29,El HaNe’eman,832,11312,no,8
+mispar_gadol,5,30,El HaGadol,84,314,no,8
+mispar_gadol,5,32,El HaKavod,68,233,no,8
+mispar_gadol,5,35,Elohei Avraham,854,11404,no,10
+mispar_gadol,5,36,Elohei Yitzchak,254,2004,no,6
+mispar_gadol,5,37,Elohei Yaakov,228,1403,no,8
+mispar_gadol,6,1,El,31,51,no,6
+mispar_gadol,6,2,Eloah,42,110,no,2
+mispar_gadol,6,3,Elohim,646,2554,no,7
+mispar_gadol,6,4,YHWH,26,42,no,6
+mispar_gadol,6,5,Adonai,65,145,no,10
+mispar_gadol,6,6,Shaddai,314,1242,no,9
+mispar_gadol,6,7,Ehyeh Asher Ehyeh,543,2303,no,8
+mispar_gadol,6,8,El Elyon,847,3531,no,12
+mispar_gadol,6,9,El Olam,737,3225,no,12
+mispar_gadol,6,10,El Roi,242,1042,no,7
+mispar_gadol,6,11,El Gibbor,242,1042,no,7
+mispar_gadol,6,12,El Yeshuati,827,3455,no,8
+mispar_gadol,6,13,Shekhinah,385,1441,yes,10
+mispar_gadol,6,14,HaMakom,751,3251,no,11
+mispar_gadol,6,15,HaRachaman,953,4225,no,4
+mispar_gadol,6,16,HaKadosh Baruch Hu,1135,5131,no,10
+mispar_gadol,6,17,Ribbono Shel Olam,1300,10004,no,5
+mispar_gadol,6,18,Yeshua,386,1442,no,11
+mispar_gadol,6,19,Immanuel,197,525,yes,12
+mispar_gadol,6,20,Mashiach,358,1354,no,4
+mispar_gadol,6,21,Sar Shalom,1436,10352,no,11
+mispar_gadol,6,22,Adon,711,3143,no,11
+mispar_gadol,6,23,Elohei HaShamayim,1001,4345,no,7
+mispar_gadol,6,24,Elohei HaAretz,1152,5200,no,7
+mispar_gadol,6,25,El Shaddai,345,1333,no,10
+mispar_gadol,6,26,El Kana,182,502,no,7
+mispar_gadol,6,27,El De’ot,511,2211,no,6
+mispar_gadol,6,28,El Berit,643,2551,no,4
+mispar_gadol,6,29,El HaNe’eman,832,3504,no,12
+mispar_gadol,6,30,El HaGadol,84,220,no,4
+mispar_gadol,6,32,El HaKavod,68,152,no,8
+mispar_gadol,6,35,Elohei Avraham,854,3542,no,5
+mispar_gadol,6,36,Elohei Yitzchak,254,1102,no,4
+mispar_gadol,6,37,Elohei Yaakov,228,1020,no,3
+mispar_gadol,7,1,El,31,43,no,7
+mispar_gadol,7,2,Eloah,42,60,no,6
+mispar_gadol,7,3,Elohim,646,1612,no,10
+mispar_gadol,7,4,YHWH,26,35,no,8
+mispar_gadol,7,5,Adonai,65,122,no,5
+mispar_gadol,7,6,Shaddai,314,626,yes,5
+mispar_gadol,7,7,Ehyeh Asher Ehyeh,543,1404,no,9
+mispar_gadol,7,8,El Elyon,847,2320,no,7
+mispar_gadol,7,9,El Olam,737,2102,no,5
+mispar_gadol,7,10,El Roi,242,464,yes,5
+mispar_gadol,7,11,El Gibbor,242,464,yes,5
+mispar_gadol,7,12,El Yeshuati,827,2261,no,11
+mispar_gadol,7,13,Shekhinah,385,1060,no,7
+mispar_gadol,7,14,HaMakom,751,2122,no,7
+mispar_gadol,7,15,HaRachaman,953,2531,no,11
+mispar_gadol,7,16,HaKadosh Baruch Hu,1135,3211,no,7
+mispar_gadol,7,17,Ribbono Shel Olam,1300,3535,no,7
+mispar_gadol,7,18,Yeshua,386,1061,no,8
+mispar_gadol,7,19,Immanuel,197,401,no,5
+mispar_gadol,7,20,Mashiach,358,1021,no,4
+mispar_gadol,7,21,Sar Shalom,1436,4121,no,8
+mispar_gadol,7,22,Adon,711,2034,no,9
+mispar_gadol,7,23,Elohei HaShamayim,1001,2630,no,11
+mispar_gadol,7,24,Elohei HaAretz,1152,3234,no,12
+mispar_gadol,7,25,El Shaddai,345,1002,no,3
+mispar_gadol,7,26,El Kana,182,350,no,8
+mispar_gadol,7,27,El De’ot,511,1330,no,7
+mispar_gadol,7,28,El Berit,643,1606,no,4
+mispar_gadol,7,29,El HaNe’eman,832,2266,no,7
+mispar_gadol,7,30,El HaGadol,84,150,no,6
+mispar_gadol,7,32,El HaKavod,68,125,no,8
+mispar_gadol,7,35,Elohei Avraham,854,2330,no,8
+mispar_gadol,7,36,Elohei Yitzchak,254,512,no,8
+mispar_gadol,7,37,Elohei Yaakov,228,444,yes,12
+mispar_gadol,8,1,El,31,37,no,10
+mispar_gadol,8,2,Eloah,42,52,no,7
+mispar_gadol,8,3,Elohim,646,1206,no,9
+mispar_gadol,8,4,YHWH,26,32,no,5
+mispar_gadol,8,5,Adonai,65,101,yes,2
+mispar_gadol,8,6,Shaddai,314,472,no,4
+mispar_gadol,8,7,Ehyeh Asher Ehyeh,543,1037,no,11
+mispar_gadol,8,8,El Elyon,847,1517,no,5
+mispar_gadol,8,9,El Olam,737,1341,no,9
+mispar_gadol,8,10,El Roi,242,362,no,11
+mispar_gadol,8,11,El Gibbor,242,362,no,11
+mispar_gadol,8,12,El Yeshuati,827,1473,no,6
+mispar_gadol,8,13,Shekhinah,385,601,no,7
+mispar_gadol,8,14,HaMakom,751,1357,no,7
+mispar_gadol,8,15,HaRachaman,953,1671,no,6
+mispar_gadol,8,16,HaKadosh Baruch Hu,1135,2157,no,6
+mispar_gadol,8,17,Ribbono Shel Olam,1300,2424,no,12
+mispar_gadol,8,18,Yeshua,386,602,no,8
+mispar_gadol,8,19,Immanuel,197,305,no,8
+mispar_gadol,8,20,Mashiach,358,546,no,6
+mispar_gadol,8,21,Sar Shalom,1436,2634,no,6
+mispar_gadol,8,22,Adon,711,1307,no,11
+mispar_gadol,8,23,Elohei HaShamayim,1001,1751,no,5
+mispar_gadol,8,24,Elohei HaAretz,1152,2200,no,4
+mispar_gadol,8,25,El Shaddai,345,531,no,9
+mispar_gadol,8,26,El Kana,182,266,no,5
+mispar_gadol,8,27,El De’ot,511,777,yes,3
+mispar_gadol,8,28,El Berit,643,1203,no,6
+mispar_gadol,8,29,El HaNe’eman,832,1500,no,6
+mispar_gadol,8,30,El HaGadol,84,124,no,7
+mispar_gadol,8,32,El HaKavod,68,104,no,5
+mispar_gadol,8,35,Elohei Avraham,854,1526,no,5
+mispar_gadol,8,36,Elohei Yitzchak,254,376,no,7
+mispar_gadol,8,37,Elohei Yaakov,228,344,no,11
+mispar_gadol,9,1,El,31,34,no,7
+mispar_gadol,9,2,Eloah,42,46,no,10
+mispar_gadol,9,3,Elohim,646,787,yes,4
+mispar_gadol,9,4,YHWH,26,28,no,10
+mispar_gadol,9,5,Adonai,65,72,no,9
+mispar_gadol,9,6,Shaddai,314,378,no,9
+mispar_gadol,9,7,Ehyeh Asher Ehyeh,543,663,no,6
+mispar_gadol,9,8,El Elyon,847,1141,no,7
+mispar_gadol,9,9,El Olam,737,1008,no,9
+mispar_gadol,9,10,El Roi,242,288,no,9
+mispar_gadol,9,11,El Gibbor,242,288,no,9
+mispar_gadol,9,12,El Yeshuati,827,1118,no,11
+mispar_gadol,9,13,Shekhinah,385,467,no,8
+mispar_gadol,9,14,HaMakom,751,1024,no,7
+mispar_gadol,9,15,HaRachaman,953,1268,no,8
+mispar_gadol,9,16,HaKadosh Baruch Hu,1135,1501,no,7
+mispar_gadol,9,17,Ribbono Shel Olam,1300,1704,no,12
+mispar_gadol,9,18,Yeshua,386,468,no,9
+mispar_gadol,9,19,Immanuel,197,238,no,4
+mispar_gadol,9,20,Mashiach,358,437,no,5
+mispar_gadol,9,21,Sar Shalom,1436,1865,no,2
+mispar_gadol,9,22,Adon,711,870,no,6
+mispar_gadol,9,23,Elohei HaShamayim,1001,1332,no,9
+mispar_gadol,9,24,Elohei HaAretz,1152,1520,no,8
+mispar_gadol,9,25,El Shaddai,345,423,no,9
+mispar_gadol,9,26,El Kana,182,222,yes,6
+mispar_gadol,9,27,El De’ot,511,627,no,6
+mispar_gadol,9,28,El Berit,643,784,no,10
+mispar_gadol,9,29,El HaNe’eman,832,1124,no,8
+mispar_gadol,9,30,El HaGadol,84,103,no,4
+mispar_gadol,9,32,El HaKavod,68,75,no,12
+mispar_gadol,9,35,Elohei Avraham,854,1148,no,5
+mispar_gadol,9,36,Elohei Yitzchak,254,312,no,6
+mispar_gadol,9,37,Elohei Yaakov,228,273,no,12
+mispar_gadol,10,1,El,31,31,no,4
+mispar_gadol,10,2,Eloah,42,42,no,6
+mispar_gadol,10,3,Elohim,646,646,yes,7
+mispar_gadol,10,4,YHWH,26,26,no,8
+mispar_gadol,10,5,Adonai,65,65,no,11
+mispar_gadol,10,6,Shaddai,314,314,no,8
+mispar_gadol,10,7,Ehyeh Asher Ehyeh,543,543,no,12
+mispar_gadol,10,8,El Elyon,847,847,no,10
+mispar_gadol,10,9,El Olam,737,737,yes,8
+mispar_gadol,10,10,El Roi,242,242,yes,8
+mispar_gadol,10,11,El Gibbor,242,242,yes,8
+mispar_gadol,10,12,El Yeshuati,827,827,no,8
+mispar_gadol,10,13,Shekhinah,385,385,no,7
+mispar_gadol,10,14,HaMakom,751,751,no,4
+mispar_gadol,10,15,HaRachaman,953,953,no,8
+mispar_gadol,10,16,HaKadosh Baruch Hu,1135,1135,no,10
+mispar_gadol,10,17,Ribbono Shel Olam,1300,1300,no,4
+mispar_gadol,10,18,Yeshua,386,386,no,8
+mispar_gadol,10,19,Immanuel,197,197,no,8
+mispar_gadol,10,20,Mashiach,358,358,no,7
+mispar_gadol,10,21,Sar Shalom,1436,1436,no,5
+mispar_gadol,10,22,Adon,711,711,no,9
+mispar_gadol,10,23,Elohei HaShamayim,1001,1001,yes,2
+mispar_gadol,10,24,Elohei HaAretz,1152,1152,no,9
+mispar_gadol,10,25,El Shaddai,345,345,no,12
+mispar_gadol,10,26,El Kana,182,182,no,11
+mispar_gadol,10,27,El De’ot,511,511,no,7
+mispar_gadol,10,28,El Berit,643,643,no,4
+mispar_gadol,10,29,El HaNe’eman,832,832,no,4
+mispar_gadol,10,30,El HaGadol,84,84,no,12
+mispar_gadol,10,32,El HaKavod,68,68,no,5
+mispar_gadol,10,35,Elohei Avraham,854,854,no,8
+mispar_gadol,10,36,Elohei Yitzchak,254,254,no,11
+mispar_gadol,10,37,Elohei Yaakov,228,228,no,12
+mispar_gadol,11,1,El,31,29,no,11
+mispar_gadol,11,2,Eloah,42,39,no,12
+mispar_gadol,11,3,Elohim,646,538,no,7
+mispar_gadol,11,4,YHWH,26,24,no,6
+mispar_gadol,11,5,Adonai,65,5A,no,6
+mispar_gadol,11,6,Shaddai,314,266,no,5
+mispar_gadol,11,7,Ehyeh Asher Ehyeh,543,454,yes,4
+mispar_gadol,11,8,El Elyon,847,700,no,7
+mispar_gadol,11,9,El Olam,737,610,no,7
+mispar_gadol,11,10,El Roi,242,200,no,2
+mispar_gadol,11,11,El Gibbor,242,200,no,2
+mispar_gadol,11,12,El Yeshuati,827,692,no,8
+mispar_gadol,11,13,Shekhinah,385,320,no,5
+mispar_gadol,11,14,HaMakom,751,623,no,11
+mispar_gadol,11,15,HaRachaman,953,797,yes,5
+mispar_gadol,11,16,HaKadosh Baruch Hu,1135,942,no,6
+mispar_gadol,11,17,Ribbono Shel Olam,1300,A82,no,2
+mispar_gadol,11,18,Yeshua,386,321,no,6
+mispar_gadol,11,19,Immanuel,197,16A,no,8
+mispar_gadol,11,20,Mashiach,358,2A6,no,9
+mispar_gadol,11,21,Sar Shalom,1436,1096,no,7
+mispar_gadol,11,22,Adon,711,597,no,3
+mispar_gadol,11,23,Elohei HaShamayim,1001,830,no,11
+mispar_gadol,11,24,Elohei HaAretz,1152,958,no,4
+mispar_gadol,11,25,El Shaddai,345,294,no,6
+mispar_gadol,11,26,El Kana,182,156,no,12
+mispar_gadol,11,27,El De’ot,511,425,no,11
+mispar_gadol,11,28,El Berit,643,535,yes,4
+mispar_gadol,11,29,El HaNe’eman,832,697,no,4
+mispar_gadol,11,30,El HaGadol,84,77,yes,5
+mispar_gadol,11,32,El HaKavod,68,62,no,8
+mispar_gadol,11,35,Elohei Avraham,854,707,yes,5
+mispar_gadol,11,36,Elohei Yitzchak,254,211,no,4
+mispar_gadol,11,37,Elohei Yaakov,228,198,no,9
+mispar_gadol,12,1,El,31,27,no,9
+mispar_gadol,12,2,Eloah,42,36,no,9
+mispar_gadol,12,3,Elohim,646,45A,no,10
+mispar_gadol,12,4,YHWH,26,22,yes,4
+mispar_gadol,12,5,Adonai,65,55,yes,10
+mispar_gadol,12,6,Shaddai,314,222,yes,6
+mispar_gadol,12,7,Ehyeh Asher Ehyeh,543,393,yes,6
+mispar_gadol,12,8,El Elyon,847,5A7,no,4
+mispar_gadol,12,9,El Olam,737,515,yes,11
+mispar_gadol,12,10,El Roi,242,182,no,11
+mispar_gadol,12,11,El Gibbor,242,182,no,11
+mispar_gadol,12,12,El Yeshuati,827,58B,no,6
+mispar_gadol,12,13,Shekhinah,385,281,no,11
+mispar_gadol,12,14,HaMakom,751,527,no,5
+mispar_gadol,12,15,HaRachaman,953,675,no,9
+mispar_gadol,12,16,HaKadosh Baruch Hu,1135,7A7,yes,6
+mispar_gadol,12,17,Ribbono Shel Olam,1300,904,no,4
+mispar_gadol,12,18,Yeshua,386,282,yes,12
+mispar_gadol,12,19,Immanuel,197,145,no,10
+mispar_gadol,12,20,Mashiach,358,25A,no,8
+mispar_gadol,12,21,Sar Shalom,1436,9B8,no,10
+mispar_gadol,12,22,Adon,711,4B3,no,9
+mispar_gadol,12,23,Elohei HaShamayim,1001,6B5,no,4
+mispar_gadol,12,24,Elohei HaAretz,1152,800,no,8
+mispar_gadol,12,25,El Shaddai,345,249,no,6
+mispar_gadol,12,26,El Kana,182,132,no,6
+mispar_gadol,12,27,El De’ot,511,367,no,7
+mispar_gadol,12,28,El Berit,643,457,no,7
+mispar_gadol,12,29,El HaNe’eman,832,594,no,9
+mispar_gadol,12,30,El HaGadol,84,70,no,7
+mispar_gadol,12,32,El HaKavod,68,58,no,4
+mispar_gadol,12,35,Elohei Avraham,854,5B2,no,9
+mispar_gadol,12,36,Elohei Yitzchak,254,192,no,12
+mispar_gadol,12,37,Elohei Yaakov,228,170,no,8
+mispar_gadol,13,1,El,31,25,no,7
+mispar_gadol,13,2,Eloah,42,33,yes,6
+mispar_gadol,13,3,Elohim,646,3A9,no,4
+mispar_gadol,13,4,YHWH,26,20,no,2
+mispar_gadol,13,5,Adonai,65,50,no,5
+mispar_gadol,13,6,Shaddai,314,1B2,no,5
+mispar_gadol,13,7,Ehyeh Asher Ehyeh,543,32A,no,6
+mispar_gadol,13,8,El Elyon,847,502,no,7
+mispar_gadol,13,9,El Olam,737,449,no,8
+mispar_gadol,13,10,El Roi,242,158,no,5
+mispar_gadol,13,11,El Gibbor,242,158,no,5
+mispar_gadol,13,12,El Yeshuati,827,4B8,no,5
+mispar_gadol,13,13,Shekhinah,385,238,no,4
+mispar_gadol,13,14,HaMakom,751,45A,no,10
+mispar_gadol,13,15,HaRachaman,953,584,no,8
+mispar_gadol,13,16,HaKadosh Baruch Hu,1135,694,no,10
+mispar_gadol,13,17,Ribbono Shel Olam,1300,790,no,7
+mispar_gadol,13,18,Yeshua,386,239,no,5
+mispar_gadol,13,19,Immanuel,197,122,no,5
+mispar_gadol,13,20,Mashiach,358,217,no,10
+mispar_gadol,13,21,Sar Shalom,1436,866,no,2
+mispar_gadol,13,22,Adon,711,429,no,6
+mispar_gadol,13,23,Elohei HaShamayim,1001,5C0,no,8
+mispar_gadol,13,24,Elohei HaAretz,1152,6A8,no,6
+mispar_gadol,13,25,El Shaddai,345,207,no,9
+mispar_gadol,13,26,El Kana,182,110,no,2
+mispar_gadol,13,27,El De’ot,511,304,no,7
+mispar_gadol,13,28,El Berit,643,3A6,no,10
+mispar_gadol,13,29,El HaNe’eman,832,4C0,no,7
+mispar_gadol,13,30,El HaGadol,84,66,yes,12
+mispar_gadol,13,32,El HaKavod,68,53,no,8
+mispar_gadol,13,35,Elohei Avraham,854,509,no,5
+mispar_gadol,13,36,Elohei Yitzchak,254,167,no,5
+mispar_gadol,13,37,Elohei Yaakov,228,147,no,12
+mispar_gadol,14,1,El,31,23,no,5
+mispar_gadol,14,2,Eloah,42,30,no,3
+mispar_gadol,14,3,Elohim,646,342,no,9
+mispar_gadol,14,4,YHWH,26,1C,no,4
+mispar_gadol,14,5,Adonai,65,49,no,4
+mispar_gadol,14,6,Shaddai,314,186,no,6
+mispar_gadol,14,7,Ehyeh Asher Ehyeh,543,2AB,no,5
+mispar_gadol,14,8,El Elyon,847,447,no,6
+mispar_gadol,14,9,El Olam,737,3A9,no,4
+mispar_gadol,14,10,El Roi,242,134,no,8
+mispar_gadol,14,11,El Gibbor,242,134,no,8
+mispar_gadol,14,12,El Yeshuati,827,431,no,8
+mispar_gadol,14,13,Shekhinah,385,1D7,no,3
+mispar_gadol,14,14,HaMakom,751,3B9,no,5
+mispar_gadol,14,15,HaRachaman,953,4C1,no,8
+mispar_gadol,14,16,HaKadosh Baruch Hu,1135,5B1,no,8
+mispar_gadol,14,17,Ribbono Shel Olam,1300,68C,no,8
+mispar_gadol,14,18,Yeshua,386,1D8,no,4
+mispar_gadol,14,19,Immanuel,197,101,yes,2
+mispar_gadol,14,20,Mashiach,358,1B8,no,2
+mispar_gadol,14,21,Sar Shalom,1436,748,no,10
+mispar_gadol,14,22,Adon,711,38B,no,4
+mispar_gadol,14,23,Elohei HaShamayim,1001,517,no,4
+mispar_gadol,14,24,Elohei HaAretz,1152,5C4,no,3
+mispar_gadol,14,25,El Shaddai,345,1A9,no,2
+mispar_gadol,14,26,El Kana,182,D0,no,4
+mispar_gadol,14,27,El De’ot,511,287,no,8
+mispar_gadol,14,28,El Berit,643,33D,no,10
+mispar_gadol,14,29,El HaNe’eman,832,436,no,4
+mispar_gadol,14,30,El HaGadol,84,60,no,6
+mispar_gadol,14,32,El HaKavod,68,4C,no,7
+mispar_gadol,14,35,Elohei Avraham,854,450,no,9
+mispar_gadol,14,36,Elohei Yitzchak,254,142,no,7
+mispar_gadol,14,37,Elohei Yaakov,228,124,no,7
+mispar_gadol,15,1,El,31,21,no,3
+mispar_gadol,15,2,Eloah,42,2C,no,5
+mispar_gadol,15,3,Elohim,646,2D1,no,7
+mispar_gadol,15,4,YHWH,26,1B,no,12
+mispar_gadol,15,5,Adonai,65,45,no,9
+mispar_gadol,15,6,Shaddai,314,15E,no,2
+mispar_gadol,15,7,Ehyeh Asher Ehyeh,543,263,no,11
+mispar_gadol,15,8,El Elyon,847,3B7,no,3
+mispar_gadol,15,9,El Olam,737,342,no,9
+mispar_gadol,15,10,El Roi,242,112,no,4
+mispar_gadol,15,11,El Gibbor,242,112,no,4
+mispar_gadol,15,12,El Yeshuati,827,3A2,no,6
+mispar_gadol,15,13,Shekhinah,385,1AA,no,3
+mispar_gadol,15,14,HaMakom,751,351,no,9
+mispar_gadol,15,15,HaRachaman,953,438,no,6
+mispar_gadol,15,16,HaKadosh Baruch Hu,1135,50A,no,6
+mispar_gadol,15,17,Ribbono Shel Olam,1300,5BA,no,8
+mispar_gadol,15,18,Yeshua,386,1AB,no,4
+mispar_gadol,15,19,Immanuel,197,D2,no,6
+mispar_gadol,15,20,Mashiach,358,18D,no,4
+mispar_gadol,15,21,Sar Shalom,1436,65B,no,4
+mispar_gadol,15,22,Adon,711,326,no,11
+mispar_gadol,15,23,Elohei HaShamayim,1001,46B,no,3
+mispar_gadol,15,24,Elohei HaAretz,1152,51C,no,9
+mispar_gadol,15,25,El Shaddai,345,180,no,9
+mispar_gadol,15,26,El Kana,182,C2,no,5
+mispar_gadol,15,27,El De’ot,511,241,no,7
+mispar_gadol,15,28,El Berit,643,2CD,no,9
+mispar_gadol,15,29,El HaNe’eman,832,3A7,no,2
+mispar_gadol,15,30,El HaGadol,84,59,no,5
+mispar_gadol,15,32,El HaKavod,68,48,no,12
+mispar_gadol,15,35,Elohei Avraham,854,3BE,no,10
+mispar_gadol,15,36,Elohei Yitzchak,254,11E,no,7
+mispar_gadol,15,37,Elohei Yaakov,228,103,no,4
+mispar_gadol,16,1,El,31,1F,no,7
+mispar_gadol,16,2,Eloah,42,2A,no,12
+mispar_gadol,16,3,Elohim,646,286,no,7
+mispar_gadol,16,4,YHWH,26,1A,no,11
+mispar_gadol,16,5,Adonai,65,41,no,5
+mispar_gadol,16,6,Shaddai,314,13A,no,5
+mispar_gadol,16,7,Ehyeh Asher Ehyeh,543,21F,no,9
+mispar_gadol,16,8,El Elyon,847,34F,no,4
+mispar_gadol,16,9,El Olam,737,2E1,no,8
+mispar_gadol,16,10,El Roi,242,F2,no,8
+mispar_gadol,16,11,El Gibbor,242,F2,no,8
+mispar_gadol,16,12,El Yeshuati,827,33B,no,8
+mispar_gadol,16,13,Shekhinah,385,181,yes,10
+mispar_gadol,16,14,HaMakom,751,2EF,no,4
+mispar_gadol,16,15,HaRachaman,953,3B9,no,5
+mispar_gadol,16,16,HaKadosh Baruch Hu,1135,46F,no,7
+mispar_gadol,16,17,Ribbono Shel Olam,1300,514,no,10
+mispar_gadol,16,18,Yeshua,386,182,no,11
+mispar_gadol,16,19,Immanuel,197,C5,no,8
+mispar_gadol,16,20,Mashiach,358,166,no,4
+mispar_gadol,16,21,Sar Shalom,1436,59C,no,8
+mispar_gadol,16,22,Adon,711,2C7,no,3
+mispar_gadol,16,23,Elohei HaShamayim,1001,3E9,no,8
+mispar_gadol,16,24,Elohei HaAretz,1152,480,no,12
+mispar_gadol,16,25,El Shaddai,345,159,no,6
+mispar_gadol,16,26,El Kana,182,B6,no,8
+mispar_gadol,16,27,El De’ot,511,1FF,no,4
+mispar_gadol,16,28,El Berit,643,283,no,4
+mispar_gadol,16,29,El HaNe’eman,832,340,no,7
+mispar_gadol,16,30,El HaGadol,84,54,no,9
+mispar_gadol,16,32,El HaKavod,68,44,yes,8
+mispar_gadol,16,35,Elohei Avraham,854,356,no,5
+mispar_gadol,16,36,Elohei Yitzchak,254,FE,no,11
+mispar_gadol,16,37,Elohei Yaakov,228,E4,no,9
+mispar_gadol,17,1,El,31,1E,no,6
+mispar_gadol,17,2,Eloah,42,28,no,10
+mispar_gadol,17,3,Elohim,646,240,no,6
+mispar_gadol,17,4,YHWH,26,19,no,10
+mispar_gadol,17,5,Adonai,65,3E,no,8
+mispar_gadol,17,6,Shaddai,314,118,no,10
+mispar_gadol,17,7,Ehyeh Asher Ehyeh,543,1EG,no,4
+mispar_gadol,17,8,El Elyon,847,2FE,no,4
+mispar_gadol,17,9,El Olam,737,296,no,8
+mispar_gadol,17,10,El Roi,242,E4,no,9
+mispar_gadol,17,11,El Gibbor,242,E4,no,9
+mispar_gadol,17,12,El Yeshuati,827,2EB,no,9
+mispar_gadol,17,13,Shekhinah,385,15B,no,8
+mispar_gadol,17,14,HaMakom,751,2A3,no,6
+mispar_gadol,17,15,HaRachaman,953,351,no,9
+mispar_gadol,17,16,HaKadosh Baruch Hu,1135,3FD,no,4
+mispar_gadol,17,17,Ribbono Shel Olam,1300,488,no,2
+mispar_gadol,17,18,Yeshua,386,15C,no,9
+mispar_gadol,17,19,Immanuel,197,BA,no,3
+mispar_gadol,17,20,Mashiach,358,141,yes,6
+mispar_gadol,17,21,Sar Shalom,1436,4G8,no,10
+mispar_gadol,17,22,Adon,711,27E,no,5
+mispar_gadol,17,23,Elohei HaShamayim,1001,37F,no,7
+mispar_gadol,17,24,Elohei HaAretz,1152,3GD,no,5
+mispar_gadol,17,25,El Shaddai,345,135,no,9
+mispar_gadol,17,26,El Kana,182,AC,no,4
+mispar_gadol,17,27,El De’ot,511,1D1,yes,6
+mispar_gadol,17,28,El Berit,643,23E,no,10
+mispar_gadol,17,29,El HaNe’eman,832,2EG,no,5
+mispar_gadol,17,30,El HaGadol,84,4G,no,2
+mispar_gadol,17,32,El HaKavod,68,40,no,4
+mispar_gadol,17,35,Elohei Avraham,854,2G4,no,4
+mispar_gadol,17,36,Elohei Yitzchak,254,EG,no,3
+mispar_gadol,17,37,Elohei Yaakov,228,D7,no,2
+mispar_gadol,18,1,El,31,1D,no,5
+mispar_gadol,18,2,Eloah,42,26,no,8
+mispar_gadol,18,3,Elohim,646,1HG,no,7
+mispar_gadol,18,4,YHWH,26,18,no,9
+mispar_gadol,18,5,Adonai,65,3B,no,5
+mispar_gadol,18,6,Shaddai,314,H8,no,7
+mispar_gadol,18,7,Ehyeh Asher Ehyeh,543,1C3,no,7
+mispar_gadol,18,8,El Elyon,847,2B1,no,5
+mispar_gadol,18,9,El Olam,737,24H,no,5
+mispar_gadol,18,10,El Roi,242,D8,no,3
+mispar_gadol,18,11,El Gibbor,242,D8,no,3
+mispar_gadol,18,12,El Yeshuati,827,29H,no,10
+mispar_gadol,18,13,Shekhinah,385,137,no,11
+mispar_gadol,18,14,HaMakom,751,25D,no,2
+mispar_gadol,18,15,HaRachaman,953,2GH,no,8
+mispar_gadol,18,16,HaKadosh Baruch Hu,1135,391,no,4
+mispar_gadol,18,17,Ribbono Shel Olam,1300,404,yes,8
+mispar_gadol,18,18,Yeshua,386,138,no,12
+mispar_gadol,18,19,Immanuel,197,AH,no,9
+mispar_gadol,18,20,Mashiach,358,11G,no,9
+mispar_gadol,18,21,Sar Shalom,1436,47E,no,7
+mispar_gadol,18,22,Adon,711,239,no,5
+mispar_gadol,18,23,Elohei HaShamayim,1001,31B,no,6
+mispar_gadol,18,24,Elohei HaAretz,1152,3A0,no,4
+mispar_gadol,18,25,El Shaddai,345,113,no,5
+mispar_gadol,18,26,El Kana,182,A2,no,12
+mispar_gadol,18,27,El De’ot,511,1A7,no,9
+mispar_gadol,18,28,El Berit,643,1HD,no,4
+mispar_gadol,18,29,El HaNe’eman,832,2A4,no,7
+mispar_gadol,18,30,El HaGadol,84,4C,no,7
+mispar_gadol,18,32,El HaKavod,68,3E,no,8
+mispar_gadol,18,35,Elohei Avraham,854,2B8,no,3
+mispar_gadol,18,36,Elohei Yitzchak,254,E2,no,7
+mispar_gadol,18,37,Elohei Yaakov,228,CC,yes,6
+mispar_gadol,19,1,El,31,1C,no,4
+mispar_gadol,19,2,Eloah,42,24,no,6
+mispar_gadol,19,3,Elohim,646,1F0,no,7
+mispar_gadol,19,4,YHWH,26,17,no,8
+mispar_gadol,19,5,Adonai,65,38,no,11
+mispar_gadol,19,6,Shaddai,314,GA,no,8
+mispar_gadol,19,7,Ehyeh Asher Ehyeh,543,19B,no,3
+mispar_gadol,19,8,El Elyon,847,26B,no,10
+mispar_gadol,19,9,El Olam,737,20F,no,8
+mispar_gadol,19,10,El Roi,242,CE,no,8
+mispar_gadol,19,11,El Gibbor,242,CE,no,8
+mispar_gadol,19,12,El Yeshuati,827,25A,no,8
+mispar_gadol,19,13,Shekhinah,385,115,no,7
+mispar_gadol,19,14,HaMakom,751,21A,no,4
+mispar_gadol,19,15,HaRachaman,953,2C3,no,8
+mispar_gadol,19,16,HaKadosh Baruch Hu,1135,32E,no,10
+mispar_gadol,19,17,Ribbono Shel Olam,1300,3B8,no,4
+mispar_gadol,19,18,Yeshua,386,116,no,8
+mispar_gadol,19,19,Immanuel,197,A7,no,8
+mispar_gadol,19,20,Mashiach,358,IG,no,7
+mispar_gadol,19,21,Sar Shalom,1436,3IB,no,5
+mispar_gadol,19,22,Adon,711,1I8,no,9
+mispar_gadol,19,23,Elohei HaShamayim,1001,2ED,no,11
+mispar_gadol,19,24,Elohei HaAretz,1152,33C,no,9
+mispar_gadol,19,25,El Shaddai,345,I3,no,3
+mispar_gadol,19,26,El Kana,182,9B,no,2
+mispar_gadol,19,27,El De’ot,511,17H,no,7
+mispar_gadol,19,28,El Berit,643,1EG,no,4
+mispar_gadol,19,29,El HaNe’eman,832,25F,no,4
+mispar_gadol,19,30,El HaGadol,84,48,no,12
+mispar_gadol,19,32,El HaKavod,68,3B,no,5
+mispar_gadol,19,35,Elohei Avraham,854,26I,no,8
+mispar_gadol,19,36,Elohei Yitzchak,254,D7,no,2
+mispar_gadol,19,37,Elohei Yaakov,228,C0,no,12
+mispar_gadol,20,1,El,31,1B,no,12
+mispar_gadol,20,2,Eloah,42,22,yes,4
+mispar_gadol,20,3,Elohim,646,1C6,no,10
+mispar_gadol,20,4,YHWH,26,16,no,7
+mispar_gadol,20,5,Adonai,65,35,no,8
+mispar_gadol,20,6,Shaddai,314,FE,no,11
+mispar_gadol,20,7,Ehyeh Asher Ehyeh,543,173,no,11
+mispar_gadol,20,8,El Elyon,847,227,no,11
+mispar_gadol,20,9,El Olam,737,1GH,no,7
+mispar_gadol,20,10,El Roi,242,C2,no,5
+mispar_gadol,20,11,El Gibbor,242,C2,no,5
+mispar_gadol,20,12,El Yeshuati,827,217,no,10
+mispar_gadol,20,13,Shekhinah,385,J5,no,6
+mispar_gadol,20,14,HaMakom,751,1HB,no,11
+mispar_gadol,20,15,HaRachaman,953,27D,no,4
+mispar_gadol,20,16,HaKadosh Baruch Hu,1135,2GF,no,6
+mispar_gadol,20,17,Ribbono Shel Olam,1300,350,no,8
+mispar_gadol,20,18,Yeshua,386,J6,no,7
+mispar_gadol,20,19,Immanuel,197,9H,no,8
+mispar_gadol,20,20,Mashiach,358,HI,no,8
+mispar_gadol,20,21,Sar Shalom,1436,3BG,no,3
+mispar_gadol,20,22,Adon,711,1FB,no,9
+mispar_gadol,20,23,Elohei HaShamayim,1001,2A1,no,4
+mispar_gadol,20,24,Elohei HaAretz,1152,2HC,no,4
+mispar_gadol,20,25,El Shaddai,345,H5,no,4
+mispar_gadol,20,26,El Kana,182,92,no,11
+mispar_gadol,20,27,El De’ot,511,15B,no,8
+mispar_gadol,20,28,El Berit,643,1C3,no,7
+mispar_gadol,20,29,El HaNe’eman,832,21C,no,6
+mispar_gadol,20,30,El HaGadol,84,44,yes,8
+mispar_gadol,20,32,El HaKavod,68,38,no,11
+mispar_gadol,20,35,Elohei Avraham,854,22E,no,9
+mispar_gadol,20,36,Elohei Yitzchak,254,CE,no,8
+mispar_gadol,20,37,Elohei Yaakov,228,B8,no,10
+paper_basis,2,1,El,31,11111,yes,5
+paper_basis,2,2,Eloah,42,101010,no,3
+paper_basis,2,3,Elohim,646,1010000110,no,4
+paper_basis,2,4,YHWH,26,11010,no,3
+paper_basis,2,5,Adonai,65,1000001,yes,2
+paper_basis,2,6,Shaddai,314,100111010,no,5
+paper_basis,2,7,Ehyeh Asher Ehyeh,543,1000011111,no,6
+paper_basis,2,8,El Elyon,847,1101001111,no,7
+paper_basis,2,9,El Olam,737,1011100001,no,5
+paper_basis,2,10,El Roi,242,11110010,no,5
+paper_basis,2,11,El Gibbor,242,11110010,no,5
+paper_basis,2,12,El Yeshuati,827,1100111011,no,7
+paper_basis,2,13,Shekhinah,385,110000001,no,3
+paper_basis,2,14,HaMakom,751,1011101111,no,8
+paper_basis,2,15,HaRachaman,953,1110111001,no,7
+paper_basis,2,16,HaKadosh Baruch Hu,1135,10001101111,no,7
+paper_basis,2,17,Ribbono Shel Olam,1300,10100010100,no,4
+paper_basis,2,18,Yeshua,386,110000010,no,3
+paper_basis,2,19,Immanuel,197,11000101,no,4
+paper_basis,2,20,Mashiach,358,101100110,no,5
+paper_basis,2,21,Sar Shalom,1436,10110011100,no,6
+paper_basis,2,22,Adon,711,1011000111,no,6
+paper_basis,2,23,Elohei HaShamayim,1001,1111101001,no,7
+paper_basis,2,24,Elohei HaAretz,1152,10010000000,no,2
+paper_basis,2,25,El Shaddai,345,101011001,no,5
+paper_basis,2,26,El Kana,182,10110110,no,5
+paper_basis,2,27,El De’ot,511,111111111,yes,9
+paper_basis,2,28,El Berit,643,1010000011,no,4
+paper_basis,2,29,El HaNe’eman,832,1101000000,no,3
+paper_basis,2,30,El HaGadol,84,1010100,no,3
+paper_basis,2,32,El HaKavod,68,1000100,no,2
+paper_basis,2,35,Elohei Avraham,854,1101010110,no,6
+paper_basis,2,36,Elohei Yitzchak,254,11111110,no,7
+paper_basis,2,37,Elohei Yaakov,228,11100100,no,4
+paper_basis,3,1,El,31,1011,no,3
+paper_basis,3,2,Eloah,42,1120,no,4
+paper_basis,3,3,Elohim,646,212221,no,10
+paper_basis,3,4,YHWH,26,222,yes,6
+paper_basis,3,5,Adonai,65,2102,no,5
+paper_basis,3,6,Shaddai,314,102122,no,8
+paper_basis,3,7,Ehyeh Asher Ehyeh,543,202010,no,5
+paper_basis,3,8,El Elyon,847,1011101,yes,5
+paper_basis,3,9,El Olam,737,1000022,no,5
+paper_basis,3,10,El Roi,242,22222,yes,10
+paper_basis,3,11,El Gibbor,242,22222,yes,10
+paper_basis,3,12,El Yeshuati,827,1010122,no,7
+paper_basis,3,13,Shekhinah,385,112021,no,7
+paper_basis,3,14,HaMakom,751,1000211,no,5
+paper_basis,3,15,HaRachaman,953,1022022,no,9
+paper_basis,3,16,HaKadosh Baruch Hu,1135,1120001,no,5
+paper_basis,3,17,Ribbono Shel Olam,1300,1210011,no,6
+paper_basis,3,18,Yeshua,386,112022,no,8
+paper_basis,3,19,Immanuel,197,21022,no,7
+paper_basis,3,20,Mashiach,358,111021,no,6
+paper_basis,3,21,Sar Shalom,1436,1222012,no,10
+paper_basis,3,22,Adon,711,222100,no,7
+paper_basis,3,23,Elohei HaShamayim,1001,1101002,no,5
+paper_basis,3,24,Elohei HaAretz,1152,1120200,no,6
+paper_basis,3,25,El Shaddai,345,110210,no,5
+paper_basis,3,26,El Kana,182,20202,yes,6
+paper_basis,3,27,El De’ot,511,200221,no,7
+paper_basis,3,28,El Berit,643,212211,no,9
+paper_basis,3,29,El HaNe’eman,832,1010211,no,6
+paper_basis,3,30,El HaGadol,84,10010,no,2
+paper_basis,3,32,El HaKavod,68,2112,yes,6
+paper_basis,3,35,Elohei Avraham,854,1011122,no,8
+paper_basis,3,36,Elohei Yitzchak,254,100102,no,4
+paper_basis,3,37,Elohei Yaakov,228,22110,no,6
+paper_basis,4,1,El,31,133,no,7
+paper_basis,4,2,Eloah,42,222,yes,6
+paper_basis,4,3,Elohim,646,22012,no,7
+paper_basis,4,4,YHWH,26,122,no,5
+paper_basis,4,5,Adonai,65,1001,yes,2
+paper_basis,4,6,Shaddai,314,10322,no,8
+paper_basis,4,7,Ehyeh Asher Ehyeh,543,20133,no,9
+paper_basis,4,8,El Elyon,847,31033,no,10
+paper_basis,4,9,El Olam,737,23201,no,8
+paper_basis,4,10,El Roi,242,3302,no,8
+paper_basis,4,11,El Gibbor,242,3302,no,8
+paper_basis,4,12,El Yeshuati,827,30323,no,11
+paper_basis,4,13,Shekhinah,385,12001,no,4
+paper_basis,4,14,HaMakom,751,23233,no,4
+paper_basis,4,15,HaRachaman,953,32321,no,11
+paper_basis,4,16,HaKadosh Baruch Hu,1135,101233,no,10
+paper_basis,4,17,Ribbono Shel Olam,1300,110110,no,4
+paper_basis,4,18,Yeshua,386,12002,no,5
+paper_basis,4,19,Immanuel,197,3011,no,5
+paper_basis,4,20,Mashiach,358,11212,no,7
+paper_basis,4,21,Sar Shalom,1436,112130,no,8
+paper_basis,4,22,Adon,711,23013,no,9
+paper_basis,4,23,Elohei HaShamayim,1001,33221,no,11
+paper_basis,4,24,Elohei HaAretz,1152,102000,no,3
+paper_basis,4,25,El Shaddai,345,11121,no,6
+paper_basis,4,26,El Kana,182,2312,no,8
+paper_basis,4,27,El De’ot,511,13333,no,4
+paper_basis,4,28,El Berit,643,22003,no,7
+paper_basis,4,29,El HaNe’eman,832,31000,no,4
+paper_basis,4,30,El HaGadol,84,1110,no,3
+paper_basis,4,32,El HaKavod,68,1010,no,2
+paper_basis,4,35,Elohei Avraham,854,31112,no,8
+paper_basis,4,36,Elohei Yitzchak,254,3332,no,11
+paper_basis,4,37,Elohei Yaakov,228,3210,no,6
+paper_basis,5,1,El,31,111,yes,3
+paper_basis,5,2,Eloah,42,132,no,6
+paper_basis,5,3,Elohim,646,10041,no,6
+paper_basis,5,4,YHWH,26,101,yes,2
+paper_basis,5,5,Adonai,65,230,no,5
+paper_basis,5,6,Shaddai,314,2224,no,10
+paper_basis,5,7,Ehyeh Asher Ehyeh,543,4133,no,11
+paper_basis,5,8,El Elyon,847,11342,no,11
+paper_basis,5,9,El Olam,737,10422,no,9
+paper_basis,5,10,El Roi,242,1432,no,10
+paper_basis,5,11,El Gibbor,242,1432,no,10
+paper_basis,5,12,El Yeshuati,827,11302,no,7
+paper_basis,5,13,Shekhinah,385,3020,no,5
+paper_basis,5,14,HaMakom,751,11001,no,3
+paper_basis,5,15,HaRachaman,953,12303,no,9
+paper_basis,5,16,HaKadosh Baruch Hu,1135,14020,no,7
+paper_basis,5,17,Ribbono Shel Olam,1300,20200,no,4
+paper_basis,5,18,Yeshua,386,3021,no,6
+paper_basis,5,19,Immanuel,197,1242,no,9
+paper_basis,5,20,Mashiach,358,2413,no,10
+paper_basis,5,21,Sar Shalom,1436,21221,no,8
+paper_basis,5,22,Adon,711,10321,no,7
+paper_basis,5,23,Elohei HaShamayim,1001,13001,no,5
+paper_basis,5,24,Elohei HaAretz,1152,14102,no,8
+paper_basis,5,25,El Shaddai,345,2340,no,9
+paper_basis,5,26,El Kana,182,1212,no,6
+paper_basis,5,27,El De’ot,511,4021,no,7
+paper_basis,5,28,El Berit,643,10033,no,7
+paper_basis,5,29,El HaNe’eman,832,11312,no,8
+paper_basis,5,30,El HaGadol,84,314,no,8
+paper_basis,5,32,El HaKavod,68,233,no,8
+paper_basis,5,35,Elohei Avraham,854,11404,no,10
+paper_basis,5,36,Elohei Yitzchak,254,2004,no,6
+paper_basis,5,37,Elohei Yaakov,228,1403,no,8
+paper_basis,6,1,El,31,51,no,6
+paper_basis,6,2,Eloah,42,110,no,2
+paper_basis,6,3,Elohim,646,2554,no,7
+paper_basis,6,4,YHWH,26,42,no,6
+paper_basis,6,5,Adonai,65,145,no,10
+paper_basis,6,6,Shaddai,314,1242,no,9
+paper_basis,6,7,Ehyeh Asher Ehyeh,543,2303,no,8
+paper_basis,6,8,El Elyon,847,3531,no,12
+paper_basis,6,9,El Olam,737,3225,no,12
+paper_basis,6,10,El Roi,242,1042,no,7
+paper_basis,6,11,El Gibbor,242,1042,no,7
+paper_basis,6,12,El Yeshuati,827,3455,no,8
+paper_basis,6,13,Shekhinah,385,1441,yes,10
+paper_basis,6,14,HaMakom,751,3251,no,11
+paper_basis,6,15,HaRachaman,953,4225,no,4
+paper_basis,6,16,HaKadosh Baruch Hu,1135,5131,no,10
+paper_basis,6,17,Ribbono Shel Olam,1300,10004,no,5
+paper_basis,6,18,Yeshua,386,1442,no,11
+paper_basis,6,19,Immanuel,197,525,yes,12
+paper_basis,6,20,Mashiach,358,1354,no,4
+paper_basis,6,21,Sar Shalom,1436,10352,no,11
+paper_basis,6,22,Adon,711,3143,no,11
+paper_basis,6,23,Elohei HaShamayim,1001,4345,no,7
+paper_basis,6,24,Elohei HaAretz,1152,5200,no,7
+paper_basis,6,25,El Shaddai,345,1333,no,10
+paper_basis,6,26,El Kana,182,502,no,7
+paper_basis,6,27,El De’ot,511,2211,no,6
+paper_basis,6,28,El Berit,643,2551,no,4
+paper_basis,6,29,El HaNe’eman,832,3504,no,12
+paper_basis,6,30,El HaGadol,84,220,no,4
+paper_basis,6,32,El HaKavod,68,152,no,8
+paper_basis,6,35,Elohei Avraham,854,3542,no,5
+paper_basis,6,36,Elohei Yitzchak,254,1102,no,4
+paper_basis,6,37,Elohei Yaakov,228,1020,no,3
+paper_basis,7,1,El,31,43,no,7
+paper_basis,7,2,Eloah,42,60,no,6
+paper_basis,7,3,Elohim,646,1612,no,10
+paper_basis,7,4,YHWH,26,35,no,8
+paper_basis,7,5,Adonai,65,122,no,5
+paper_basis,7,6,Shaddai,314,626,yes,5
+paper_basis,7,7,Ehyeh Asher Ehyeh,543,1404,no,9
+paper_basis,7,8,El Elyon,847,2320,no,7
+paper_basis,7,9,El Olam,737,2102,no,5
+paper_basis,7,10,El Roi,242,464,yes,5
+paper_basis,7,11,El Gibbor,242,464,yes,5
+paper_basis,7,12,El Yeshuati,827,2261,no,11
+paper_basis,7,13,Shekhinah,385,1060,no,7
+paper_basis,7,14,HaMakom,751,2122,no,7
+paper_basis,7,15,HaRachaman,953,2531,no,11
+paper_basis,7,16,HaKadosh Baruch Hu,1135,3211,no,7
+paper_basis,7,17,Ribbono Shel Olam,1300,3535,no,7
+paper_basis,7,18,Yeshua,386,1061,no,8
+paper_basis,7,19,Immanuel,197,401,no,5
+paper_basis,7,20,Mashiach,358,1021,no,4
+paper_basis,7,21,Sar Shalom,1436,4121,no,8
+paper_basis,7,22,Adon,711,2034,no,9
+paper_basis,7,23,Elohei HaShamayim,1001,2630,no,11
+paper_basis,7,24,Elohei HaAretz,1152,3234,no,12
+paper_basis,7,25,El Shaddai,345,1002,no,3
+paper_basis,7,26,El Kana,182,350,no,8
+paper_basis,7,27,El De’ot,511,1330,no,7
+paper_basis,7,28,El Berit,643,1606,no,4
+paper_basis,7,29,El HaNe’eman,832,2266,no,7
+paper_basis,7,30,El HaGadol,84,150,no,6
+paper_basis,7,32,El HaKavod,68,125,no,8
+paper_basis,7,35,Elohei Avraham,854,2330,no,8
+paper_basis,7,36,Elohei Yitzchak,254,512,no,8
+paper_basis,7,37,Elohei Yaakov,228,444,yes,12
+paper_basis,8,1,El,31,37,no,10
+paper_basis,8,2,Eloah,42,52,no,7
+paper_basis,8,3,Elohim,646,1206,no,9
+paper_basis,8,4,YHWH,26,32,no,5
+paper_basis,8,5,Adonai,65,101,yes,2
+paper_basis,8,6,Shaddai,314,472,no,4
+paper_basis,8,7,Ehyeh Asher Ehyeh,543,1037,no,11
+paper_basis,8,8,El Elyon,847,1517,no,5
+paper_basis,8,9,El Olam,737,1341,no,9
+paper_basis,8,10,El Roi,242,362,no,11
+paper_basis,8,11,El Gibbor,242,362,no,11
+paper_basis,8,12,El Yeshuati,827,1473,no,6
+paper_basis,8,13,Shekhinah,385,601,no,7
+paper_basis,8,14,HaMakom,751,1357,no,7
+paper_basis,8,15,HaRachaman,953,1671,no,6
+paper_basis,8,16,HaKadosh Baruch Hu,1135,2157,no,6
+paper_basis,8,17,Ribbono Shel Olam,1300,2424,no,12
+paper_basis,8,18,Yeshua,386,602,no,8
+paper_basis,8,19,Immanuel,197,305,no,8
+paper_basis,8,20,Mashiach,358,546,no,6
+paper_basis,8,21,Sar Shalom,1436,2634,no,6
+paper_basis,8,22,Adon,711,1307,no,11
+paper_basis,8,23,Elohei HaShamayim,1001,1751,no,5
+paper_basis,8,24,Elohei HaAretz,1152,2200,no,4
+paper_basis,8,25,El Shaddai,345,531,no,9
+paper_basis,8,26,El Kana,182,266,no,5
+paper_basis,8,27,El De’ot,511,777,yes,3
+paper_basis,8,28,El Berit,643,1203,no,6
+paper_basis,8,29,El HaNe’eman,832,1500,no,6
+paper_basis,8,30,El HaGadol,84,124,no,7
+paper_basis,8,32,El HaKavod,68,104,no,5
+paper_basis,8,35,Elohei Avraham,854,1526,no,5
+paper_basis,8,36,Elohei Yitzchak,254,376,no,7
+paper_basis,8,37,Elohei Yaakov,228,344,no,11
+paper_basis,9,1,El,31,34,no,7
+paper_basis,9,2,Eloah,42,46,no,10
+paper_basis,9,3,Elohim,646,787,yes,4
+paper_basis,9,4,YHWH,26,28,no,10
+paper_basis,9,5,Adonai,65,72,no,9
+paper_basis,9,6,Shaddai,314,378,no,9
+paper_basis,9,7,Ehyeh Asher Ehyeh,543,663,no,6
+paper_basis,9,8,El Elyon,847,1141,no,7
+paper_basis,9,9,El Olam,737,1008,no,9
+paper_basis,9,10,El Roi,242,288,no,9
+paper_basis,9,11,El Gibbor,242,288,no,9
+paper_basis,9,12,El Yeshuati,827,1118,no,11
+paper_basis,9,13,Shekhinah,385,467,no,8
+paper_basis,9,14,HaMakom,751,1024,no,7
+paper_basis,9,15,HaRachaman,953,1268,no,8
+paper_basis,9,16,HaKadosh Baruch Hu,1135,1501,no,7
+paper_basis,9,17,Ribbono Shel Olam,1300,1704,no,12
+paper_basis,9,18,Yeshua,386,468,no,9
+paper_basis,9,19,Immanuel,197,238,no,4
+paper_basis,9,20,Mashiach,358,437,no,5
+paper_basis,9,21,Sar Shalom,1436,1865,no,2
+paper_basis,9,22,Adon,711,870,no,6
+paper_basis,9,23,Elohei HaShamayim,1001,1332,no,9
+paper_basis,9,24,Elohei HaAretz,1152,1520,no,8
+paper_basis,9,25,El Shaddai,345,423,no,9
+paper_basis,9,26,El Kana,182,222,yes,6
+paper_basis,9,27,El De’ot,511,627,no,6
+paper_basis,9,28,El Berit,643,784,no,10
+paper_basis,9,29,El HaNe’eman,832,1124,no,8
+paper_basis,9,30,El HaGadol,84,103,no,4
+paper_basis,9,32,El HaKavod,68,75,no,12
+paper_basis,9,35,Elohei Avraham,854,1148,no,5
+paper_basis,9,36,Elohei Yitzchak,254,312,no,6
+paper_basis,9,37,Elohei Yaakov,228,273,no,12
+paper_basis,10,1,El,31,31,no,4
+paper_basis,10,2,Eloah,42,42,no,6
+paper_basis,10,3,Elohim,646,646,yes,7
+paper_basis,10,4,YHWH,26,26,no,8
+paper_basis,10,5,Adonai,65,65,no,11
+paper_basis,10,6,Shaddai,314,314,no,8
+paper_basis,10,7,Ehyeh Asher Ehyeh,543,543,no,12
+paper_basis,10,8,El Elyon,847,847,no,10
+paper_basis,10,9,El Olam,737,737,yes,8
+paper_basis,10,10,El Roi,242,242,yes,8
+paper_basis,10,11,El Gibbor,242,242,yes,8
+paper_basis,10,12,El Yeshuati,827,827,no,8
+paper_basis,10,13,Shekhinah,385,385,no,7
+paper_basis,10,14,HaMakom,751,751,no,4
+paper_basis,10,15,HaRachaman,953,953,no,8
+paper_basis,10,16,HaKadosh Baruch Hu,1135,1135,no,10
+paper_basis,10,17,Ribbono Shel Olam,1300,1300,no,4
+paper_basis,10,18,Yeshua,386,386,no,8
+paper_basis,10,19,Immanuel,197,197,no,8
+paper_basis,10,20,Mashiach,358,358,no,7
+paper_basis,10,21,Sar Shalom,1436,1436,no,5
+paper_basis,10,22,Adon,711,711,no,9
+paper_basis,10,23,Elohei HaShamayim,1001,1001,yes,2
+paper_basis,10,24,Elohei HaAretz,1152,1152,no,9
+paper_basis,10,25,El Shaddai,345,345,no,12
+paper_basis,10,26,El Kana,182,182,no,11
+paper_basis,10,27,El De’ot,511,511,no,7
+paper_basis,10,28,El Berit,643,643,no,4
+paper_basis,10,29,El HaNe’eman,832,832,no,4
+paper_basis,10,30,El HaGadol,84,84,no,12
+paper_basis,10,32,El HaKavod,68,68,no,5
+paper_basis,10,35,Elohei Avraham,854,854,no,8
+paper_basis,10,36,Elohei Yitzchak,254,254,no,11
+paper_basis,10,37,Elohei Yaakov,228,228,no,12
+paper_basis,11,1,El,31,29,no,11
+paper_basis,11,2,Eloah,42,39,no,12
+paper_basis,11,3,Elohim,646,538,no,7
+paper_basis,11,4,YHWH,26,24,no,6
+paper_basis,11,5,Adonai,65,5A,no,6
+paper_basis,11,6,Shaddai,314,266,no,5
+paper_basis,11,7,Ehyeh Asher Ehyeh,543,454,yes,4
+paper_basis,11,8,El Elyon,847,700,no,7
+paper_basis,11,9,El Olam,737,610,no,7
+paper_basis,11,10,El Roi,242,200,no,2
+paper_basis,11,11,El Gibbor,242,200,no,2
+paper_basis,11,12,El Yeshuati,827,692,no,8
+paper_basis,11,13,Shekhinah,385,320,no,5
+paper_basis,11,14,HaMakom,751,623,no,11
+paper_basis,11,15,HaRachaman,953,797,yes,5
+paper_basis,11,16,HaKadosh Baruch Hu,1135,942,no,6
+paper_basis,11,17,Ribbono Shel Olam,1300,A82,no,2
+paper_basis,11,18,Yeshua,386,321,no,6
+paper_basis,11,19,Immanuel,197,16A,no,8
+paper_basis,11,20,Mashiach,358,2A6,no,9
+paper_basis,11,21,Sar Shalom,1436,1096,no,7
+paper_basis,11,22,Adon,711,597,no,3
+paper_basis,11,23,Elohei HaShamayim,1001,830,no,11
+paper_basis,11,24,Elohei HaAretz,1152,958,no,4
+paper_basis,11,25,El Shaddai,345,294,no,6
+paper_basis,11,26,El Kana,182,156,no,12
+paper_basis,11,27,El De’ot,511,425,no,11
+paper_basis,11,28,El Berit,643,535,yes,4
+paper_basis,11,29,El HaNe’eman,832,697,no,4
+paper_basis,11,30,El HaGadol,84,77,yes,5
+paper_basis,11,32,El HaKavod,68,62,no,8
+paper_basis,11,35,Elohei Avraham,854,707,yes,5
+paper_basis,11,36,Elohei Yitzchak,254,211,no,4
+paper_basis,11,37,Elohei Yaakov,228,198,no,9
+paper_basis,12,1,El,31,27,no,9
+paper_basis,12,2,Eloah,42,36,no,9
+paper_basis,12,3,Elohim,646,45A,no,10
+paper_basis,12,4,YHWH,26,22,yes,4
+paper_basis,12,5,Adonai,65,55,yes,10
+paper_basis,12,6,Shaddai,314,222,yes,6
+paper_basis,12,7,Ehyeh Asher Ehyeh,543,393,yes,6
+paper_basis,12,8,El Elyon,847,5A7,no,4
+paper_basis,12,9,El Olam,737,515,yes,11
+paper_basis,12,10,El Roi,242,182,no,11
+paper_basis,12,11,El Gibbor,242,182,no,11
+paper_basis,12,12,El Yeshuati,827,58B,no,6
+paper_basis,12,13,Shekhinah,385,281,no,11
+paper_basis,12,14,HaMakom,751,527,no,5
+paper_basis,12,15,HaRachaman,953,675,no,9
+paper_basis,12,16,HaKadosh Baruch Hu,1135,7A7,yes,6
+paper_basis,12,17,Ribbono Shel Olam,1300,904,no,4
+paper_basis,12,18,Yeshua,386,282,yes,12
+paper_basis,12,19,Immanuel,197,145,no,10
+paper_basis,12,20,Mashiach,358,25A,no,8
+paper_basis,12,21,Sar Shalom,1436,9B8,no,10
+paper_basis,12,22,Adon,711,4B3,no,9
+paper_basis,12,23,Elohei HaShamayim,1001,6B5,no,4
+paper_basis,12,24,Elohei HaAretz,1152,800,no,8
+paper_basis,12,25,El Shaddai,345,249,no,6
+paper_basis,12,26,El Kana,182,132,no,6
+paper_basis,12,27,El De’ot,511,367,no,7
+paper_basis,12,28,El Berit,643,457,no,7
+paper_basis,12,29,El HaNe’eman,832,594,no,9
+paper_basis,12,30,El HaGadol,84,70,no,7
+paper_basis,12,32,El HaKavod,68,58,no,4
+paper_basis,12,35,Elohei Avraham,854,5B2,no,9
+paper_basis,12,36,Elohei Yitzchak,254,192,no,12
+paper_basis,12,37,Elohei Yaakov,228,170,no,8
+paper_basis,13,1,El,31,25,no,7
+paper_basis,13,2,Eloah,42,33,yes,6
+paper_basis,13,3,Elohim,646,3A9,no,4
+paper_basis,13,4,YHWH,26,20,no,2
+paper_basis,13,5,Adonai,65,50,no,5
+paper_basis,13,6,Shaddai,314,1B2,no,5
+paper_basis,13,7,Ehyeh Asher Ehyeh,543,32A,no,6
+paper_basis,13,8,El Elyon,847,502,no,7
+paper_basis,13,9,El Olam,737,449,no,8
+paper_basis,13,10,El Roi,242,158,no,5
+paper_basis,13,11,El Gibbor,242,158,no,5
+paper_basis,13,12,El Yeshuati,827,4B8,no,5
+paper_basis,13,13,Shekhinah,385,238,no,4
+paper_basis,13,14,HaMakom,751,45A,no,10
+paper_basis,13,15,HaRachaman,953,584,no,8
+paper_basis,13,16,HaKadosh Baruch Hu,1135,694,no,10
+paper_basis,13,17,Ribbono Shel Olam,1300,790,no,7
+paper_basis,13,18,Yeshua,386,239,no,5
+paper_basis,13,19,Immanuel,197,122,no,5
+paper_basis,13,20,Mashiach,358,217,no,10
+paper_basis,13,21,Sar Shalom,1436,866,no,2
+paper_basis,13,22,Adon,711,429,no,6
+paper_basis,13,23,Elohei HaShamayim,1001,5C0,no,8
+paper_basis,13,24,Elohei HaAretz,1152,6A8,no,6
+paper_basis,13,25,El Shaddai,345,207,no,9
+paper_basis,13,26,El Kana,182,110,no,2
+paper_basis,13,27,El De’ot,511,304,no,7
+paper_basis,13,28,El Berit,643,3A6,no,10
+paper_basis,13,29,El HaNe’eman,832,4C0,no,7
+paper_basis,13,30,El HaGadol,84,66,yes,12
+paper_basis,13,32,El HaKavod,68,53,no,8
+paper_basis,13,35,Elohei Avraham,854,509,no,5
+paper_basis,13,36,Elohei Yitzchak,254,167,no,5
+paper_basis,13,37,Elohei Yaakov,228,147,no,12
+paper_basis,14,1,El,31,23,no,5
+paper_basis,14,2,Eloah,42,30,no,3
+paper_basis,14,3,Elohim,646,342,no,9
+paper_basis,14,4,YHWH,26,1C,no,4
+paper_basis,14,5,Adonai,65,49,no,4
+paper_basis,14,6,Shaddai,314,186,no,6
+paper_basis,14,7,Ehyeh Asher Ehyeh,543,2AB,no,5
+paper_basis,14,8,El Elyon,847,447,no,6
+paper_basis,14,9,El Olam,737,3A9,no,4
+paper_basis,14,10,El Roi,242,134,no,8
+paper_basis,14,11,El Gibbor,242,134,no,8
+paper_basis,14,12,El Yeshuati,827,431,no,8
+paper_basis,14,13,Shekhinah,385,1D7,no,3
+paper_basis,14,14,HaMakom,751,3B9,no,5
+paper_basis,14,15,HaRachaman,953,4C1,no,8
+paper_basis,14,16,HaKadosh Baruch Hu,1135,5B1,no,8
+paper_basis,14,17,Ribbono Shel Olam,1300,68C,no,8
+paper_basis,14,18,Yeshua,386,1D8,no,4
+paper_basis,14,19,Immanuel,197,101,yes,2
+paper_basis,14,20,Mashiach,358,1B8,no,2
+paper_basis,14,21,Sar Shalom,1436,748,no,10
+paper_basis,14,22,Adon,711,38B,no,4
+paper_basis,14,23,Elohei HaShamayim,1001,517,no,4
+paper_basis,14,24,Elohei HaAretz,1152,5C4,no,3
+paper_basis,14,25,El Shaddai,345,1A9,no,2
+paper_basis,14,26,El Kana,182,D0,no,4
+paper_basis,14,27,El De’ot,511,287,no,8
+paper_basis,14,28,El Berit,643,33D,no,10
+paper_basis,14,29,El HaNe’eman,832,436,no,4
+paper_basis,14,30,El HaGadol,84,60,no,6
+paper_basis,14,32,El HaKavod,68,4C,no,7
+paper_basis,14,35,Elohei Avraham,854,450,no,9
+paper_basis,14,36,Elohei Yitzchak,254,142,no,7
+paper_basis,14,37,Elohei Yaakov,228,124,no,7
+paper_basis,15,1,El,31,21,no,3
+paper_basis,15,2,Eloah,42,2C,no,5
+paper_basis,15,3,Elohim,646,2D1,no,7
+paper_basis,15,4,YHWH,26,1B,no,12
+paper_basis,15,5,Adonai,65,45,no,9
+paper_basis,15,6,Shaddai,314,15E,no,2
+paper_basis,15,7,Ehyeh Asher Ehyeh,543,263,no,11
+paper_basis,15,8,El Elyon,847,3B7,no,3
+paper_basis,15,9,El Olam,737,342,no,9
+paper_basis,15,10,El Roi,242,112,no,4
+paper_basis,15,11,El Gibbor,242,112,no,4
+paper_basis,15,12,El Yeshuati,827,3A2,no,6
+paper_basis,15,13,Shekhinah,385,1AA,no,3
+paper_basis,15,14,HaMakom,751,351,no,9
+paper_basis,15,15,HaRachaman,953,438,no,6
+paper_basis,15,16,HaKadosh Baruch Hu,1135,50A,no,6
+paper_basis,15,17,Ribbono Shel Olam,1300,5BA,no,8
+paper_basis,15,18,Yeshua,386,1AB,no,4
+paper_basis,15,19,Immanuel,197,D2,no,6
+paper_basis,15,20,Mashiach,358,18D,no,4
+paper_basis,15,21,Sar Shalom,1436,65B,no,4
+paper_basis,15,22,Adon,711,326,no,11
+paper_basis,15,23,Elohei HaShamayim,1001,46B,no,3
+paper_basis,15,24,Elohei HaAretz,1152,51C,no,9
+paper_basis,15,25,El Shaddai,345,180,no,9
+paper_basis,15,26,El Kana,182,C2,no,5
+paper_basis,15,27,El De’ot,511,241,no,7
+paper_basis,15,28,El Berit,643,2CD,no,9
+paper_basis,15,29,El HaNe’eman,832,3A7,no,2
+paper_basis,15,30,El HaGadol,84,59,no,5
+paper_basis,15,32,El HaKavod,68,48,no,12
+paper_basis,15,35,Elohei Avraham,854,3BE,no,10
+paper_basis,15,36,Elohei Yitzchak,254,11E,no,7
+paper_basis,15,37,Elohei Yaakov,228,103,no,4
+paper_basis,16,1,El,31,1F,no,7
+paper_basis,16,2,Eloah,42,2A,no,12
+paper_basis,16,3,Elohim,646,286,no,7
+paper_basis,16,4,YHWH,26,1A,no,11
+paper_basis,16,5,Adonai,65,41,no,5
+paper_basis,16,6,Shaddai,314,13A,no,5
+paper_basis,16,7,Ehyeh Asher Ehyeh,543,21F,no,9
+paper_basis,16,8,El Elyon,847,34F,no,4
+paper_basis,16,9,El Olam,737,2E1,no,8
+paper_basis,16,10,El Roi,242,F2,no,8
+paper_basis,16,11,El Gibbor,242,F2,no,8
+paper_basis,16,12,El Yeshuati,827,33B,no,8
+paper_basis,16,13,Shekhinah,385,181,yes,10
+paper_basis,16,14,HaMakom,751,2EF,no,4
+paper_basis,16,15,HaRachaman,953,3B9,no,5
+paper_basis,16,16,HaKadosh Baruch Hu,1135,46F,no,7
+paper_basis,16,17,Ribbono Shel Olam,1300,514,no,10
+paper_basis,16,18,Yeshua,386,182,no,11
+paper_basis,16,19,Immanuel,197,C5,no,8
+paper_basis,16,20,Mashiach,358,166,no,4
+paper_basis,16,21,Sar Shalom,1436,59C,no,8
+paper_basis,16,22,Adon,711,2C7,no,3
+paper_basis,16,23,Elohei HaShamayim,1001,3E9,no,8
+paper_basis,16,24,Elohei HaAretz,1152,480,no,12
+paper_basis,16,25,El Shaddai,345,159,no,6
+paper_basis,16,26,El Kana,182,B6,no,8
+paper_basis,16,27,El De’ot,511,1FF,no,4
+paper_basis,16,28,El Berit,643,283,no,4
+paper_basis,16,29,El HaNe’eman,832,340,no,7
+paper_basis,16,30,El HaGadol,84,54,no,9
+paper_basis,16,32,El HaKavod,68,44,yes,8
+paper_basis,16,35,Elohei Avraham,854,356,no,5
+paper_basis,16,36,Elohei Yitzchak,254,FE,no,11
+paper_basis,16,37,Elohei Yaakov,228,E4,no,9
+paper_basis,17,1,El,31,1E,no,6
+paper_basis,17,2,Eloah,42,28,no,10
+paper_basis,17,3,Elohim,646,240,no,6
+paper_basis,17,4,YHWH,26,19,no,10
+paper_basis,17,5,Adonai,65,3E,no,8
+paper_basis,17,6,Shaddai,314,118,no,10
+paper_basis,17,7,Ehyeh Asher Ehyeh,543,1EG,no,4
+paper_basis,17,8,El Elyon,847,2FE,no,4
+paper_basis,17,9,El Olam,737,296,no,8
+paper_basis,17,10,El Roi,242,E4,no,9
+paper_basis,17,11,El Gibbor,242,E4,no,9
+paper_basis,17,12,El Yeshuati,827,2EB,no,9
+paper_basis,17,13,Shekhinah,385,15B,no,8
+paper_basis,17,14,HaMakom,751,2A3,no,6
+paper_basis,17,15,HaRachaman,953,351,no,9
+paper_basis,17,16,HaKadosh Baruch Hu,1135,3FD,no,4
+paper_basis,17,17,Ribbono Shel Olam,1300,488,no,2
+paper_basis,17,18,Yeshua,386,15C,no,9
+paper_basis,17,19,Immanuel,197,BA,no,3
+paper_basis,17,20,Mashiach,358,141,yes,6
+paper_basis,17,21,Sar Shalom,1436,4G8,no,10
+paper_basis,17,22,Adon,711,27E,no,5
+paper_basis,17,23,Elohei HaShamayim,1001,37F,no,7
+paper_basis,17,24,Elohei HaAretz,1152,3GD,no,5
+paper_basis,17,25,El Shaddai,345,135,no,9
+paper_basis,17,26,El Kana,182,AC,no,4
+paper_basis,17,27,El De’ot,511,1D1,yes,6
+paper_basis,17,28,El Berit,643,23E,no,10
+paper_basis,17,29,El HaNe’eman,832,2EG,no,5
+paper_basis,17,30,El HaGadol,84,4G,no,2
+paper_basis,17,32,El HaKavod,68,40,no,4
+paper_basis,17,35,Elohei Avraham,854,2G4,no,4
+paper_basis,17,36,Elohei Yitzchak,254,EG,no,3
+paper_basis,17,37,Elohei Yaakov,228,D7,no,2
+paper_basis,18,1,El,31,1D,no,5
+paper_basis,18,2,Eloah,42,26,no,8
+paper_basis,18,3,Elohim,646,1HG,no,7
+paper_basis,18,4,YHWH,26,18,no,9
+paper_basis,18,5,Adonai,65,3B,no,5
+paper_basis,18,6,Shaddai,314,H8,no,7
+paper_basis,18,7,Ehyeh Asher Ehyeh,543,1C3,no,7
+paper_basis,18,8,El Elyon,847,2B1,no,5
+paper_basis,18,9,El Olam,737,24H,no,5
+paper_basis,18,10,El Roi,242,D8,no,3
+paper_basis,18,11,El Gibbor,242,D8,no,3
+paper_basis,18,12,El Yeshuati,827,29H,no,10
+paper_basis,18,13,Shekhinah,385,137,no,11
+paper_basis,18,14,HaMakom,751,25D,no,2
+paper_basis,18,15,HaRachaman,953,2GH,no,8
+paper_basis,18,16,HaKadosh Baruch Hu,1135,391,no,4
+paper_basis,18,17,Ribbono Shel Olam,1300,404,yes,8
+paper_basis,18,18,Yeshua,386,138,no,12
+paper_basis,18,19,Immanuel,197,AH,no,9
+paper_basis,18,20,Mashiach,358,11G,no,9
+paper_basis,18,21,Sar Shalom,1436,47E,no,7
+paper_basis,18,22,Adon,711,239,no,5
+paper_basis,18,23,Elohei HaShamayim,1001,31B,no,6
+paper_basis,18,24,Elohei HaAretz,1152,3A0,no,4
+paper_basis,18,25,El Shaddai,345,113,no,5
+paper_basis,18,26,El Kana,182,A2,no,12
+paper_basis,18,27,El De’ot,511,1A7,no,9
+paper_basis,18,28,El Berit,643,1HD,no,4
+paper_basis,18,29,El HaNe’eman,832,2A4,no,7
+paper_basis,18,30,El HaGadol,84,4C,no,7
+paper_basis,18,32,El HaKavod,68,3E,no,8
+paper_basis,18,35,Elohei Avraham,854,2B8,no,3
+paper_basis,18,36,Elohei Yitzchak,254,E2,no,7
+paper_basis,18,37,Elohei Yaakov,228,CC,yes,6
+paper_basis,19,1,El,31,1C,no,4
+paper_basis,19,2,Eloah,42,24,no,6
+paper_basis,19,3,Elohim,646,1F0,no,7
+paper_basis,19,4,YHWH,26,17,no,8
+paper_basis,19,5,Adonai,65,38,no,11
+paper_basis,19,6,Shaddai,314,GA,no,8
+paper_basis,19,7,Ehyeh Asher Ehyeh,543,19B,no,3
+paper_basis,19,8,El Elyon,847,26B,no,10
+paper_basis,19,9,El Olam,737,20F,no,8
+paper_basis,19,10,El Roi,242,CE,no,8
+paper_basis,19,11,El Gibbor,242,CE,no,8
+paper_basis,19,12,El Yeshuati,827,25A,no,8
+paper_basis,19,13,Shekhinah,385,115,no,7
+paper_basis,19,14,HaMakom,751,21A,no,4
+paper_basis,19,15,HaRachaman,953,2C3,no,8
+paper_basis,19,16,HaKadosh Baruch Hu,1135,32E,no,10
+paper_basis,19,17,Ribbono Shel Olam,1300,3B8,no,4
+paper_basis,19,18,Yeshua,386,116,no,8
+paper_basis,19,19,Immanuel,197,A7,no,8
+paper_basis,19,20,Mashiach,358,IG,no,7
+paper_basis,19,21,Sar Shalom,1436,3IB,no,5
+paper_basis,19,22,Adon,711,1I8,no,9
+paper_basis,19,23,Elohei HaShamayim,1001,2ED,no,11
+paper_basis,19,24,Elohei HaAretz,1152,33C,no,9
+paper_basis,19,25,El Shaddai,345,I3,no,3
+paper_basis,19,26,El Kana,182,9B,no,2
+paper_basis,19,27,El De’ot,511,17H,no,7
+paper_basis,19,28,El Berit,643,1EG,no,4
+paper_basis,19,29,El HaNe’eman,832,25F,no,4
+paper_basis,19,30,El HaGadol,84,48,no,12
+paper_basis,19,32,El HaKavod,68,3B,no,5
+paper_basis,19,35,Elohei Avraham,854,26I,no,8
+paper_basis,19,36,Elohei Yitzchak,254,D7,no,2
+paper_basis,19,37,Elohei Yaakov,228,C0,no,12
+paper_basis,20,1,El,31,1B,no,12
+paper_basis,20,2,Eloah,42,22,yes,4
+paper_basis,20,3,Elohim,646,1C6,no,10
+paper_basis,20,4,YHWH,26,16,no,7
+paper_basis,20,5,Adonai,65,35,no,8
+paper_basis,20,6,Shaddai,314,FE,no,11
+paper_basis,20,7,Ehyeh Asher Ehyeh,543,173,no,11
+paper_basis,20,8,El Elyon,847,227,no,11
+paper_basis,20,9,El Olam,737,1GH,no,7
+paper_basis,20,10,El Roi,242,C2,no,5
+paper_basis,20,11,El Gibbor,242,C2,no,5
+paper_basis,20,12,El Yeshuati,827,217,no,10
+paper_basis,20,13,Shekhinah,385,J5,no,6
+paper_basis,20,14,HaMakom,751,1HB,no,11
+paper_basis,20,15,HaRachaman,953,27D,no,4
+paper_basis,20,16,HaKadosh Baruch Hu,1135,2GF,no,6
+paper_basis,20,17,Ribbono Shel Olam,1300,350,no,8
+paper_basis,20,18,Yeshua,386,J6,no,7
+paper_basis,20,19,Immanuel,197,9H,no,8
+paper_basis,20,20,Mashiach,358,HI,no,8
+paper_basis,20,21,Sar Shalom,1436,3BG,no,3
+paper_basis,20,22,Adon,711,1FB,no,9
+paper_basis,20,23,Elohei HaShamayim,1001,2A1,no,4
+paper_basis,20,24,Elohei HaAretz,1152,2HC,no,4
+paper_basis,20,25,El Shaddai,345,H5,no,4
+paper_basis,20,26,El Kana,182,92,no,11
+paper_basis,20,27,El De’ot,511,15B,no,8
+paper_basis,20,28,El Berit,643,1C3,no,7
+paper_basis,20,29,El HaNe’eman,832,21C,no,6
+paper_basis,20,30,El HaGadol,84,44,yes,8
+paper_basis,20,32,El HaKavod,68,38,no,11
+paper_basis,20,35,Elohei Avraham,854,22E,no,9
+paper_basis,20,36,Elohei Yitzchak,254,CE,no,8
+paper_basis,20,37,Elohei Yaakov,228,B8,no,10

@@ -1,0 +1,9 @@
+﻿analysis_layer,analysis_status,target_rows,value_system,observed_base12_palindromes,observed_base12_rank,observed_base12_sole_leader,simulations_rank_as_good_or_better,empirical_rank_lower_tail,control_mean,control_median,control_interval_2_5,control_interval_97_5,simulations_at_least_observed,empirical_upper_tail,holm_adjusted_upper_tail,simulations,seed
+primary-biblical,primary-locked,24,standard,4,3,no,32346,0.3234667653323467,2.00117,2.0,0.0,5.0,13505,0.13505864941350587,0.13505864941350587,100000,20260718
+primary-biblical,primary-locked,24,mispar_gadol,5,2,no,28155,0.2815571844281557,1.9979,2.0,0.0,5.0,4528,0.045289547104528954,0.09057909420905791,100000,20260718
+expanded-biblical-all,exploratory-sensitivity,80,standard,11,1,yes,16574,0.16574834251657483,6.69995,7.0,2.0,12.0,6937,0.06937930620693793,0.06937930620693793,100000,20260718
+expanded-biblical-all,exploratory-sensitivity,80,mispar_gadol,12,1,yes,20296,0.2029679703202968,6.40186,6.0,2.0,12.0,2546,0.025469745302546976,0.05093949060509395,100000,20260718
+restored-christian-inclusive,exploratory-sensitivity,29,standard,6,1,no,12901,0.12901870981290187,2.42088,2.0,0.0,6.0,3023,0.03023969760302397,0.03023969760302397,100000,20260718
+restored-christian-inclusive,exploratory-sensitivity,29,mispar_gadol,7,1,yes,16250,0.16250837491625084,2.40378,2.0,0.0,6.0,846,0.008469915300846991,0.016939830601693982,100000,20260718
+full-christian-expansion,exploratory-sensitivity,46,standard,11,1,yes,13531,0.13531864681353187,3.82128,4.0,1.0,8.0,133,0.0013399866001339987,0.0013399866001339987,100000,20260718
+full-christian-expansion,exploratory-sensitivity,46,mispar_gadol,12,1,yes,18209,0.18209817901820982,3.65367,4.0,1.0,8.0,17,0.0001799982000179998,0.0003599964000359996,100000,20260718

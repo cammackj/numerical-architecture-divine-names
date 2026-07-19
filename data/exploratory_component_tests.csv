@@ -1,0 +1,54 @@
+﻿name,hebrew,category,note,standard,mispar_gadol,base12_standard,base12_mispar_gadol,collapse_standard,collapse_mispar_gadol,collapse_base12_standard,collapse_base12_mispar_gadol,standard_base10_palindrome,mispar_base10_palindrome,standard_base12_palindrome,mispar_base12_palindrome,constants_and_multiples,pattern_notes
+Ehyeh,אהיה,component,I AM alone,21,21,19,19,3,3,10,10,no,no,no,no,standard=7*3 (AB/minimal triad); standard=3*7 (seven); mispar-gadol=7*3 (AB/minimal triad); mispar-gadol=3*7 (seven),I AM alone has no strict 8/12 or palindrome marker.
+Asher,אשר,component,middle term in Ehyeh formula,501,501,359,359,6,6,8,8,no,no,no,no,,
+Ehyeh + Ehyeh,אהיה אהיה,component-combination,duplicated I AM,42,42,36,36,6,6,9,9,no,no,no,no,standard=14*3 (AB/minimal triad); standard=6*7 (seven); standard=42 (forty-two); mispar-gadol=14*3 (AB/minimal triad); mispar-gadol=6*7 (seven); mispar-gadol=42 (forty-two),Duplicated I AM gives exact 42.
+Ehyeh Asher,אהיה אשר,component-combination,partial formula,522,522,376,376,9,9,7,7,no,no,no,no,,
+Ehyeh Asher Ehyeh,אהיה אשר אהיה,existing-row,full formula,543,543,393,393,12,12,6,6,no,no,yes,yes,,Full formula gives strict 12 and base-12 palindrome; combination matters.
+Roi,ראי,component,component of El Roi,211,211,157,157,4,4,4,4,no,no,no,no,,
+Gibbor,גבור,component,component of El Gibbor,211,211,157,157,4,4,4,4,no,no,no,no,,
+El Roi,אל ראי,existing-row,God who sees,242,242,182,182,8,8,11,11,yes,yes,no,no,standard=11*22 (Hebrew alphabet/YHWH base-12 signature); mispar-gadol=11*22 (Hebrew alphabet/YHWH base-12 signature),Shares 242 with seeing/provision/might pattern.
+El Gibbor,אל גבור,existing-row,Mighty God,242,242,182,182,8,8,11,11,yes,yes,no,no,standard=11*22 (Hebrew alphabet/YHWH base-12 signature); mispar-gadol=11*22 (Hebrew alphabet/YHWH base-12 signature),Shares 242 with seeing/provision/might pattern.
+YHWH Yireh,יהוה יראה,candidate-title,YHWH sees/provides,242,242,182,182,8,8,11,11,yes,yes,no,no,standard=11*22 (Hebrew alphabet/YHWH base-12 signature); mispar-gadol=11*22 (Hebrew alphabet/YHWH base-12 signature),Shares 242 with seeing/provision/might pattern.
+Elyon,עליון,component,Most High component,166,816,11A,580,4,6,12,4,no,no,no,no,,
+El Elyon,אל עליון,existing-row,God Most High,197,847,145,5A7,8,10,10,4,no,no,no,no,,Shares 197 transcendence/immanence pair.
+Immanuel,עמנואל,existing-row,God with us,197,197,145,145,8,8,10,10,no,no,no,no,,Shares 197 transcendence/immanence pair.
+Olam,עולם,component,eternity/world component,146,706,102,4AA,11,4,3,6,no,no,no,no,standard=2*73 (Chokmah/wisdom candidate),
+HaNe'eman,הנאמן,component,faithful component,146,796,102,564,11,4,3,6,no,no,no,no,standard=2*73 (Chokmah/wisdom candidate),
+El Olam,אל עולם,existing-row,Everlasting God,177,737,129,515,6,8,12,11,no,yes,no,yes,,Shares 177 eternal/faithful pair.
+El HaNe'eman,אל הנאמן,existing-row,Faithful God,177,827,129,58B,6,8,12,6,no,no,no,no,,Shares 177 eternal/faithful pair.
+El Yeshuati,אל ישועתי,existing-row,God of my salvation,827,827,58B,58B,8,8,6,6,no,no,no,no,,Shares 827 with El HaNe'eman under Mispar Gadol.
+Shaddai,שדי,existing-row,Shaddai alone,314,314,222,222,8,8,6,6,no,no,yes,yes,standard=314 (pi/Shaddai); mispar-gadol=314 (pi/Shaddai),
+El Shaddai,אל שדי,existing-row,El Shaddai,345,345,249,249,12,12,6,6,no,no,no,no,standard=345 (El Shaddai/Moses/3-4-5); mispar-gadol=345 (El Shaddai/Moses/3-4-5),
+Shekhinah,שכינה,existing-row,presence term,385,385,281,281,7,7,11,11,no,no,no,no,,
+HaShekhinah,השכינה,candidate-variant,article form of Shekhinah,390,390,286,286,12,12,7,7,no,no,no,no,standard=15*26 (YHWH standard); mispar-gadol=15*26 (YHWH standard),
+HaKavod,הכבוד,candidate-title,the Glory,37,37,31,31,10,10,4,4,no,no,no,no,standard=37 (Genesis-factor candidate); mispar-gadol=37 (Genesis-factor candidate),The Glory alone gives exact 37.
+El HaKavod,אל הכבוד,existing-row,God of glory,68,68,58,58,5,5,4,4,no,no,no,no,,
+Gadol,גדול,component,great,43,43,37,37,7,7,10,10,no,no,no,no,,
+El Gadol,אל גדול,candidate-variant,God great / great God without article,74,74,62,62,11,11,8,8,no,no,no,no,standard=2*37 (Genesis-factor candidate); mispar-gadol=2*37 (Genesis-factor candidate),No-article variant gives 2 * 37.
+HaGadol,הגדול,component,the great,48,48,40,40,12,12,4,4,no,no,no,no,standard=16*3 (AB/minimal triad); standard=6*8 (agency collapse); standard=4*12 (completion collapse); mispar-gadol=16*3 (AB/minimal triad); mispar-gadol=6*8 (agency collapse); mispar-gadol=4*12 (completion collapse),
+El HaGadol,אל הגדול,existing-row,The great God,79,79,67,67,7,7,4,4,no,no,no,no,,
+HaNorah,הנורא,component,the awesome,262,262,19A,19A,10,10,2,2,yes,yes,no,no,,Component alone is a base-10 palindrome.
+El HaNorah,אל הנורא,existing-row,The awesome God,293,293,205,205,5,5,7,7,no,no,no,no,,
+HaShamayim,השמים,component,the heavens,395,955,28B,677,8,10,3,2,no,no,no,no,,
+HaAretz,הארץ,component,the earth,296,1106,208,782,8,8,10,8,no,no,no,no,standard=8*37 (Genesis-factor candidate),
+El HaShamayim,אל השמים,existing-row,God of heaven,426,986,2B6,6A2,12,5,10,9,no,no,no,no,,
+El HaAretz,אל הארץ,existing-row,God of earth,327,1137,233,7A9,12,12,8,8,no,no,no,no,,
+Elohei,אלוהי,component,construct prefix God of,52,52,44,44,7,7,8,8,no,no,yes,yes,standard=4*13 (one/echad value); standard=2*26 (YHWH standard); standard=52 (BEN/YHWH doubled); mispar-gadol=4*13 (one/echad value); mispar-gadol=2*26 (YHWH standard); mispar-gadol=52 (BEN/YHWH doubled),"Construct prefix equals 52, matching BEN/YHWH doubled."
+Avraham,אברהם,component,patriarch,248,808,188,574,5,7,8,7,no,yes,no,no,standard=8*31 (El standard),Avraham is 8 * El.
+Yitzchak,יצחק,component,patriarch,208,208,154,154,10,10,10,10,no,no,no,no,standard=16*13 (one/echad value); standard=8*26 (YHWH standard); standard=4*52 (BEN/YHWH doubled); mispar-gadol=16*13 (one/echad value); mispar-gadol=8*26 (YHWH standard); mispar-gadol=4*52 (BEN/YHWH doubled),Yitzchak is 8 * YHWH.
+Yaakov,יעקב,component,patriarch,182,182,132,132,11,11,6,6,no,no,no,no,standard=14*13 (one/echad value); standard=7*26 (YHWH standard); standard=2*91 (YHWH+Adonai/Amen); mispar-gadol=14*13 (one/echad value); mispar-gadol=7*26 (YHWH standard); mispar-gadol=2*91 (YHWH+Adonai/Amen),Yaakov is 7 * YHWH and matches El Kana.
+Elohei Avraham,אלוהי אברהם,existing-row,God of Abraham,300,860,210,5B8,3,5,3,6,no,no,no,no,,
+Elohei Yitzchak,אלוהי יצחק,existing-row,God of Isaac,260,260,198,198,8,8,9,9,no,no,no,no,standard=20*13 (one/echad value); standard=10*26 (YHWH standard); standard=5*52 (BEN/YHWH doubled); mispar-gadol=20*13 (one/echad value); mispar-gadol=10*26 (YHWH standard); mispar-gadol=5*52 (BEN/YHWH doubled),
+Elohei Yaakov,אלוהי יעקב,existing-row,God of Jacob,234,234,176,176,9,9,5,5,no,no,no,no,standard=18*13 (one/echad value); standard=9*26 (YHWH standard); mispar-gadol=18*13 (one/echad value); mispar-gadol=9*26 (YHWH standard),
+Yah,יה,candidate-title,short divine name,15,15,13,13,6,6,4,4,no,no,no,no,standard=5*3 (AB/minimal triad); mispar-gadol=5*3 (AB/minimal triad),
+YHWH,יהוה,existing-row,Tetragrammaton,26,26,22,22,8,8,4,4,no,no,yes,yes,standard=2*13 (one/echad value); standard=26 (YHWH standard); mispar-gadol=2*13 (one/echad value); mispar-gadol=26 (YHWH standard),
+Adonai,אדני,existing-row,Lord,65,65,55,55,11,11,10,10,no,no,yes,yes,standard=5*13 (one/echad value); mispar-gadol=5*13 (one/echad value),
+YHWH Adonai,יהוה אדני,candidate-combination,YHWH + Adonai union,91,91,77,77,10,10,5,5,no,no,yes,yes,standard=13*7 (seven); standard=7*13 (one/echad value); standard=91 (YHWH+Adonai/Amen); mispar-gadol=13*7 (seven); mispar-gadol=7*13 (one/echad value); mispar-gadol=91 (YHWH+Adonai/Amen),YHWH + Adonai gives 91 and 77_12.
+YHWH Elohim,יהוה אלהים,candidate-combination,creation formula,112,672,94,480,4,6,4,12,no,no,no,no,standard=16*7 (seven); standard=14*8 (agency collapse); mispar-gadol=16*42 (forty-two),
+YHWH Nissi,יהוה נסי,candidate-title,YHWH my banner,146,146,102,102,11,11,3,3,no,no,no,no,standard=2*73 (Chokmah/wisdom candidate); mispar-gadol=2*73 (Chokmah/wisdom candidate),
+YHWH Shalom,יהוה שלום,candidate-title,YHWH peace,402,962,296,682,6,8,8,7,no,no,no,no,,
+YHWH Tzevaot,יהוה צבאות,candidate-title,YHWH of hosts,525,525,379,379,12,12,10,10,yes,yes,no,no,,Candidate title gives strict 12 and base-10 palindrome.
+El Chai,אל חי,candidate-title,Living God,49,49,41,41,4,4,5,5,no,no,no,no,standard=7*7 (seven); mispar-gadol=7*7 (seven),
+Melekh HaOlam,מלך העולם,candidate-title,King of the universe,241,1281,181,8A9,7,12,10,9,no,no,yes,no,,Candidate title has standard base-12 palindrome 181_12 and Mispar Gadol collapse 12.
+Avinu Malkeinu,אבינו מלכנו,candidate-title,"Our Father, our King",215,215,15B,15B,8,8,8,8,no,no,no,no,,Candidate title hits 8 in every tested layer.
+Kadosh Yisrael,קדוש ישראל,candidate-title,Holy One of Israel,951,951,673,673,6,6,7,7,no,no,no,no,,

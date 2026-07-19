@@ -1,0 +1,100 @@
+\section{Matched Hebrew Control Study}
+
+The corpus rankings answer which bases are productive inside the selected names; they do not answer whether the observed counts exceed those of structurally similar Hebrew phrases. A matched-control study was therefore frozen in version control before outcome calculation. The protocol commit is \texttt{b7724fda228e}; the blinded control-pool commit is \texttt{bbbfec43d21}; and the source text is the Open Scriptures Hebrew Bible at commit \texttt{3d15126fb1ef}.\footnote{Open Scriptures Hebrew Bible, \url{https://github.com/openscriptures/morphhb}. The full revision identifiers and rebuild commands are recorded in the repository's control protocol.}
+
+\subsection{Control Design}
+
+The source script extracted 470,793 unique normalized, in-verse phrase types from the locked Hebrew Bible revision. Each target was matched to controls with the same word count, ordered word-length vector, and final-letter count. Four exploratory-layer targets with fewer than the prespecified minimum of 50 exact matches used the first declared fallback, preserving word count, total letter count, and final-form count while relaxing the ordered word-length vector. All 24 primary targets and all 29 restored Christian-inclusive targets used exact vector matching. Every target ultimately had at least 73 eligible controls.
+
+For each declared analysis layer, 100,000 simulated corpora were drawn with unique control phrases within a sample. The generator was NumPy PCG64 with seed 20260718. Every simulated corpus underwent the same standard-gematria and Mispar Gadol palindrome tests in bases 2 through 20. For an observed count $T_{\mathrm{obs}}$, the empirical upper-tail probability was
+
+\[
+p=\frac{1+\#\{T_{\mathrm{sim}}\geq T_{\mathrm{obs}}\}}{100000+1}.
+\]
+
+The two prespecified co-primary tests were the standard and Mispar Gadol base-12 palindrome counts in the 24-row primary biblical corpus. Their probabilities were corrected together by the Holm method. Rank was recorded separately as a descriptive outcome. The 80-row expanded biblical layer, 29-row restored Christian-inclusive layer, and 46-row full Christian expansion were declared exploratory sensitivity analyses because their membership was specified after discovery.
+
+\clearpage
+\subsection{Primary and Sensitivity Results}
+
+\begin{center}
+\footnotesize
+\begin{longtable}{>{\raggedright\arraybackslash}p{3.0cm}r>{\raggedright\arraybackslash}p{1.7cm}rrrr}
+\toprule
+Layer & $N$ & Values & Observed & Control mean & Rank & Holm $p$ \\
+\midrule
+\endfirsthead
+\toprule
+Layer & $N$ & Values & Observed & Control mean & Rank & Holm $p$ \\
+\midrule
+\endhead
+Primary biblical & 24 & standard & 4 & 2.001 & 3 & 0.135059 \\
+Primary biblical & 24 & MG & 5 & 1.998 & 2 & 0.090579 \\
+Expanded biblical & 80 & standard & 11 & 6.700 & 1 & 0.069379 \\
+Expanded biblical & 80 & MG & 12 & 6.402 & 1 & 0.050939 \\
+Restored Christian-inclusive & 29 & standard & 6 & 2.421 & 1 & 0.030240 \\
+Restored Christian-inclusive & 29 & MG & 7 & 2.404 & 1 & 0.016940 \\
+Full Christian expansion & 46 & standard & 11 & 3.821 & 1 & 0.001340 \\
+Full Christian expansion & 46 & MG & 12 & 3.654 & 1 & 0.000360 \\
+\bottomrule
+\end{longtable}
+\end{center}
+
+Only the first two rows belong to the repository-locked primary analysis. Under standard gematria, the primary corpus contains four base-12 palindromes against a control mean of 2.001, with upper-tail $p=0.135059$. Under Mispar Gadol it contains five against a mean of 1.998. The latter has raw upper-tail $p=0.045290$, but its prespecified Holm-adjusted value is $0.090579$. The co-primary results therefore do not clear the corrected 0.05 threshold. The primary base-12 cluster is elevated and descriptively concentrated, but this experiment does not establish that its count is exceptional after prior corpus and rule selection.
+
+Base 12 is also not the primary-corpus leader. Base 3 has six palindromes under both value systems, with unadjusted upper-tail probabilities of 0.003740 under standard gematria and 0.002350 under Mispar Gadol. Base 7, Mispar Gadol base 10, and standard base 20 also produce secondary unadjusted excesses. These 19-base comparisons were not corrected as independent primary tests, so they are diagnostics rather than rival discoveries. Their importance is methodological: they prevent a base-12-only reading of the same data.
+
+The rank tails tell a similar story. Matched simulations ranked base 12 at least as highly as observed in 32.35 percent of standard-gematria samples and 28.16 percent of Mispar Gadol samples. Thus the observed rank itself is not unusual under this structural matching scheme.
+
+\subsection{Collapse and Combined Outcomes}
+
+Three prespecified secondary counts were also recorded in the primary corpus. A base-12 palindrome under either value system occurred in 5 rows against a control mean of 2.648 ($p=0.115829$). The threshold-12 terminal 8 layer occurred in 10 rows against 6.223 ($p=0.063729$). The threshold-12 terminal 12 layer occurred in 8 rows against 4.282 ($p=0.049030$). These secondary probabilities are unadjusted and should not be read as a separate primary family.
+
+\subsection{Collapse-Rule Sensitivity}
+
+The endpoint counts were recalculated at stopping thresholds 9 through 15:
+
+\begin{center}
+\begin{tabular}{rrr}
+\toprule
+Stopping threshold & Endpoint 8 rows & Endpoint 12 rows \\
+\midrule
+9--11 & 10 & 0 \\
+12--15 & 10 & 8 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+The 8 endpoint is stable across this range. The 12 endpoint appears exactly when the operator is permitted to stop at 12 and therefore is not a conventional attractor. Nevertheless, all eight affected primary rows equal 12 on their first digit-sum step. The manuscript consequently retains them as an exact first-step 12-sum layer rather than presenting 12 as a digital root. Under basis-consistent one-digit roots, 11 primary rows touch 8 and none terminates at 12. Full row-level output appears in \texttt{data/collapse\_sensitivity\_details.csv}.
+
+\subsection{Exploratory Expansion Layers}
+
+The larger layers strengthen the descriptive base-12 pattern. The complete 80-row biblical expansion reaches first-place base-12 ranks under both systems, with adjusted probabilities of 0.069379 and 0.050939. The 29-row restored Christian-inclusive layer, which adds Yeshua HaMashiach to the inherited Christian-comparative forms, gives adjusted probabilities of 0.030240 and 0.016940. The complete 46-row Christian expansion gives 0.001340 and 0.000360.
+
+These values are not retroactive confirmations. The layers are nested, include related expressions and orthographic variants, and were defined after pattern discovery. Their proper implication is that a prospectively frozen Christian title corpus and a separate semantic Hebrew control corpus are now justified. Retaining all declared non-hits makes these sensitivity results more informative than a list of successes alone, but it does not remove post-discovery selection.
+
+\subsection{Named-Frame and Repeated-Center Audit}
+
+The post-discovery frame audit examined the 40 analyzable manuscript objects together with all 82 expansion candidates. An eligible host is an odd-length base-12 palindrome. Removing its single center digit produces an outer frame, which is then matched against complete admitted values under the same value system. Thirty value layers are eligible; 23 reproduce a named frame. The complete rows, including seven non-matches, appear in \path{data/frame_relation_hosts.csv}.
+
+Five named frames occur: $22_{12}$ for YHWH, $33_{12}$ for YHWH Echad, $44_{12}$ for BEN, $55_{12}$ for Adonai, and $77_{12}$ for Adonai YHWH. Because the expanded registry makes named frames relatively common among eligible palindromes, the presence of a frame alone is not treated as unique.
+
+The narrower finite enumeration tests every three-digit palindrome $ada_{12}$ with $a\in\{1,\ldots,\mathrm{B}\}$ and $d\in\{0,\ldots,\mathrm{B}\}$. Of the 132 possible forms, only two have both $d=\operatorname{dr}_{10}(N)$ and $2a+d=12$:
+
+\[
+282_{12}=386_{10},
+\qquad
+525_{12}=749_{10}.
+\]
+
+They are Yeshua and Yeshua HaMashiach, with named frames YHWH and Adonai. Algebraically, $N=145a+12d$; combining the digit-sum condition with $N\equiv d\pmod 9$ leaves $a\equiv2\pmod 3$, and the valid digit range yields only $(a,d)=(2,8)$ and $(5,2)$. The full 132-row table is \path{data/repeated_frame_center_scan.csv}; frame-family differences are in \path{data/frame_family_differences.csv}. The outcome-aware protocols and interpretive limits are recorded in \path{docs/FRAME_RELATION_TEST_PROTOCOL.md} and \path{docs/REPEATED_FRAME_CENTER_PROTOCOL.md}.
+
+\subsection{Scope of Inference}
+
+The Yeshua collision audit found 20 matched biblical surface forms with value 386. Twelve were permutations of Yeshua's four consonants, while the remaining eight occupied four other consonant families with two forms each. Because Yeshua was excluded from the control pool, the count of twelve refers to other forms; reinserting the target produces thirteen attested forms in its family. The exact partition $20=12+8$ and $8=4\times2$ was recognized after the control outcome and is therefore reported descriptively rather than assigned a prospective probability. The complete rows appear in \path{data/joint_signature_exact_controls.csv} and \path{data/yeshua_consonant_exact_families.csv}.
+
+Two later repository-frozen analyses tested joint patterns and their robustness. The six-name, five-anchor network began with eight incidences and three cross-name links. Removing Yeshua left five incidences (Holm-adjusted exploratory upper tail $0.011200$) and one shared link ($0.087609$). Among 840 attainable alternative anchor sets, 196, or 23.33 percent, equaled or exceeded both original network scores. The full tables and omission families appear in \path{docs/ROBUSTNESS_TEST_RESULTS.md}.
+
+The Asher-specific test found no attested control with the target's exact $X$--Asher--$X$ structure. In the synthetic template, 591 of 7,677 surface forms, 271 of 3,583 consonant families, and 53 of 786 distinct outer values completed as base-12 palindromes. Eighteen forms across ten families reproduced $393_{12}$, all through outer value 21. These are tests of the arithmetic template $2x+501$, not alternative divine declarations.
+
+The experiments estimate how often structurally matched Hebrew Bible phrase types or attainable numerical alternatives equal or exceed the observed scores. They do not test theological meaning, historical intention, antiquity, or independence among nested expressions. Their controls are structural rather than semantic, and sampling is uniform over unique normalized phrase types rather than token frequency. An equal value is not treated as an equal textual or theological object. Within those limits, the controls supply direct comparisons against ordinary Hebrew material and sharply define what remains open.

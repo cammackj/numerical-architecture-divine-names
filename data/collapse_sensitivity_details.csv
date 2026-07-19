@@ -1,0 +1,25 @@
+﻿index,name,decimal_first_sum_standard,decimal_first_sum_mispar_gadol,base12_first_sum_standard,base12_first_sum_mispar_gadol,truncated_12_endpoint_standard,truncated_12_endpoint_mispar_gadol,truncated_12_endpoint_base12_standard,truncated_12_endpoint_base12_mispar_gadol,decimal_root_standard,decimal_root_mispar_gadol,base12_root_standard,base12_root_mispar_gadol,exact_first_sum_8,exact_first_sum_12,truncated_endpoint_8,truncated_endpoint_12,basis_consistent_root_8
+1,El,4,4,9,9,4,4,9,9,4,4,9,9,no,no,no,no,no
+2,Eloah,6,6,9,9,6,6,9,9,6,6,9,9,no,no,no,no,no
+3,Elohim,14,16,9,19,5,7,9,10,5,7,9,8,no,no,no,no,yes
+4,YHWH,8,8,4,4,8,8,4,4,8,8,4,4,yes,no,yes,no,yes
+5,Adonai,11,11,10,10,11,11,10,10,2,2,10,10,no,no,no,no,no
+6,Shaddai,8,8,6,6,8,8,6,6,8,8,6,6,yes,no,yes,no,yes
+7,Ehyeh Asher Ehyeh,12,12,15,15,12,12,6,6,3,3,4,4,no,yes,no,yes,no
+8,El Elyon,17,19,10,22,8,10,10,4,8,1,10,11,no,no,yes,no,yes
+9,El Olam,15,17,12,11,6,8,12,11,6,8,1,11,no,yes,yes,yes,yes
+10,El Roi,8,8,11,11,8,8,11,11,8,8,11,11,yes,no,yes,no,yes
+11,El Gibbor,8,8,11,11,8,8,11,11,8,8,11,11,yes,no,yes,no,yes
+12,El Yeshuati,17,17,24,24,8,8,6,6,8,8,2,2,no,no,yes,no,yes
+22,Adon,7,9,6,18,7,9,6,9,7,9,6,7,no,no,no,no,no
+23,Elohei HaShamayim,9,2,12,22,9,2,12,4,9,2,1,11,no,yes,no,yes,no
+24,Elohei HaAretz,9,9,12,8,9,9,12,8,9,9,1,8,yes,yes,yes,yes,yes
+25,El Shaddai,12,12,15,15,12,12,6,6,3,3,4,4,no,yes,no,yes,no
+26,El Kana,11,11,6,6,11,11,6,6,2,2,6,6,no,no,no,no,no
+27,El De’ot,7,7,16,16,7,7,7,7,7,7,5,5,no,no,no,no,no
+29,El HaNe’eman,11,13,6,18,11,4,6,9,2,4,6,7,no,no,no,no,no
+30,El HaGadol,12,12,7,7,12,12,7,7,3,3,7,7,no,yes,no,yes,no
+32,El HaKavod,14,14,13,13,5,5,4,4,5,5,2,2,no,no,no,no,no
+35,Elohei Avraham,15,17,8,18,6,8,8,9,6,8,8,7,yes,no,yes,no,yes
+36,Elohei Yitzchak,11,11,12,12,11,11,12,12,2,2,1,1,no,yes,no,yes,no
+37,Elohei Yaakov,12,12,8,8,12,12,8,8,3,3,8,8,yes,yes,yes,yes,yes
