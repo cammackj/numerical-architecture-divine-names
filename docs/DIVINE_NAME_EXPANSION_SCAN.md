@@ -25,7 +25,7 @@ The scan finds 20 candidates with a base-12 palindrome on at least one value lay
 | Melekh Yisrael | `מלך ישראל` | primary-biblical-expansion | exact | 631 | `447` | 1111 | **`787`** | [Isaiah 44:6](https://www.sefaria.org/Isaiah.44.6?lang=bi) |
 | YHWH Tzevaot Hu Melekh HaKavod | `יהוה צבאות הוא מלך הכבוד` | primary-biblical-expansion | exact | 664 | **`474`** | 1144 | `7B4` | [Psalms 24:10](https://www.sefaria.org/Psalms.24.10?lang=bi) |
 | Malakh YHWH | `מלאך יהוה` | christian-comparative-expansion | exact | 117 | **`99`** | 597 | `419` | [Exodus 3:2](https://www.sefaria.org/Exodus.3.2?lang=bi) |
-| Yeshua HaMashiach | `ישוע המשיח` | christian-comparative-expansion | translation-attested | 749 | **`525`** | 749 | **`525`** | [Mark 1:1 Hebrew translation](https://www.biblica.com/bible/hd/%D7%94%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%A2%D7%9C-%D7%A4%D7%99-%D7%9E%D7%A8%D7%A7%D7%95%D7%A1/1/) |
+| Yeshua HaMashiach | `ישוע המשיח` | christian-comparative-expansion | translation-attested | 749 | **`525`** | 749 | **`525`** | [Matthew 1:1 Biblica Hebrew translation](https://www.bible.com/bible/24/MAT.1.HD) |
 | Adoneinu Yeshua HaMashiach defective | `אדנינו ישוע המשיח` | christian-comparative-expansion | translation-attested | 870 | **`606`** | 870 | **`606`** | [I Corinthians 1 Delitzsch Hebrew](https://biblehub.com/mod/1_corinthians/1.htm) |
 | Ben HaElohim defective | `בן האלהים` | christian-comparative-expansion | translation-attested | 143 | **`BB`** | 1353 | **`949`** | [I John 5 Delitzsch Hebrew](https://biblehub.com/mod/1_john/5.htm) |
 | Davar HaElohim defective | `דבר האלהים` | christian-comparative-expansion | translation-attested | 297 | `209` | 857 | **`5B5`** | [Revelation 19 Delitzsch Hebrew](https://biblehub.com/mod/revelation/19.htm) |
@@ -34,7 +34,7 @@ The scan finds 20 candidates with a base-12 palindrome on at least one value lay
 | HaRoeh HaTov defective | `הרעה הטוב` | christian-comparative-expansion | translation-attested | 302 | **`212`** | 302 | **`212`** | [John 10 Delitzsch Hebrew](https://ebible.com/modernhebrew/john/10) |
 | Melekh HaOlam | `מלך העולם` | later-traditional-expansion | later-exact | 241 | **`181`** | 1281 | `8A9` | [Siddur blessing formula](https://www.sefaria.org/Siddur_Ashkenaz%2C_Weekday%2C_Shacharit%2C_Preparatory_Prayers%2C_Morning_Blessings.2?lang=bi) |
 | Avinu Shebashamayim | `אבינו שבשמים` | later-traditional-expansion | later-exact | 761 | **`535`** | 1321 | `921` | [Mishnah Sotah 9:15](https://www.sefaria.org/Mishnah_Sotah.9.15?lang=bi) |
-| Qudsha Berikh Hu | `קודשא בריך הוא` | later-traditional-expansion | later-exact | 655 | `467` | 1135 | **`7A7`** | Zoharic usage |
+| Qudsha Berikh Hu | `קודשא בריך הוא` | later-traditional-expansion | later-exact | 655 | `467` | 1135 | **`7A7`** | [Zohar, Vayikra 16:104](https://www.sefaria.org/Zohar%2C_Vayikra.16.104?lang=bi) |
 
 Bold base-12 digit strings are palindromes. A row can be palindromic under standard gematria, Mispar Gadol, or both.
 
