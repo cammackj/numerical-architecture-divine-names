@@ -1,5 +1,10 @@
 # Reproducibility Guide
 
+The latest complete source-level rebuild is documented in
+[`docs/REPRODUCIBILITY_VERIFICATION.md`](docs/REPRODUCIBILITY_VERIFICATION.md).
+It records the source revision, environment, artifact hashes, simulations, PDF
+checks, and the one repository-maintenance finding discovered during verification.
+
 ## Environment
 
 - Python 3.12 or later

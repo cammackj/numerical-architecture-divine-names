@@ -32,6 +32,10 @@ records distinguish arithmetic results from interpretive conclusions.
 - `docs/` contains frozen protocols and generated technical reports.
 - `REPRODUCIBILITY.md` explains how to rebuild the paper and rerun the analyses.
 
+A complete source-level rebuild was performed on July 19, 2026. The source lock,
+artifact hashes, simulation checks, and PDF verification are recorded in
+[`docs/REPRODUCIBILITY_VERIFICATION.md`](docs/REPRODUCIBILITY_VERIFICATION.md).
+
 The original Word document, internal editorial notes, referee working papers,
 and revision planning files are intentionally excluded from this public record.
 
