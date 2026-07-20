@@ -5,6 +5,11 @@ manuscript. Version rules are defined in `docs/UPDATE_POLICY.md`.
 
 ## Unreleased
 
+No reader-visible changes have been made after the version 1.0.0 release
+candidate was frozen.
+
+## Version 1.0.0 - 2026-07-19
+
 - completed a source-level reproducibility rebuild from the locked MorphHB
   revision;
 - completed the final pre-release citation, source-link, numerical consistency,
@@ -13,9 +18,8 @@ manuscript. Version rules are defined in `docs/UPDATE_POLICY.md`.
   Hebrew source;
 - repaired the Sefer Yetzirah and Avinu Malkeinu source links;
 - added missing source locks for attested expansion candidates;
-- documented the post-release update, semantic-versioning, and DOI policy.
-
-## Version 1.0.0
-
-Planned as the first archival GitHub and Zenodo release after licensing,
-citation metadata, and author approval are complete.
+- documented the post-release update, semantic-versioning, and DOI policy;
+- adopted CC BY 4.0 for the manuscript and research materials and MIT for the
+  analysis code;
+- prepared version 1.0.0 citation metadata and release notes for author
+  approval.

@@ -4,9 +4,9 @@ This repository accompanies Joshua Cammack's research manuscript on gematria,
 base-12 palindromes, divine names and titles, and the numerical structure of the
 canonical Tanakh.
 
-> **Status:** living pre-release research record. The manuscript may change as
-> additional patterns are tested or existing interpretations are refined. No
-> archival release or DOI has been issued yet.
+> **Status:** living research record. The `main` branch may change as additional
+> patterns are tested or existing interpretations are refined. Numbered GitHub
+> and Zenodo releases are preserved as immutable archival snapshots.
 
 The project began with an initial draft in December 2025. The current manuscript
 is the substantially revised July 2026 version. Its author is
@@ -62,9 +62,11 @@ root, subject to ordinary PDF metadata differences.
 
 ## Reuse and Citation
 
-Citation metadata is provided in [`CITATION.cff`](CITATION.cff). A DOI and final
-version number will be added when the first archival release is approved.
+Citation metadata for version 1.0.0 is provided in
+[`CITATION.cff`](CITATION.cff). The version and concept DOIs will be added after
+Zenodo archives the approved GitHub release.
 
-A reuse license has not yet been selected. Until one is added, the author retains
-copyright and no additional permission to reuse the manuscript, figures, data, or
-code is granted by this repository.
+The manuscript, figures, documentation, and the author's copyrightable data
+contributions are licensed under CC BY 4.0. Python analysis code is licensed
+under MIT. See [`LICENSE.md`](LICENSE.md) for the component boundaries and
+[`NOTICE.md`](NOTICE.md) for third-party attribution.

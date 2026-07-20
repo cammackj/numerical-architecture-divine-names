@@ -1,11 +1,16 @@
 cff-version: 1.2.0
-message: "Please cite the manuscript using the metadata below. A DOI will be added with the first archival release."
+message: "Please cite the manuscript using the preferred-citation metadata below. Analysis code is licensed separately under MIT."
 title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
+abstract: >-
+  A reproducible research package examining gematria, base-12 palindromes,
+  divine names and titles, and numerical structures in the canonical Tanakh.
 authors:
   - family-names: Cammack
     given-names: Joshua
     orcid: "https://orcid.org/0009-0006-0482-4893"
-version: 0.9.1
+version: 1.0.0
+date-released: "2026-07-19"
+license: CC-BY-4.0
 repository-code: "https://github.com/cammackj/numerical-architecture-divine-names"
 url: "https://github.com/cammackj/numerical-architecture-divine-names/blob/main/Numerical_Architecture_of_the_Divine_Names.pdf"
 keywords:
@@ -22,4 +27,5 @@ preferred-citation:
       given-names: Joshua
       orcid: "https://orcid.org/0009-0006-0482-4893"
   title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
+  version: 1.0.0
   year: 2026
