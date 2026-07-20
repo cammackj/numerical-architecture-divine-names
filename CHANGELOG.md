@@ -5,6 +5,9 @@ manuscript. Version rules are defined in `docs/UPDATE_POLICY.md`.
 
 ## Unreleased
 
+- published the reader-facing manuscript as a Zenodo working paper under DOI
+  `10.5281/zenodo.21459465` and linked it to the version 1.1.0 reproducibility
+  package; the manuscript and numerical results were unchanged;
 - recorded the version 1.1.0 Zenodo DOI after archive verification; the
   manuscript and numerical results were unchanged.
 

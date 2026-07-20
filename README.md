@@ -13,10 +13,22 @@ is the substantially revised July 2026 version. Its author is
 [Joshua Cammack](https://orcid.org/0009-0006-0482-4893), ORCID
 `0009-0006-0482-4893`.
 
-## Archival Releases
+## Working Paper
 
-Version 1.1.0 adds the bounded Psalm 22 investigation and the complete
-two-digit base-12 repdigit ladder:
+The complete reader-facing manuscript is published as an open working paper:
+
+- version DOI for manuscript version 1.1.0: [10.5281/zenodo.21459465](https://doi.org/10.5281/zenodo.21459465);
+- concept DOI for all working-paper versions: [10.5281/zenodo.21459464](https://doi.org/10.5281/zenodo.21459464).
+
+The working-paper record is the preferred manuscript citation. It identifies
+the PDF as a publication and links this repository's archived release as its
+reproducibility package.
+
+## Reproducibility Package Releases
+
+The version 1.1.0 research package contains the manuscript source, analysis
+code, data, and the bounded Psalm 22 and complete two-digit base-12 repdigit
+ladder investigations:
 
 - version DOI for the exact release: [10.5281/zenodo.21450852](https://doi.org/10.5281/zenodo.21450852);
 - concept DOI for the continuing project: [10.5281/zenodo.21448554](https://doi.org/10.5281/zenodo.21448554);
@@ -80,8 +92,9 @@ root, subject to ordinary PDF metadata differences.
 
 ## Reuse and Citation
 
-Citation metadata for version 1.1.0, including its version and concept DOIs, is
-provided in [`CITATION.cff`](CITATION.cff).
+Citation metadata for the version 1.1.0 working paper and its supporting
+reproducibility package is provided in [`CITATION.cff`](CITATION.cff). Cite the
+working-paper DOI `10.5281/zenodo.21459465` when referring to the manuscript.
 
 The manuscript, figures, documentation, and the author's copyrightable data
 contributions are licensed under CC BY 4.0. Python analysis code is licensed

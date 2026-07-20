@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the manuscript using the preferred-citation metadata below. Analysis code is licensed separately under MIT."
+message: "Please cite the manuscript using its working-paper DOI in the preferred-citation metadata below. Analysis code is licensed separately under MIT."
 title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
 abstract: >-
   A reproducible research package examining gematria, base-12 palindromes,
@@ -14,7 +14,13 @@ doi: "10.5281/zenodo.21450852"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21448554"
-    description: "Concept DOI for all versions of the project"
+    description: "Concept DOI for all versions of the reproducibility package"
+  - type: doi
+    value: "10.5281/zenodo.21459465"
+    description: "Version DOI for the manuscript as a working paper"
+  - type: doi
+    value: "10.5281/zenodo.21459464"
+    description: "Concept DOI for all versions of the working paper"
 license: CC-BY-4.0
 repository-code: "https://github.com/cammackj/numerical-architecture-divine-names"
 url: "https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.1.0"
@@ -26,12 +32,13 @@ keywords:
   - biblical numerology
   - palindromes
 preferred-citation:
-  type: unpublished
+  type: report
   authors:
     - family-names: Cammack
       given-names: Joshua
       orcid: "https://orcid.org/0009-0006-0482-4893"
   title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
   version: 1.1.0
-  doi: "10.5281/zenodo.21450852"
+  doi: "10.5281/zenodo.21459465"
+  url: "https://doi.org/10.5281/zenodo.21459465"
   year: 2026
