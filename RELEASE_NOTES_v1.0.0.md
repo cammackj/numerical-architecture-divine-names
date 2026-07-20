@@ -40,8 +40,11 @@ under MIT. Third-party source terms and attribution are recorded in `NOTICE.md`.
 
 ## Citation and Future Versions
 
-Citation metadata is provided in `CITATION.cff`. Version 1.0.0 will remain an
-immutable archival snapshot. Later corrections or new discoveries will be
-released as new numbered versions under `docs/UPDATE_POLICY.md`. Version and
-concept DOIs will be added to the live repository after Zenodo archives the
-GitHub release.
+The exact release is archived under version DOI
+`10.5281/zenodo.21448555`. The concept DOI `10.5281/zenodo.21448554`
+represents the project across all versions. Citation metadata is provided in
+`CITATION.cff`.
+
+Version 1.0.0 will remain an immutable archival snapshot. Later corrections or
+new discoveries will be released as new numbered versions under
+`docs/UPDATE_POLICY.md`.

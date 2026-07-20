@@ -13,6 +13,14 @@ is the substantially revised July 2026 version. Its author is
 [Joshua Cammack](https://orcid.org/0009-0006-0482-4893), ORCID
 `0009-0006-0482-4893`.
 
+## Archival Release
+
+Version 1.0.0 is preserved on GitHub and Zenodo:
+
+- version DOI for the exact release: [10.5281/zenodo.21448555](https://doi.org/10.5281/zenodo.21448555);
+- concept DOI for the continuing project: [10.5281/zenodo.21448554](https://doi.org/10.5281/zenodo.21448554);
+- immutable GitHub snapshot: [`v1.0.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.0.0).
+
 ## Manuscript
 
 The current reader-facing paper is available as
@@ -62,9 +70,8 @@ root, subject to ordinary PDF metadata differences.
 
 ## Reuse and Citation
 
-Citation metadata for version 1.0.0 is provided in
-[`CITATION.cff`](CITATION.cff). The version and concept DOIs will be added after
-Zenodo archives the approved GitHub release.
+Citation metadata for version 1.0.0, including its version and concept DOIs, is
+provided in [`CITATION.cff`](CITATION.cff).
 
 The manuscript, figures, documentation, and the author's copyrightable data
 contributions are licensed under CC BY 4.0. Python analysis code is licensed

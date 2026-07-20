@@ -5,8 +5,8 @@ manuscript. Version rules are defined in `docs/UPDATE_POLICY.md`.
 
 ## Unreleased
 
-No reader-visible changes have been made after the version 1.0.0 release
-candidate was frozen.
+- added the minted version and concept DOI metadata after Zenodo archived
+  version 1.0.0; the manuscript and numerical results were unchanged.
 
 ## Version 1.0.0 - 2026-07-19
 
