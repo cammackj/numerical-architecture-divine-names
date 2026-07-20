@@ -9,3 +9,6 @@ report generated outcomes and point to the complete CSV tables in `data/`.
 
 `PUBLICATION_AUDIT.md` records the final pre-release citation, source-link,
 numerical consistency, and PDF checks.
+
+`UPDATE_POLICY.md` defines patch, minor, and major releases and explains how
+version-specific and all-version Zenodo DOIs will be used.

@@ -38,6 +38,11 @@ artifact hashes, simulation checks, and PDF verification are recorded in
 The final pre-release citation, source-link, and cross-manuscript consistency
 pass is recorded in [`docs/PUBLICATION_AUDIT.md`](docs/PUBLICATION_AUDIT.md).
 
+The `main` branch remains the living research record after publication. Numbered
+GitHub and Zenodo releases are immutable snapshots governed by
+[`docs/UPDATE_POLICY.md`](docs/UPDATE_POLICY.md), and reader-visible changes are
+recorded in [`CHANGELOG.md`](CHANGELOG.md).
+
 The original Word document, internal editorial notes, referee working papers,
 and revision planning files are intentionally excluded from this public record.
 
