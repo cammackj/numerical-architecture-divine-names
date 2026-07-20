@@ -36,7 +36,8 @@ evidence hierarchy, and open-ended interpretive stance.
   page.
 - Preserved the archived `v1.0.0` release and version DOI
   `10.5281/zenodo.21448555` without modification.
-- The new `v1.1.0` version DOI will be recorded only after Zenodo creates it.
+- Version 1.1.0 is archived under DOI `10.5281/zenodo.21450852`; the continuing
+  project remains represented by concept DOI `10.5281/zenodo.21448554`.
 
 ## Verification
 

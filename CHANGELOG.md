@@ -5,7 +5,8 @@ manuscript. Version rules are defined in `docs/UPDATE_POLICY.md`.
 
 ## Unreleased
 
-- No unreleased changes.
+- recorded the version 1.1.0 Zenodo DOI after archive verification; the
+  manuscript and numerical results were unchanged.
 
 ## Version 1.1.0 - 2026-07-20
 

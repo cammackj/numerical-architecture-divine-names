@@ -18,11 +18,11 @@ is the substantially revised July 2026 version. Its author is
 Version 1.1.0 adds the bounded Psalm 22 investigation and the complete
 two-digit base-12 repdigit ladder:
 
+- version DOI for the exact release: [10.5281/zenodo.21450852](https://doi.org/10.5281/zenodo.21450852);
 - concept DOI for the continuing project: [10.5281/zenodo.21448554](https://doi.org/10.5281/zenodo.21448554);
 - immutable GitHub snapshot: [`v1.1.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.1.0).
 
-The version-specific DOI for 1.1.0 will be added after Zenodo creates the new
-archive. Version 1.0.0 remains preserved under DOI
+Version 1.0.0 remains preserved under DOI
 [10.5281/zenodo.21448555](https://doi.org/10.5281/zenodo.21448555) and GitHub
 tag [`v1.0.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.0.0).
 
@@ -80,9 +80,8 @@ root, subject to ordinary PDF metadata differences.
 
 ## Reuse and Citation
 
-Citation metadata for version 1.1.0 is provided in
-[`CITATION.cff`](CITATION.cff). Until Zenodo supplies the new version-specific
-DOI, it uses the all-version concept DOI.
+Citation metadata for version 1.1.0, including its version and concept DOIs, is
+provided in [`CITATION.cff`](CITATION.cff).
 
 The manuscript, figures, documentation, and the author's copyrightable data
 contributions are licensed under CC BY 4.0. Python analysis code is licensed

@@ -10,7 +10,7 @@ authors:
     orcid: "https://orcid.org/0009-0006-0482-4893"
 version: 1.1.0
 date-released: "2026-07-20"
-doi: "10.5281/zenodo.21448554"
+doi: "10.5281/zenodo.21450852"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21448554"
@@ -33,5 +33,5 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0006-0482-4893"
   title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
   version: 1.1.0
-  doi: "10.5281/zenodo.21448554"
+  doi: "10.5281/zenodo.21450852"
   year: 2026

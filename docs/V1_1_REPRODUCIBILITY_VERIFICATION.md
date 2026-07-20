@@ -87,9 +87,22 @@ final appendix page.
 ## Release Metadata
 
 `CITATION.cff` parses as YAML and identifies version 1.1.0 with release date
-2026-07-20. It uses the concept DOI `10.5281/zenodo.21448554` until Zenodo
-creates the version-specific 1.1.0 DOI. The earlier version DOI remains attached
-only to the immutable 1.0.0 archive.
+2026-07-20. The release snapshot initially used the concept DOI because the
+version DOI did not exist until after publication. The live metadata now records
+version DOI `10.5281/zenodo.21450852` and retains concept DOI
+`10.5281/zenodo.21448554` as the all-version identifier. The earlier version DOI
+remains attached only to the immutable 1.0.0 archive.
+
+## Zenodo Verification
+
+Zenodo record `21450852` reports version `v1.1.0`, open access, CC BY 4.0,
+ORCID `0009-0006-0482-4893`, and the exact GitHub `v1.1.0` tag relationship.
+Its archived ZIP has MD5 checksum
+`62f7727e44c75493f00991f540f6b968`. The archive contains the manuscript PDF,
+LaTeX source, citation metadata, release notes, both research reports, both
+generators, and all nine generated tables. The archived PDF SHA-256 is
+`85BBD1309433E12BF2F1AED06D77F7903EBD580CEF0AAAA062078C58DBC94EBF`,
+an exact match to the verified release asset.
 
 ## Conclusion
 

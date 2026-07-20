@@ -25,11 +25,11 @@ Release date: 2026-07-20.
 - [x] Change release metadata from `1.0.0` to `1.1.0` without inventing a
   version-specific DOI before Zenodo creates it.
 - [x] Run the public-repository reproducibility and PDF checks.
-- [ ] Commit and push the public `main` branch.
-- [ ] Create the immutable GitHub tag and release `v1.1.0`.
-- [ ] Verify the new Zenodo version, version DOI, concept DOI relationship,
+- [x] Commit and push the public `main` branch.
+- [x] Create the immutable GitHub tag and release `v1.1.0`.
+- [x] Verify the new Zenodo version, version DOI, concept DOI relationship,
   license, ORCID, and archived files.
-- [ ] Add the new version DOI to the live citation metadata in a follow-up
+- [x] Add the new version DOI to the live citation metadata in a follow-up
   commit while preserving the release snapshot.
 
 ## Excluded From Version 1.1.0
