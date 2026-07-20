@@ -5,6 +5,25 @@ manuscript. Version rules are defined in `docs/UPDATE_POLICY.md`.
 
 ## Unreleased
 
+- No unreleased changes.
+
+## Version 1.1.0 - 2026-07-20
+
+- integrated the complete two-digit base-12 repdigit ladder, including its
+  source-secure occupied set, six additive relations, finite subset census,
+  and explicit empty `66`, `88`, and `AA` rungs;
+- documented why the Psalm 111:1 window at `66_12` is an incomplete phrase
+  rather than an admitted divine title or formula;
+- added the Zenodo concept DOI to the manuscript title page as required for
+  the next file-changing release;
+- integrated the bounded Psalm 22 finding into the manuscript: the
+  `Ayelet HaShachar` superscription palindrome, its cross-basis `26^2`
+  relationship, and the exact Yeshua sequence inside the opening salvation
+  form;
+- added complete Psalm-opening and whole-Tanakh comparison counts, negative
+  variants, source notes, and a technical Appendix E;
+- added a research scope register separating present-manuscript additions,
+  next-paper material, and private atlas leads;
 - added the minted version and concept DOI metadata after Zenodo archived
   version 1.0.0; the manuscript and numerical results were unchanged.
 

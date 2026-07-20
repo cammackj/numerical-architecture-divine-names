@@ -1,0 +1,12 @@
+﻿rung,decimal_value,base12_repdigit,occupied_core,occupied_extended,occupants,evidence_notes
+1,13,11,yes,yes,Echad,Echad: exact-biblical-component (The one/echad term in YHWH Echad.)
+2,26,22,yes,yes,YHWH,YHWH: exact-biblical (Primary divine-name row.)
+3,39,33,yes,yes,YHWH Echad,YHWH Echad: exact-biblical (Complete Shema identity formula.)
+4,52,44,yes,yes,Elohei; BEN,Elohei: exact-biblical-component (Construct form used in attested Elohei titles.); BEN: later-traditional (Standard value only; the manuscript's BEN row has a different Mispar Gadol value.)
+5,65,55,yes,yes,Adonai,Adonai: exact-biblical (Primary divine-title row.)
+6,78,66,no,no,,
+7,91,77,yes,yes,Adonai YHWH; Amen lexical form,Adonai YHWH: exact-biblical (Attested complete divine address.); Amen lexical form: translation-sensitive (The exact translated Revelation title bears an article and is not this value.)
+8,104,88,no,no,,
+9,117,99,no,yes,Malakh YHWH,Malakh YHWH: exact-biblical-form (Admission as divine designation depends on a Christian divine-agent reading.)
+10,130,AA,no,no,,
+11,143,BB,no,yes,Ben HaElohim defective,Ben HaElohim defective: translation-sensitive (The palindrome depends on a defective historical spelling.)

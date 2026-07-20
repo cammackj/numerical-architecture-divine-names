@@ -1,0 +1,70 @@
+\section{Psalm 22 Bounded Exploration}
+
+This appendix records the complete declared boundary behind the Psalm 22 discussion. It uses the same locked Open Scriptures Hebrew Bible revision as the matched controls, commit \texttt{3d15126fb1ef}.\cite{oshb} The result was discovered after Psalm 22 had been selected for its Christian textual setting. The scan is therefore exhaustive within its stated boundaries but remains exploratory. The complete report, script, and generated tables are preserved under \path{research/}.
+
+\subsection{Textual Objects and Exact Arithmetic}
+
+The Masoretic superscription reads \hebrew{למנצח על אילת השחר מזמור לדוד}. The target is the recognized two-word designation \hebrew{אילת השחר}, not an arbitrary deletion of letters from one word or a phrase assembled across the verse.\cite{sefaria_psalm22}
+
+\begin{center}
+\small
+\begin{tabular}{>{\raggedright\arraybackslash}p{3.7cm}>{\raggedright\arraybackslash}p{3.9cm}rr>{\raggedright\arraybackslash}p{1.8cm}}
+\toprule
+Expression & Hebrew & Standard & Base 12 & Pal. \\
+\midrule
+Ayelet & \hebrew{אילת} & 441 & $309_{12}$ & no \\
+HaShachar & \hebrew{השחר} & 513 & $369_{12}$ & no \\
+Ayelet HaShachar & \hebrew{אילת השחר} & 954 & $676_{12}$ & yes \\
+Al Ayelet HaShachar & \hebrew{על אילת השחר} & 1054 & $73\mathrm{A}_{12}$ & no \\
+Complete superscription & \hebrew{למנצח על אילת השחר מזמור לדוד} & 1609 & $\mathrm{B}21_{12}$ & no \\
+Yeshua & \hebrew{ישוע} & 386 & $282_{12}$ & yes \\
+From my salvation & \hebrew{מישועתי} & 836 & $598_{12}$ & no \\
+Opening cry & \hebrew{אלי אלי למה עזבתני} & 696 & $4\mathrm{A}0_{12}$ & no \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+None of these expressions contains a final form, so standard gematria and Mispar Gadol agree. The phrase-level result is
+
+\[
+954_{10}=676_{12},
+\qquad
+676_{10}=(26_{10})^2.
+\]
+
+The first equality is a base conversion. The second reads the displayed characters as a decimal numeral. They are related by a shared digit string, not by numerical equality: $676_{12}=954_{10}$, while $676_{10}=26^2$.
+
+\subsection{Psalm-Opening Comparison}
+
+The source contains 964 contiguous two-word windows in the first Masoretic verse of all 150 Psalms. The comparison does not attempt to identify superscription grammar automatically; it uses every opening window, which is a broader and more conservative set than recognized title phrases alone.
+
+\begin{center}
+\small
+\begin{tabular}{lrr}
+\toprule
+Comparison & Standard & Mispar Gadol \\
+\midrule
+All opening windows & 964 & 964 \\
+Base-12-palindromic windows & 70 & 75 \\
+Palindromic windows with a displayed decimal square & 1 & 1 \\
+$4+4$, no-final windows & 79 & 79 \\
+Palindromes within that structural stratum & 7 & 7 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+The one palindrome-plus-square window under either system is \hebrew{אילת השחר} at Psalm 22:1 in the locked Masoretic verse numbering. Because the two systems give the target the same value, this is one textual occurrence, not two independent findings.
+
+\subsection{Whole-Tanakh Comparison}
+
+The full locked Tanakh contains 282,294 contiguous two-word windows. The palindrome-plus-displayed-square condition occurs 571 times under standard gematria and 502 times under Mispar Gadol. A displayed square root of 26 occurs in 84 standard-value rows and 158 Mispar-Gadol rows. The property is therefore unique among Psalm openings, not among arbitrary Tanakh pairs.
+
+Within the exact $4+4$, no-final-form structure, 15,636 windows occur and 1,539 are standard-value base-12 palindromes. Seven equal 954 under both systems. The exact lexical phrase \hebrew{אילת השחר} occurs once in the locked text.
+
+\subsection{The Yeshua Sequence and Negative Results}
+
+The normalized token \hebrew{מישועתי} occurs at Psalm 22:2 in the locked source. Its morphology is the ordinary salvation noun with a prefixed preposition and a first-person singular suffix. The sequence \hebrew{ישוע} begins at its second consonant and remains contiguous.
+
+Across the Tanakh, 114 tokens in 113 verses contain that sequence. Seventy-two belong to the ordinary salvation noun and 29 to the proper name Jeshua; 43 occurrences are in Psalms. The exact token \hebrew{מישועתי} occurs once. The containment is therefore exact, while the underlying sequence is common in salvation vocabulary.
+
+At the whole-Psalm level, the standard value is $59{,}640_{10}=2\mathrm{A}620_{12}$ and the Mispar Gadol value is $81{,}080_{10}=3\mathrm{AB}08_{12}$; neither is palindromic. No complete verse in the Psalm has a palindromic full-verse value under either system.

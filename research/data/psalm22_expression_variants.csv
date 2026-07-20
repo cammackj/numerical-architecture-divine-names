@@ -1,0 +1,9 @@
+﻿label,hebrew,word_count,letter_count,standard_value,standard_base12,standard_base12_palindrome,mispar_gadol_value,mispar_gadol_base12,mispar_gadol_base12_palindrome,contains_yeshua_sequence
+Ayelet,אילת,1,4,441,309,no,441,309,no,no
+HaShachar,השחר,1,4,513,369,no,513,369,no,no
+Ayelet HaShachar,אילת השחר,2,8,954,676,yes,954,676,yes,no
+Al Ayelet HaShachar,על אילת השחר,3,10,1054,73A,no,1054,73A,no,no
+Complete superscription,למנצח על אילת השחר מזמור לדוד,6,24,1609,B21,no,1609,B21,no,no
+Yeshua,ישוע,1,4,386,282,yes,386,282,yes,yes
+From my salvation,מישועתי,1,7,836,598,no,836,598,no,yes
+Opening cry,אלי אלי למה עזבתני,4,15,696,4A0,no,696,4A0,no,no

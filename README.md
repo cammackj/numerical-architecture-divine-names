@@ -13,13 +13,18 @@ is the substantially revised July 2026 version. Its author is
 [Joshua Cammack](https://orcid.org/0009-0006-0482-4893), ORCID
 `0009-0006-0482-4893`.
 
-## Archival Release
+## Archival Releases
 
-Version 1.0.0 is preserved on GitHub and Zenodo:
+Version 1.1.0 adds the bounded Psalm 22 investigation and the complete
+two-digit base-12 repdigit ladder:
 
-- version DOI for the exact release: [10.5281/zenodo.21448555](https://doi.org/10.5281/zenodo.21448555);
 - concept DOI for the continuing project: [10.5281/zenodo.21448554](https://doi.org/10.5281/zenodo.21448554);
-- immutable GitHub snapshot: [`v1.0.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.0.0).
+- immutable GitHub snapshot: [`v1.1.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.1.0).
+
+The version-specific DOI for 1.1.0 will be added after Zenodo creates the new
+archive. Version 1.0.0 remains preserved under DOI
+[10.5281/zenodo.21448555](https://doi.org/10.5281/zenodo.21448555) and GitHub
+tag [`v1.0.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.0.0).
 
 ## Manuscript
 
@@ -38,11 +43,16 @@ records distinguish arithmetic results from interpretive conclusions.
 - `scripts/` contains the calculation, enumeration, control, and sensitivity code.
 - `data/` contains the source registry and machine-readable results.
 - `docs/` contains frozen protocols and generated technical reports.
+- `research/` contains only the two post-publication analyses admitted to
+  version 1.1.0 and their complete generated tables.
 - `REPRODUCIBILITY.md` explains how to rebuild the paper and rerun the analyses.
 
-A complete source-level rebuild was performed on July 19, 2026. The source lock,
-artifact hashes, simulation checks, and PDF verification are recorded in
-[`docs/REPRODUCIBILITY_VERIFICATION.md`](docs/REPRODUCIBILITY_VERIFICATION.md).
+A complete source-level rebuild of the original release was performed on July
+19, 2026. The two version 1.1.0 additions and final 95-page PDF were verified on
+July 20, 2026. The new verification is recorded in
+[`docs/V1_1_REPRODUCIBILITY_VERIFICATION.md`](docs/V1_1_REPRODUCIBILITY_VERIFICATION.md),
+while [`docs/REPRODUCIBILITY_VERIFICATION.md`](docs/REPRODUCIBILITY_VERIFICATION.md)
+preserves the version 1.0.0 baseline.
 The final pre-release citation, source-link, and cross-manuscript consistency
 pass is recorded in [`docs/PUBLICATION_AUDIT.md`](docs/PUBLICATION_AUDIT.md).
 
@@ -70,8 +80,9 @@ root, subject to ordinary PDF metadata differences.
 
 ## Reuse and Citation
 
-Citation metadata for version 1.0.0, including its version and concept DOIs, is
-provided in [`CITATION.cff`](CITATION.cff).
+Citation metadata for version 1.1.0 is provided in
+[`CITATION.cff`](CITATION.cff). Until Zenodo supplies the new version-specific
+DOI, it uses the all-version concept DOI.
 
 The manuscript, figures, documentation, and the author's copyrightable data
 contributions are licensed under CC BY 4.0. Python analysis code is licensed

@@ -21,6 +21,21 @@ The scripts use fixed seeds where simulation is involved. Generated CSV files
 are UTF-8 encoded and are committed so that the reported results can be inspected
 without rerunning the analyses.
 
+## Version 1.1.0 Bounded Analyses
+
+Version 1.1.0 adds two deterministic analyses under `research/`. Run the Psalm
+analysis first because the repdigit script verifies its `66_12` boundary against
+the generated Psalm-opening table:
+
+```powershell
+python research/scripts/psalm22_exploration.py --morphhb-source C:\path\to\morphhb
+python research/scripts/repdigit_ladder_exploration.py
+```
+
+The Psalm script validates the same locked MorphHB commit used by the earlier
+controls. The generated reports and nine CSV tables remain under `research/` so
+the release contains both the calculations and their declared limits.
+
 ## Source Registry and Direct Calculations
 
 `data/corpus_registry.csv` is the row-level authority for admitted Hebrew forms,
