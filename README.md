@@ -8,6 +8,11 @@ canonical Tanakh.
 > additional patterns are tested or existing interpretations are refined. No
 > archival release or DOI has been issued yet.
 
+The project began with an initial draft in December 2025. The current manuscript
+is the substantially revised July 2026 version. Its author is
+[Joshua Cammack](https://orcid.org/0009-0006-0482-4893), ORCID
+`0009-0006-0482-4893`.
+
 ## Manuscript
 
 The current reader-facing paper is available as
@@ -52,4 +57,3 @@ version number will be added when the first archival release is approved.
 A reuse license has not yet been selected. Until one is added, the author retains
 copyright and no additional permission to reuse the manuscript, figures, data, or
 code is granted by this repository.
-

@@ -4,7 +4,8 @@ title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
 authors:
   - family-names: Cammack
     given-names: Joshua
-version: 0.9.0
+    orcid: "https://orcid.org/0009-0006-0482-4893"
+version: 0.9.1
 repository-code: "https://github.com/cammackj/numerical-architecture-divine-names"
 url: "https://github.com/cammackj/numerical-architecture-divine-names/blob/main/Numerical_Architecture_of_the_Divine_Names.pdf"
 keywords:
@@ -19,5 +20,6 @@ preferred-citation:
   authors:
     - family-names: Cammack
       given-names: Joshua
+      orcid: "https://orcid.org/0009-0006-0482-4893"
   title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
   year: 2026
