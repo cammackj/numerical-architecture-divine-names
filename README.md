@@ -24,6 +24,19 @@ The working-paper record is the preferred manuscript citation. It identifies
 the PDF as a publication and links this repository's archived release as its
 reproducibility package.
 
+## Open Review
+
+Critical review is welcome. The [open review guide](REVIEWING.md) identifies
+five useful review tracks and explains how to report a finding without silently
+changing an archived version. Use
+[Discussions](https://github.com/cammackj/numerical-architecture-divine-names/discussions/1)
+for broad responses, questions, interpretations, and possible extensions. Use
+[Issues](https://github.com/cammackj/numerical-architecture-divine-names/issues/new/choose)
+for specific arithmetic, textual, source, citation, or reproducibility problems.
+
+Reviewers are not asked to accept a theological conclusion. The purpose is to
+make the evidence, methods, alternatives, and limits easier to examine.
+
 ## Reproducibility Package Releases
 
 The version 1.1.0 research package contains the manuscript source, analysis

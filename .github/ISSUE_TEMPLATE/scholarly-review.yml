@@ -1,0 +1,59 @@
+name: Specific scholarly correction
+description: Report a focused arithmetic, textual, source, citation, or reproducibility issue.
+title: "[Review] "
+labels:
+  - review
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for checking the paper. Use this form for a concrete point that can be investigated and resolved. Broader interpretations and possible extensions belong in Discussions.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Arithmetic or gematria
+        - Hebrew text or transcription
+        - Source or citation
+        - Method or control
+        - Reproducibility package
+        - Clarity or internal consistency
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Manuscript location
+      description: Give the page, section, table, figure, appendix, or repository file.
+      placeholder: "Page 34, section 5.2, Table 7"
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: Observation
+      description: State the exact value, wording, source, or result that should be checked.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or reproduction steps
+      description: Show the calculation, command, textual witness, or source supporting the report.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-resolution
+    attributes:
+      label: Proposed resolution
+      description: Describe a correction or clarification, if you have one.
+    validations:
+      required: false
+  - type: textarea
+    id: significance
+    attributes:
+      label: Effect on the paper
+      description: Explain whether this changes a local detail, a reported pattern, or an interpretation.
+    validations:
+      required: false
