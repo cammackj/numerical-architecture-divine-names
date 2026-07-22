@@ -5,6 +5,9 @@ manuscript. Version rules are defined in `docs/UPDATE_POLICY.md`.
 
 ## Unreleased
 
+- corrected a synthesis sentence that mistakenly called El Olam's standard
+  value `177` a decimal palindrome; the palindrome layers belong to its Mispar
+  Gadol forms `737` and `515_12`, and no numerical result changed;
 - opened a structured public-review channel through GitHub Discussions, a
   review guide, and a focused scholarly-correction issue form; the manuscript
   and numerical results were unchanged;
