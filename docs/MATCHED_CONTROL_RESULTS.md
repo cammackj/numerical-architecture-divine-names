@@ -32,7 +32,7 @@ The `primary-biblical` rows form the repository-locked primary analysis set. The
 
 The co-primary results do not both clear the prespecified 0.05 threshold after Holm adjustment; the base-12 concentration remains descriptive under this control design. Under standard, base 12 has 4 palindromes (rank 3), versus a matched-control mean of 2.001. Under mispar_gadol, base 12 has 5 palindromes (rank 2), versus a matched-control mean of 1.998.
 
-Base 3 is the observed primary-corpus leader under both value systems, with 6 palindromes under standard gematria (unadjusted upper tail 0.003740) and 6 under Mispar Gadol (unadjusted upper tail 0.002350). The base-12 result must therefore be discussed as one structured concentration, not as the only unusual base.
+On an expression-row count, base 3 is the observed primary-corpus leader under both value systems, with 6 palindromes under standard gematria (unadjusted upper tail 0.003740) and 6 under Mispar Gadol (unadjusted upper tail 0.002350). The expression-row base-12 result must therefore be discussed as one structured concentration, not as the only unusual base. A companion finite sensitivity in `docs/DISTINCT_VALUE_BASE_RANKING.md` counts each exact numerical value once; under that metric, base 12 shares first place in the primary corpus under both value systems.
 
 `Rank tail` is the proportion of matched simulations in which base 12 ranks at least as highly as observed. It is descriptive and is not one of the two co-primary tests.
 

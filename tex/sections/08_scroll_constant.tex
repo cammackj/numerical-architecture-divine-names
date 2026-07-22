@@ -16,7 +16,7 @@ because
 6(12^2)+5(12)+5=864+60+5=929.
 \]
 
-The decimal source value 929 is itself palindromic. Its base-12 form, 655, has the pattern $abb$: the last two digits are already equal. Appending the leading digit therefore gives the unique one-digit right extension that closes the string as a palindrome:
+The decimal source value 929 is itself palindromic. Its base-12 form, 655, has the pattern $abb$: the last two digits are already equal. A one-digit right extension has the form $655x$. For it to read the same backward, the new last digit must equal the first digit. Thus $x=6$, and no other appended digit works:
 
 \[
 655_{12}\xrightarrow{\text{one-digit palindromic closure}}6556_{12}.
@@ -29,7 +29,7 @@ The two arrows in the full sequence do different work:
 \xrightarrow{\text{palindromic extension}}6556_{12}.
 \]
 
-The second arrow is not another conversion. It is a defined closure operation in which one appended digit converts the $6\,5\,5$ pattern into the reversal-invariant string $6\,5\,5\,6$.
+The second arrow is not another conversion. It is a defined closure operation in which the required digit 6 converts the $6\,5\,5$ pattern into the reversal-invariant string $6\,5\,5\,6$. The completed string contains the original 655 in its first three places and its reversal 556 in its last three, overlapping on the central 55. That forward/reverse overlap is exact, although it follows automatically from the palindromic closure rather than supplying a separate test.
 
 \subsection{What the Canonical Label Means}
 
@@ -53,6 +53,26 @@ Its palindrome status is exact:
 \]
 
 This is the strongest strict property of the completed construction. It links a decimal palindrome at the source, $929_{10}$, to a base-12 palindrome after conversion and one-digit closure.
+
+\subsection{The Frame and the Finite Check}
+
+The completed notation has an exact outer/inner partition:
+
+\[
+(6+6)+(5+5)=12+10=22.
+\]
+
+The outer digits therefore sum to 12. The inner pair is also a complete admitted value rather than merely two matching digits:
+
+\[
+\text{Adonai}=65_{10}=55_{12}.
+\]
+
+This gives the construction an Adonai center while the whole notation passes through 22 and then 4. These statements describe the displayed structure; they do not mean that Adonai generates the chapter count.
+
+The pattern was checked exhaustively against every three-digit base-12 integer from $100_{12}$ through $\mathrm{BBB}_{12}$. There are 1,584 such integers. Exactly 132 have the form $abb$ and therefore admit a one-digit right closure $abba$. Among those 132 closures, 12 have outer digits summing to 12, 11 have all four digits summing to 22, and only one has both properties: $6556_{12}$. Five converted decimal values have a first digit sum of 12; only $6556_{12}=11154_{10}$ combines that decimal-value sum with the notation sum of 22.
+
+This is a complete finite count, but it is not a prospective probability. The outer/inner partition and the comparison were articulated after $6556_{12}$ was already known. The scan establishes that the conjunction is unique within the declared closure family; it does not establish why that conjunction occurs.
 
 \subsection{Two Distinct Collapse Paths}
 
@@ -117,7 +137,12 @@ palindromic identity $\longrightarrow$ alphabetic 22 $\longrightarrow$ fourfold 
 
 \subsection{Relations to the Divine-Name Corpus}
 
-The construction has two especially close contacts with audited rows.
+The construction has three especially close contacts with audited rows.
+
+\paragraph{Adonai.}
+The central pair is $55_{12}$, the complete base-12 value of Adonai. It is also the overlap shared by the forward source string 655 and the reversed suffix 556. This is an exact same-basis containment inside the constructed palindrome, not an equality between Adonai and the complete object.
+
+\medskip
 
 \paragraph{YHWH.}
 Both $22_{12}$ and $6556_{12}$ are base-12 palindromes. The former is an exact conversion of YHWH's standard gematria; the latter is a canonical-scale construction. This supports a micro/macro analogy, provided it is described as an analogy between palindromic signatures rather than an arithmetic derivation of one from the other.
@@ -134,14 +159,15 @@ The argument is clearest when its levels are summarized explicitly:
 \item[Exact arithmetic] $929_{10}=655_{12}$ and $6556_{12}=11154_{10}$.
 \item[Exact symmetry] $929_{10}$ and $6556_{12}$ are palindromes in their stated bases.
 \item[Defined construction] Appending 6 is the one-digit palindromic closure of $655_{12}$.
+\item[Finite comparison] Among 132 eligible closures, $6556_{12}$ alone combines a notation sum of 22 with a converted-value sum of 12; it also alone combines outer sum 12 with notation sum 22.
 \item[Exact collapse] The notation path is $22_{10}\rightarrow4$; the decimal-value path is $11154\rightarrow12$.
-\item[Interpretation] The 22 evokes the alphabet, the visible 22 string echoes YHWH, and the 4 evokes the four-letter Name.
+\item[Interpretation] The inner $55_{12}$ is Adonai, the 22 evokes the alphabet, the visible 22 string echoes YHWH, and the 4 evokes the four-letter Name.
 \item[Historical basis] The 929 count uses the received medieval chapter division; the 22-unit reference is attested as a book count in Josephus.
 \item[Intentionality question] The arithmetic does not by itself establish deliberate encoding.
 \end{description}
 
 \subsection{Corrected Formulation}
 
-The scroll construction is a base-12 palindrome produced by a transparent closure operation on the base-12 form of 929. Its notation-collapse passes through decimal 22 and ends at 4; its converted decimal value collapses separately to 12. The passage through 22 and the final 4 remain meaningful features of the proposal, while the base labels and historical conventions remain visible.
+The scroll construction is a base-12 palindrome produced by a transparent closure operation on the base-12 form of 929. The appended 6 is forced by the one-digit palindrome requirement. Its outer digits sum to 12, its inner digits form Adonai's $55_{12}$, its notation-collapse passes through decimal 22 and ends at 4, and its converted decimal value collapses separately to 12. The finite scan makes the conjunction unique within the declared 132-member closure family, while the base labels, post-discovery status, and historical conventions remain visible.
 
-What remains is the observation I wanted to preserve: a compact constructed object that joins chapter-count conversion, palindromic closure, an alphabetic intermediate, a fourfold endpoint, and the separate exact decimal sum $1+1+1+5+4=12$. The construction should not be mistaken for something discovered ready-made in the chapter total, but neither should its final collapse to 4 be discarded as meaningless. The arithmetic is clear enough for the reader to decide how much weight the structure can bear.
+What remains is the observation I wanted to preserve: a compact constructed object that joins chapter-count conversion, a forced palindromic closure, the complete value of Adonai at its center, an outer sum of 12, an alphabetic intermediate, a fourfold endpoint, and the separate exact decimal sum $1+1+1+5+4=12$. The construction should not be mistaken for something discovered ready-made in the chapter total, but neither should its final collapse to 4 be discarded as meaningless. The arithmetic is clear enough for the reader to decide how much weight the structure can bear.

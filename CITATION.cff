@@ -8,22 +8,22 @@ authors:
   - family-names: Cammack
     given-names: Joshua
     orcid: "https://orcid.org/0009-0006-0482-4893"
-version: 1.1.0
-date-released: "2026-07-20"
-doi: "10.5281/zenodo.21450852"
+version: 1.2.0
+date-released: "2026-07-22"
+doi: "10.5281/zenodo.21448554"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21448554"
     description: "Concept DOI for all versions of the reproducibility package"
   - type: doi
     value: "10.5281/zenodo.21459465"
-    description: "Version DOI for the manuscript as a working paper"
+    description: "Version 1.1.0 DOI for the manuscript as a working paper"
   - type: doi
     value: "10.5281/zenodo.21459464"
     description: "Concept DOI for all versions of the working paper"
 license: CC-BY-4.0
 repository-code: "https://github.com/cammackj/numerical-architecture-divine-names"
-url: "https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.1.0"
+url: "https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.2.0"
 keywords:
   - gematria
   - base 12
@@ -38,7 +38,7 @@ preferred-citation:
       given-names: Joshua
       orcid: "https://orcid.org/0009-0006-0482-4893"
   title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
-  version: 1.1.0
-  doi: "10.5281/zenodo.21459465"
-  url: "https://doi.org/10.5281/zenodo.21459465"
+  version: 1.2.0
+  doi: "10.5281/zenodo.21459464"
+  url: "https://doi.org/10.5281/zenodo.21459464"
   year: 2026

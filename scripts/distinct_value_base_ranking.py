@@ -1,0 +1,200 @@
+from __future__ import annotations
+
+import csv
+from collections import defaultdict
+from dataclasses import asdict, dataclass
+from pathlib import Path
+
+from audit_numerical_claims import is_palindrome
+from corpus_sensitivity import competition_rank, to_any_base
+from matched_control_analysis import (
+    BASES,
+    LAYER_ORDER,
+    MATCHES,
+    calculate_value,
+    load_csv,
+)
+
+
+ROOT = Path(__file__).resolve().parents[1]
+CSV_OUT = ROOT / "data" / "distinct_value_base_ranking.csv"
+REPORT_OUT = ROOT / "docs" / "DISTINCT_VALUE_BASE_RANKING.md"
+VALUE_SYSTEMS = ("standard", "mispar_gadol")
+
+
+@dataclass
+class RankingRow:
+    analysis_layer: str
+    target_rows: int
+    value_system: str
+    base: int
+    expression_row_palindromes: int
+    expression_row_rank: int
+    distinct_value_palindromes: int
+    distinct_value_rank: int
+
+
+def values_for_rows(
+    rows: list[dict[str, str]], value_system: str
+) -> list[int]:
+    return [getattr(calculate_value(row["hebrew"]), value_system) for row in rows]
+
+
+def palindrome_count(values: list[int] | set[int], base: int) -> int:
+    return sum(is_palindrome(to_any_base(value, base)) for value in values)
+
+
+def analyze_layer(
+    layer: str, rows: list[dict[str, str]], value_system: str
+) -> list[RankingRow]:
+    values = values_for_rows(rows, value_system)
+    distinct_values = set(values)
+    row_counts = {
+        base: palindrome_count(values, base)
+        for base in BASES
+    }
+    distinct_counts = {
+        base: palindrome_count(distinct_values, base)
+        for base in BASES
+    }
+    return [
+        RankingRow(
+            analysis_layer=layer,
+            target_rows=len(rows),
+            value_system=value_system,
+            base=base,
+            expression_row_palindromes=row_counts[base],
+            expression_row_rank=competition_rank(row_counts, base),
+            distinct_value_palindromes=distinct_counts[base],
+            distinct_value_rank=competition_rank(distinct_counts, base),
+        )
+        for base in BASES
+    ]
+
+
+def write_csv(rows: list[RankingRow]) -> None:
+    with CSV_OUT.open("w", encoding="utf-8-sig", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=list(asdict(rows[0]).keys()))
+        writer.writeheader()
+        for row in rows:
+            writer.writerow(asdict(row))
+
+
+def leaders(rows: list[RankingRow], field: str) -> str:
+    maximum = max(getattr(row, field) for row in rows)
+    return ", ".join(
+        str(row.base) for row in rows if getattr(row, field) == maximum
+    )
+
+
+def duplicate_palindrome_groups(
+    rows: list[dict[str, str]], value_system: str, base: int
+) -> list[tuple[int, str, list[str]]]:
+    groups: dict[int, list[str]] = defaultdict(list)
+    for row in rows:
+        value = getattr(calculate_value(row["hebrew"]), value_system)
+        groups[value].append(row["name"])
+    return [
+        (value, to_any_base(value, base), names)
+        for value, names in sorted(groups.items())
+        if len(names) > 1 and is_palindrome(to_any_base(value, base))
+    ]
+
+
+def label_value_system(value_system: str) -> str:
+    return "Standard" if value_system == "standard" else "Mispar Gadol"
+
+
+def write_report(
+    ranking_rows: list[RankingRow], registry_rows: list[dict[str, str]]
+) -> None:
+    table = [
+        "| Layer | N | Values | B12 rows | Row rank | Row leaders | B12 distinct | Distinct rank | Distinct leaders |",
+        "| --- | ---: | --- | ---: | ---: | --- | ---: | ---: | --- |",
+    ]
+    for layer in LAYER_ORDER:
+        for value_system in VALUE_SYSTEMS:
+            rows = [
+                row
+                for row in ranking_rows
+                if row.analysis_layer == layer
+                and row.value_system == value_system
+            ]
+            base12 = next(row for row in rows if row.base == 12)
+            table.append(
+                f"| {layer} | {base12.target_rows} | "
+                f"{label_value_system(value_system)} | "
+                f"{base12.expression_row_palindromes} | "
+                f"{base12.expression_row_rank} | "
+                f"{leaders(rows, 'expression_row_palindromes')} | "
+                f"{base12.distinct_value_palindromes} | "
+                f"{base12.distinct_value_rank} | "
+                f"{leaders(rows, 'distinct_value_palindromes')} |"
+            )
+
+    primary_rows = [
+        row for row in registry_rows if row["analysis_layer"] == "primary-biblical"
+    ]
+    duplicate_lines: list[str] = []
+    for value_system in VALUE_SYSTEMS:
+        for value, representation, names in duplicate_palindrome_groups(
+            primary_rows, value_system, 3
+        ):
+            duplicate_lines.append(
+                f"- {label_value_system(value_system)}: {', '.join(names)} "
+                f"share decimal value {value}, or `{representation}_3`."
+            )
+
+    content = f"""# Expression-Row and Distinct-Value Base Rankings
+
+Generated by `scripts/distinct_value_base_ranking.py` from the locked target rows in `data/control_match_registry.csv`.
+
+## Method
+
+The original comparison counts every admitted expression row. This sensitivity check also counts each exact numerical value only once within a layer and value system. It does not remove a name, change a spelling, recalculate a value, or alter the matched-control experiment. It asks whether repeated equal values affect the descriptive ranking of bases 2 through 20.
+
+## Results
+
+{chr(10).join(table)}
+
+Competition ranking is used throughout: rank 1 may be shared. `Row leaders` and `Distinct leaders` list every base tied for the largest count.
+
+In the 24-row primary corpus, base 3 leads the expression-row count with six palindromic rows under both systems. After exact numerical values are deduplicated, base 12 shares first place under both systems: with bases 3, 7, and 20 under standard gematria, and with base 3 under Mispar Gadol.
+
+In the 29-row restored Christian-inclusive layer, base 12 ties base 3 for first on standard expression rows and leads alone under Mispar Gadol. After deduplication, base 12 leads alone under both systems.
+
+## Why Base 3 Changes
+
+The primary base-3 expression-row total contains these duplicated palindromic values:
+
+{chr(10).join(duplicate_lines)}
+
+The duplicates are legitimate corpus rows. The distinct-value count is a second descriptive view, not a reason to delete them. Together the two metrics distinguish frequency among expressions from frequency among numerical outcomes.
+
+## Scope
+
+This finite sensitivity analysis does not supply a new probability and does not replace the prespecified matched Hebrew control results. It clarifies only the statement about which base has the largest observed palindrome count under two defensible units of counting.
+"""
+    REPORT_OUT.write_text(content, encoding="utf-8")
+
+
+def main() -> None:
+    registry_rows = load_csv(MATCHES)
+    ranking_rows: list[RankingRow] = []
+    for layer in LAYER_ORDER:
+        layer_rows = [
+            row for row in registry_rows if row["analysis_layer"] == layer
+        ]
+        if not layer_rows:
+            raise ValueError(f"Missing analysis layer: {layer}")
+        for value_system in VALUE_SYSTEMS:
+            ranking_rows.extend(analyze_layer(layer, layer_rows, value_system))
+
+    write_csv(ranking_rows)
+    write_report(ranking_rows, registry_rows)
+    print(f"wrote {CSV_OUT}")
+    print(f"wrote {REPORT_OUT}")
+
+
+if __name__ == "__main__":
+    main()

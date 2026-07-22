@@ -3,8 +3,23 @@
 This file records reader-visible and research-relevant changes to the public
 manuscript. Version rules are defined in `docs/UPDATE_POLICY.md`.
 
-## Unreleased
+## Version 1.2.0 - 2026-07-22
 
+- formally reviewed the existing Ehyeh outer-pair subtotal of 42 against the
+  Exodus 3:14 wording, the separate forty-two-letter Name tradition, and the
+  synthetic `2x + 501` mechanism control; retained the observation while
+  clarifying that 42 is a post-inspection compositional subtotal rather than
+  the complete declaration's value or an identity between traditions;
+- integrated the complete finite check of the chapter-total closure: the
+  appended 6 is forced by palindrome symmetry, the outer digits sum to 12,
+  the inner `55_12` is Adonai, and `6556_12` is the sole eligible closure that
+  combines a notation sum of 22 with a converted-value sum of 12; retained
+  its post-discovery and received-chapter-system limits;
+- clarified the all-base comparison by distinguishing admitted expression rows
+  from distinct numerical values; base 3 leads the 24-row primary corpus only
+  under the expression-row count, while base 12 shares first place under both
+  value systems after exact values are deduplicated; added the complete
+  reproducible table and changed no source form or numerical value;
 - corrected a synthesis sentence that mistakenly called El Olam's standard
   value `177` a decimal palindrome; the palindrome layers belong to its Mispar
   Gadol forms `737` and `515_12`, and no numerical result changed;

@@ -24,6 +24,11 @@ The working-paper record is the preferred manuscript citation. It identifies
 the PDF as a publication and links this repository's archived release as its
 reproducibility package.
 
+The approved version 1.2.0 manuscript is now present on `main`. The latest
+immutable working-paper archive remains version 1.1.0 until the corresponding
+Zenodo version is published; the concept DOI above remains the stable
+all-version identifier.
+
 ## Open Review
 
 Critical review is welcome. The [open review guide](REVIEWING.md) identifies
@@ -51,6 +56,10 @@ Version 1.0.0 remains preserved under DOI
 [10.5281/zenodo.21448555](https://doi.org/10.5281/zenodo.21448555) and GitHub
 tag [`v1.0.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.0.0).
 
+The approved version 1.2.0 package is being prepared from the current `main`
+branch. Its exact DOI will be recorded only after Zenodo creates the immutable
+archive.
+
 ## Manuscript
 
 The current reader-facing paper is available as
@@ -68,8 +77,8 @@ records distinguish arithmetic results from interpretive conclusions.
 - `scripts/` contains the calculation, enumeration, control, and sensitivity code.
 - `data/` contains the source registry and machine-readable results.
 - `docs/` contains frozen protocols and generated technical reports.
-- `research/` contains only the two post-publication analyses admitted to
-  version 1.1.0 and their complete generated tables.
+- `research/` contains only the three post-publication analyses admitted
+  through version 1.2.0 and their complete generated tables.
 - `REPRODUCIBILITY.md` explains how to rebuild the paper and rerun the analyses.
 
 A complete source-level rebuild of the original release was performed on July
@@ -80,6 +89,9 @@ while [`docs/REPRODUCIBILITY_VERIFICATION.md`](docs/REPRODUCIBILITY_VERIFICATION
 preserves the version 1.0.0 baseline.
 The final pre-release citation, source-link, and cross-manuscript consistency
 pass is recorded in [`docs/PUBLICATION_AUDIT.md`](docs/PUBLICATION_AUDIT.md).
+The version 1.2.0 ranking, closure, source, arithmetic, and PDF checks are
+recorded in
+[`docs/V1_2_REPRODUCIBILITY_VERIFICATION.md`](docs/V1_2_REPRODUCIBILITY_VERIFICATION.md).
 
 The `main` branch remains the living research record after publication. Numbered
 GitHub and Zenodo releases are immutable snapshots governed by

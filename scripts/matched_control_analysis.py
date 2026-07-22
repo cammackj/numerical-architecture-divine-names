@@ -563,12 +563,13 @@ def write_report(
         if row.value_system == "mispar_gadol" and row.base == 3
     )
     competing_base_interpretation = (
-        f"Base 3 is the observed primary-corpus leader under both value systems, with "
+        f"On an expression-row count, base 3 is the observed primary-corpus leader under both value systems, with "
         f"{base3_standard.observed_palindromes} palindromes under standard gematria "
         f"(unadjusted upper tail {format_probability(base3_standard.empirical_upper_tail)}) "
         f"and {base3_mispar.observed_palindromes} under Mispar Gadol "
         f"(unadjusted upper tail {format_probability(base3_mispar.empirical_upper_tail)}). "
-        "The base-12 result must therefore be discussed as one structured concentration, not as the only unusual base."
+        "The expression-row base-12 result must therefore be discussed as one structured concentration, not as the only unusual base. "
+        "A companion finite sensitivity in `docs/DISTINCT_VALUE_BASE_RANKING.md` counts each exact numerical value once; under that metric, base 12 shares first place in the primary corpus under both value systems."
     )
 
     def sensitivity_sentence(layer: str, label: str) -> str:

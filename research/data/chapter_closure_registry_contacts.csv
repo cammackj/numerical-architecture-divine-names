@@ -1,0 +1,5 @@
+﻿source,name,layer,route,decimal_value,base12_value
+master_results.csv,Adonai,primary-biblical,standard,65,55
+master_results.csv,Adonai,primary-biblical,mispar-gadol,65,55
+master_results.csv,HaKadosh Baruch Hu,later-traditional,standard,655,467
+divine_name_expansion_results.csv,Qudsha Berikh Hu,later-traditional-expansion,standard,655,467
