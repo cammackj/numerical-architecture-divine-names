@@ -26,11 +26,12 @@ manuscript. Version rules are defined in `docs/UPDATE_POLICY.md`.
 - opened a structured public-review channel through GitHub Discussions, a
   review guide, and a focused scholarly-correction issue form; the manuscript
   and numerical results were unchanged;
-- published the reader-facing manuscript as a Zenodo working paper under DOI
-  `10.5281/zenodo.21459465` and linked it to the version 1.1.0 reproducibility
-  package; the manuscript and numerical results were unchanged;
-- recorded the version 1.1.0 Zenodo DOI after archive verification; the
-  manuscript and numerical results were unchanged.
+- published the reader-facing version 1.2.0 manuscript as a Zenodo working
+  paper under DOI `10.5281/zenodo.21500605` and linked it to the version 1.2.0
+  reproducibility package under DOI `10.5281/zenodo.21500593`; the manuscript
+  and numerical results were unchanged;
+- recorded both version 1.2.0 Zenodo DOIs after archive and file-checksum
+  verification; the manuscript and numerical results were unchanged.
 
 ## Version 1.1.0 - 2026-07-20
 

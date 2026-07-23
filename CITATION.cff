@@ -10,14 +10,17 @@ authors:
     orcid: "https://orcid.org/0009-0006-0482-4893"
 version: 1.2.0
 date-released: "2026-07-22"
-doi: "10.5281/zenodo.21448554"
+doi: "10.5281/zenodo.21500593"
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21500593"
+    description: "Version 1.2.0 DOI for the reproducibility package"
   - type: doi
     value: "10.5281/zenodo.21448554"
     description: "Concept DOI for all versions of the reproducibility package"
   - type: doi
-    value: "10.5281/zenodo.21459465"
-    description: "Version 1.1.0 DOI for the manuscript as a working paper"
+    value: "10.5281/zenodo.21500605"
+    description: "Version 1.2.0 DOI for the manuscript as a working paper"
   - type: doi
     value: "10.5281/zenodo.21459464"
     description: "Concept DOI for all versions of the working paper"
@@ -39,6 +42,6 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0006-0482-4893"
   title: "The Numerical Architecture of the Divine Names and the Canonical Tanakh"
   version: 1.2.0
-  doi: "10.5281/zenodo.21459464"
-  url: "https://doi.org/10.5281/zenodo.21459464"
+  doi: "10.5281/zenodo.21500605"
+  url: "https://doi.org/10.5281/zenodo.21500605"
   year: 2026

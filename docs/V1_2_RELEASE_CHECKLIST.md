@@ -24,11 +24,11 @@ Release date: 2026-07-22.
 
 ## Archival Release Steps
 
-- [ ] Receive final approval to create the immutable GitHub release.
-- [ ] Create the `v1.2.0` GitHub tag and release.
-- [ ] Verify the new Zenodo reproducibility-package archive and DOI.
-- [ ] Publish the matching working-paper version and verify its DOI.
-- [ ] Record both new version DOIs in the live README and `CITATION.cff`.
+- [x] Receive final approval to create the immutable GitHub release.
+- [x] Create the `v1.2.0` GitHub tag and release.
+- [x] Verify the new Zenodo reproducibility-package archive and DOI.
+- [x] Publish the matching working-paper version and verify its DOI.
+- [x] Record both new version DOIs in the live README and `CITATION.cff`.
 
 ## Excluded From Version 1.2.0
 

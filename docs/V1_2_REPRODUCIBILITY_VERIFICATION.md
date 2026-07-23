@@ -94,11 +94,17 @@ public page matched its approved counterpart pixel-for-pixel.
 ## Release Metadata
 
 `CITATION.cff` parses as YAML and identifies version 1.2.0 with release date
-2026-07-22. Because a version DOI cannot exist before archival publication, the
-release candidate uses the reproducibility-package concept DOI
-`10.5281/zenodo.21448554` and the working-paper concept DOI
-`10.5281/zenodo.21459464`. The live metadata will be updated with the new exact
-version DOIs after Zenodo creates them.
+2026-07-22. The immutable tagged candidate necessarily uses the concept DOIs
+that existed before publication. After archival publication, the live branch
+records the exact reproducibility-package DOI `10.5281/zenodo.21500593` and the
+exact working-paper DOI `10.5281/zenodo.21500605`, while retaining concept DOIs
+`10.5281/zenodo.21448554` and `10.5281/zenodo.21459464` for all-version links.
+
+The GitHub release `v1.2.0` resolves to verified commit `174e4c4`. Zenodo's
+working-paper record identifies version 1.2.0, relates it to the exact package
+DOI, and stores `Numerical_Architecture_of_the_Divine_Names.pdf` at 369,153
+bytes with MD5 `2c2767bfdc504a4e9f38c5c4076ebbd5`, matching the approved local
+file.
 
 ## Scope Boundary
 
@@ -113,4 +119,3 @@ label association.
 The version 1.2.0 public package reproduces every changed analysis and the
 approved 98-page manuscript. The earlier version 1.0.0 and 1.1.0 snapshots and
 their DOIs remain unchanged.
-

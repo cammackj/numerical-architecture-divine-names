@@ -17,16 +17,15 @@ is the substantially revised July 2026 version. Its author is
 
 The complete reader-facing manuscript is published as an open working paper:
 
-- version DOI for manuscript version 1.1.0: [10.5281/zenodo.21459465](https://doi.org/10.5281/zenodo.21459465);
+- version DOI for manuscript version 1.2.0: [10.5281/zenodo.21500605](https://doi.org/10.5281/zenodo.21500605);
 - concept DOI for all working-paper versions: [10.5281/zenodo.21459464](https://doi.org/10.5281/zenodo.21459464).
 
 The working-paper record is the preferred manuscript citation. It identifies
 the PDF as a publication and links this repository's archived release as its
 reproducibility package.
 
-The approved version 1.2.0 manuscript is now present on `main`. The latest
-immutable working-paper archive remains version 1.1.0 until the corresponding
-Zenodo version is published; the concept DOI above remains the stable
+The approved version 1.2.0 manuscript is present on `main` and preserved in the
+immutable working-paper archive above. The concept DOI remains the stable
 all-version identifier.
 
 ## Open Review
@@ -44,21 +43,20 @@ make the evidence, methods, alternatives, and limits easier to examine.
 
 ## Reproducibility Package Releases
 
-The version 1.1.0 research package contains the manuscript source, analysis
-code, data, and the bounded Psalm 22 and complete two-digit base-12 repdigit
-ladder investigations:
+The version 1.2.0 research package contains the manuscript source, analysis
+code, data, and the bounded Psalm 22, complete two-digit base-12 repdigit
+ladder, chapter-closure census, and distinct-value base-ranking investigations:
 
-- version DOI for the exact release: [10.5281/zenodo.21450852](https://doi.org/10.5281/zenodo.21450852);
+- version DOI for the exact release: [10.5281/zenodo.21500593](https://doi.org/10.5281/zenodo.21500593);
 - concept DOI for the continuing project: [10.5281/zenodo.21448554](https://doi.org/10.5281/zenodo.21448554);
-- immutable GitHub snapshot: [`v1.1.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.1.0).
+- immutable GitHub snapshot: [`v1.2.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.2.0).
 
+Version 1.1.0 remains preserved under DOI
+[10.5281/zenodo.21450852](https://doi.org/10.5281/zenodo.21450852) and GitHub
+tag [`v1.1.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.1.0).
 Version 1.0.0 remains preserved under DOI
 [10.5281/zenodo.21448555](https://doi.org/10.5281/zenodo.21448555) and GitHub
 tag [`v1.0.0`](https://github.com/cammackj/numerical-architecture-divine-names/releases/tag/v1.0.0).
-
-The approved version 1.2.0 package is being prepared from the current `main`
-branch. Its exact DOI will be recorded only after Zenodo creates the immutable
-archive.
 
 ## Manuscript
 
@@ -117,9 +115,9 @@ root, subject to ordinary PDF metadata differences.
 
 ## Reuse and Citation
 
-Citation metadata for the version 1.1.0 working paper and its supporting
+Citation metadata for the version 1.2.0 working paper and its supporting
 reproducibility package is provided in [`CITATION.cff`](CITATION.cff). Cite the
-working-paper DOI `10.5281/zenodo.21459465` when referring to the manuscript.
+working-paper DOI `10.5281/zenodo.21500605` when referring to the manuscript.
 
 The manuscript, figures, documentation, and the author's copyrightable data
 contributions are licensed under CC BY 4.0. Python analysis code is licensed
